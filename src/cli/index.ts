@@ -3,6 +3,16 @@ import { Command } from 'commander';
 import chalk from 'chalk';
 import { THEMES } from '../designs/themes.js';
 import { execSync } from 'child_process';
+import { MapboxDataService } from '../core/MapboxDataService.js';
+import { CsvProcessor } from '../core/CsvProcessor.js';
+import path from 'path';
+import { fileURLToPath } from 'url';
+import dotenv from 'dotenv';
+
+dotenv.config();
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const program = new Command();
 
@@ -33,6 +43,37 @@ program
       console.log(`  ${theme.description}`);
       console.log(`  Style: ${theme.mapboxStyle}\n`);
     });
+  });
+
+program
+  .command('dataset:upload')
+  .description('Upload krakow.csv data to Mapbox Datasets')
+  .option('-i, --id <string>', 'Dataset ID (e.g. krakow-investments)')
+  .action(async (options) => {
+    const accessToken = process.env.MAPBOX_ACCESS_TOKEN || '';
+    if (!accessToken) {
+      console.error(chalk.red('Error: MAPBOX_ACCESS_TOKEN not found in .env'));
+      return;
+    }
+
+    const datasetId = options.id || 'krakow-investments';
+    const csvPath = path.join(__dirname, '../../reference/krakow.csv');
+    
+    console.log(chalk.blue(`Reading ${csvPath}...`));
+    const points = CsvProcessor.parsePoints(csvPath);
+    const geoJson = CsvProcessor.toGeoJson(points);
+
+    const dataService = new MapboxDataService(accessToken);
+    
+    try {
+      // First try to upload. If dataset doesn't exist, we might need to create it manually or via another command
+      // For now, let's assume the user provides a valid ID or we use a default
+      console.log(chalk.yellow(`Starting upload to dataset: ${datasetId}`));
+      await dataService.uploadToDataset(datasetId, geoJson);
+      console.log(chalk.green('SUCCESS: Data uploaded to Mapbox Datasets.'));
+    } catch (err: any) {
+      console.error(chalk.red(`Error: ${err.message}`));
+    }
   });
 
 program.parse(process.argv);

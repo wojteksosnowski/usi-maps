@@ -38,5 +38,26 @@ export const THEMES: Record<string, Theme> = {
     mapboxStyle: 'mapbox/light-v11',
     description: 'Minimalist grayscale map for professional reporting.',
     defaultMarkers: { color: '#000000', size: 'large' }
+  },
+  'design-system-light': {
+    id: 'design-system-light',
+    name: 'Design System Light',
+    mapboxStyle: 'mapbox/light-v11',
+    description: 'Clean theme based on Paper and Graphite colors. No labels optimized.',
+    defaultMarkers: { color: '#E5145B', size: 'large' } // Magenta primary
+  },
+  'design-system-dark': {
+    id: 'design-system-dark',
+    name: 'Design System Dark',
+    mapboxStyle: 'mapbox/dark-v11',
+    description: 'Professional dark theme using Ink and Slate colors.',
+    defaultMarkers: { color: '#2E86C8', size: 'large' } // Blue primary
+  },
+  'dusk-neutral': {
+    id: 'dusk-neutral',
+    name: 'Dusk Neutral',
+    mapboxStyle: 'wsos/cmp1a9imt004q01s77wg97clu',
+    description: 'Comprehensive Dusk palette (Full Layer Coverage) on map. Neutral markers on top.',
+    defaultMarkers: { color: '#1B1C1E', size: 'large' }
   }
 };

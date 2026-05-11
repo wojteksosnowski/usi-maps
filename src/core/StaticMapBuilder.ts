@@ -25,7 +25,7 @@ export class StaticMapBuilder {
   }
 
   buildUrl(options: StaticMapOptions): string {
-    const {
+    let {
       ownerId = 'mapbox',
       styleId,
       longitude,
@@ -39,6 +39,13 @@ export class StaticMapBuilder {
       overlays = []
     } = options;
 
+    // If styleId contains a slash (e.g., "mapbox/dark-v11"), split it
+    if (styleId.includes('/')) {
+      const parts = styleId.split('/');
+      ownerId = parts[0];
+      styleId = parts[1];
+    }
+
     const request = this.staticClient.getStaticImage({
       ownerId,
       styleId,
@@ -51,6 +58,8 @@ export class StaticMapBuilder {
         pitch
       },
       highRes,
+      logo: false,
+      attribution: false,
       overlays
     });
 

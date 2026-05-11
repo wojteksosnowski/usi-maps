@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>usi-maps | Premium Preview</title>
+    <style>
+        :root {
+            --primary: #6366f1;
+            --bg: #0f172a;
+            --card: #1e293b;
+            --text: #f8fafc;
+            --muted: #94a3b8;
+        }
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            margin: 0;
+            display: flex;
+            height: 100vh;
+        }
+        .sidebar {
+            width: 350px;
+            background-color: var(--card);
+            border-right: 1px solid #334155;
+            padding: 2rem;
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+            overflow-y: auto;
+        }
+        .main {
+            flex: 1;
+            padding: 2rem;
+            display: flex;
+            flex-direction: column;
+            gap: 2rem;
+            align-items: center;
+            justify-content: center;
+        }
+        h1 { font-size: 1.5rem; margin: 0; color: var(--primary); }
+        .input-group { display: flex; flex-direction: column; gap: 0.5rem; }
+        label { font-size: 0.875rem; color: var(--muted); }
+        input, select {
+            background: #0f172a;
+            border: 1px solid #334155;
+            color: white;
+            padding: 0.75rem;
+            border-radius: 0.5rem;
+            font-size: 1rem;
+        }
+        button {
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            padding: 1rem;
+            border-radius: 0.5rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: opacity 0.2s;
+        }
+        button:hover { opacity: 0.9; }
+        .preview-container {
+            width: 100%;
+            max-width: 800px;
+            aspect-ratio: 3/2;
+            background: #0f172a;
+            border-radius: 1rem;
+            overflow: hidden;
+            border: 1px solid #334155;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        img { width: 100%; height: 100%; object-fit: cover; }
+        .params-panel {
+            width: 100%;
+            max-width: 800px;
+            max-height: 250px;
+            overflow-y: auto;
+            background: #1e293b;
+            padding: 1.5rem;
+            border-radius: 0.5rem;
+            font-family: monospace;
+            font-size: 0.875rem;
+            color: #10b981;
+            white-space: pre-wrap;
+            word-break: break-all;
+            border-left: 4px solid var(--primary);
+        }
+        .status { font-size: 0.875rem; color: var(--muted); }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <h1>usi-maps Preview</h1>
+        <div class="input-group">
+            <label>Theme</label>
+            <select id="theme">
+                <option value="standard-light">Standard Light</option>
+                <option value="deep-dark">Deep Dark</option>
+                <option value="vibrant-satellite">Vibrant Satellite</option>
+                <option value="minimal-mono">Minimal Mono</option>
+                <option value="design-system-light">Design System Light (Clean)</option>
+                <option value="design-system-dark">Design System Dark (Ink)</option>
+                <option value="dusk-neutral" selected>USI Atmospheric Dusk (Default)</option>
+            </select>
+        </div>
+        <div class="input-group">
+            <label for="lat">Latitude</label>
+            <input type="number" id="lat" value="50.061" step="0.001">
+        </div>
+        <div class="input-group">
+            <label for="lng">Longitude</label>
+            <input type="number" id="lng" value="19.934" step="0.001">
+        </div>
+        <div class="input-group">
+            <label>Zoom</label>
+            <input type="number" id="zoom" value="12" step="0.1">
+        </div>
+        <div class="input-group">
+            <label>Markers (lng,lat,val;...)</label>
+            <input type="text" id="markers" placeholder="21.01,52.22,75">
+            <small style="color: var(--muted); font-size: 0.7rem;">Value 0-100 controls color (green-red) and size.</small>
+        </div>
+        <button id="generate">Generate Preview</button>
+        <button id="load-csv" style="background: var(--accent); margin-top: 0.5rem;">Visualize krakow.csv (Clustered Pins)</button>
+        <button id="load-hybrid" style="background: #10b981; margin-top: 0.5rem;">Hybrid Rendering (Unlimited Circles)</button>
+        <div id="status" class="status">Ready</div>
+    </div>
+    <div class="main">
+        <div class="preview-container" id="preview">
+            <p style="color: var(--muted)">Click Generate to see the map</p>
+        </div>
+        <div class="params-panel" id="params">
+            Parameters and URL will appear here...
+        </div>
+    </div>
+
+    <script>
+        const generateBtn = document.getElementById('generate');
+        const preview = document.getElementById('preview');
+        const paramsPanel = document.getElementById('params');
+        const status = document.getElementById('status');
+
+        generateBtn.onclick = async () => {
+            status.innerText = 'Generating...';
+            const theme = document.getElementById('theme').value;
+            const lat = document.getElementById('lat').value;
+            const lng = document.getElementById('lng').value;
+            const zoom = document.getElementById('zoom').value;
+            const markers = document.getElementById('markers').value;
+
+            const url = `/static-map?theme=${theme}&lat=${lat}&lng=${lng}&zoom=${zoom}&markers=${encodeURIComponent(markers)}`;
+
+            try {
+                const response = await fetch(url);
+                const data = await response.json();
+
+                if (data.url) {
+                    preview.innerHTML = `<img src="${data.url}" alt="Map Preview">`;
+                    paramsPanel.innerText = JSON.stringify({
+                        endpoint: '/static-map',
+                        parameters: { theme, lat, lng, zoom, markers },
+                        mapbox_url: data.url
+                    }, null, 2);
+                    status.innerText = 'Generated successfully';
+                } else {
+                    status.innerText = 'Error: No URL returned';
+                }
+            } catch (err) {
+                status.innerText = 'Error connecting to server';
+                console.error(err);
+            }
+        };
+        document.getElementById('load-csv').addEventListener('click', async () => {
+            const theme = document.getElementById('theme').value;
+            const status = document.getElementById('status');
+            
+            status.textContent = 'Processing CSV...';
+            status.className = 'status loading';
+
+            try {
+                const response = await fetch(`/map/csv?theme=${theme}`);
+                const data = await response.json();
+                
+                if (data.error) throw new Error(data.error);
+
+                document.getElementById('preview').innerHTML = `<img src="${data.url}" alt="Map Preview">`;
+                document.getElementById('params').innerText = JSON.stringify({
+                    points_total: data.points_count,
+                    clusters_shown: data.clusters_count,
+                    theme: theme,
+                    mapbox_url: data.url
+                }, null, 2);
+
+                status.textContent = `Visualized ${data.points_count} points in ${data.clusters_count} clusters`;
+                status.className = 'status success';
+            } catch (err) {
+                status.textContent = 'Error: ' + err.message;
+                status.className = 'status error';
+            }
+        });
+        document.getElementById('load-hybrid').addEventListener('click', async () => {
+            const theme = document.getElementById('theme').value;
+            const lat = document.getElementById('lat').value;
+            const lng = document.getElementById('lng').value;
+            const zoom = document.getElementById('zoom').value;
+            const status = document.getElementById('status');
+            const preview = document.getElementById('preview');
+            const params = document.getElementById('params');
+            
+            status.textContent = 'Rendering Hybrid Map (Directly from server)...';
+            status.className = 'status loading';
+
+            // In hybrid mode, the endpoint returns the image itself
+            const timestamp = Date.now();
+            const imageUrl = `/map/hybrid?theme=${theme}&lat=${lat}&lng=${lng}&zoom=${zoom}&t=${timestamp}`;
+            
+            preview.innerHTML = `<img src="${imageUrl}" alt="Hybrid Map Preview">`;
+            
+            params.innerText = JSON.stringify({
+                mode: 'Hybrid (Server-side composite)',
+                data_source: 'krakow.csv',
+                points_processed: 'All (674)',
+                renderer: 'Sharp + SVG',
+                api_endpoint: imageUrl
+            }, null, 2);
+
+            status.textContent = `Visualized all points using Hybrid Rendering`;
+            status.className = 'status success';
+        });
+    </script>
+</body>
+</html>

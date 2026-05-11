@@ -34,17 +34,32 @@ export class DesignEngine {
   }
 
   /**
-   * Generates a "Glassmorphism" effect by adding semi-transparent polygon overlays 
-   * or specific marker styles. (Simulated for Static Maps)
+   * Generates markers where color and size are determined by a numeric value (0-100 scale recommended).
    */
-  generatePremiumMarkers(coordinates: [number, number][], themeId: string): any[] {
+  generateDataDrivenMarkers(data: { lng: number, lat: number, val: number }[], themeId: string): any[] {
     const theme = THEMES[themeId] || THEMES['standard-light'];
     
-    return coordinates.map(([lng, lat]) => ({
-      marker: {
-        coordinates: [lng, lat],
-        ...theme.defaultMarkers
-      }
-    }));
+    return data.map(point => {
+      // Logic for color: 0 (green) -> 100 (red)
+      const r = Math.floor((point.val / 100) * 255);
+      const g = Math.floor(((100 - point.val) / 100) * 255);
+      const color = `#${this.componentToHex(r)}${this.componentToHex(g)}00`;
+      
+      // Logic for size: val > 50 ? large : small
+      const size = point.val > 50 ? 'large' : 'small';
+
+      return {
+        marker: {
+          coordinates: [point.lng, point.lat],
+          color: color,
+          size: size
+        }
+      };
+    });
+  }
+
+  private componentToHex(c: number): string {
+    const hex = Math.max(0, Math.min(255, c)).toString(16);
+    return hex.length === 1 ? "0" + hex : hex;
   }
 }
