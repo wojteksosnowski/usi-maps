@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "mapbox-style-patterns": {
+      "source": "mapbox/mapbox-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/mapbox-style-patterns/SKILL.md",
+      "computedHash": "f9c363a4fb1d02c501c3aa700e03283eab43a1704d28f6ce4b59c5ddcadf2dd1"
+    },
+    "mapbox-style-quality": {
+      "source": "mapbox/mapbox-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/mapbox-style-quality/SKILL.md",
+      "computedHash": "f4e2b639fc3aa7fc8142f4dee4bb22ac2e6614c018d09dcf109ee963c5cfb43f"
+    }
+  }
+}

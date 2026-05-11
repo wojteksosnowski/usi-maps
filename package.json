@@ -1,0 +1,31 @@
+{
+  "name": "usi-maps",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "bin": {
+    "usi-maps": "./dist/cli/index.js"
+  },
+  "scripts": {
+    "start": "node dist/server/index.js",
+    "dev": "ts-node --esm src/server/index.ts",
+    "build": "tsc",
+    "cli": "ts-node --esm src/cli/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@mapbox/mapbox-sdk": "^0.16.2",
+    "chalk": "^4.1.2",
+    "commander": "^14.0.3",
+    "dotenv": "^17.4.2",
+    "fastify": "^5.8.5",
+    "sharp": "^0.34.5"
+  },
+  "devDependencies": {
+    "@types/mapbox__mapbox-sdk": "^0.16.5",
+    "@types/node": "^25.6.2",
+    "@types/sharp": "^0.31.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  }
+}
