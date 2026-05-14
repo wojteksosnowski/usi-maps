@@ -39,8 +39,16 @@ export class StaticMapBuilder {
       overlays = []
     } = options;
 
-    // If styleId contains a slash (e.g., "mapbox/dark-v11"), split it
-    if (styleId.includes('/')) {
+    // Handle full Mapbox style URIs: mapbox://styles/{owner}/{style}
+    if (styleId.startsWith('mapbox://styles/')) {
+      const path = styleId.replace('mapbox://styles/', '');
+      const parts = path.split('/');
+      if (parts.length === 2) {
+        ownerId = parts[0];
+        styleId = parts[1];
+      }
+    } else if (styleId.includes('/')) {
+      // Handle "owner/style" format
       const parts = styleId.split('/');
       ownerId = parts[0];
       styleId = parts[1];

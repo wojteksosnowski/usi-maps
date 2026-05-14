@@ -1,678 +1,580 @@
-rpReLoadJSON,Widok,Gwiazdki,Ocena,Inwestycja,Deweloper,Region,Termin,Liczba Mieszkań,debug_2,cena min,Latitude,Longitude
-system,,★½,Wstępna,Dąbrowskiego Stare Podgórze,Archicom S.A.,Kraków,,,,,50.0446587,19.9582231
-model,#r3064,⓿¾,Wstępna,Murapol Parki Krakowa,Murapol S.A.,Kraków,3 kw. 2023,"1,021","3,20",0,50.094599424352296,19.92621046822076
-model,#r3071,★★¼,Wstępna,Jerozolimska,Cordia Polska,Kraków,4 kw. 2022,159,"3,6,20,22,24,28",14696,50.03610762086256,19.966882982062856
-model,#r3074,⓿¾,Wstępna,Viva Piast,Victoria Dom S.A.,Kraków,1 kw. 2025,365,"19,20",10489,50.10634947446168,20.011866975335604
-model,#r3086,★★½,Wstępna,Mieszkaj w mieście - etap Pianistów budynek I.,Henniger Investment S.A.,Kraków,1 kw. 2022,141,"2,3,5,6,11,15,18,19,20,28,29",0,50.08386568065739,19.888682635459006
-model,#r3090,⓿½,Wstępna,Kuźnicy Kołłątajowskiej 68,Real-Construct Sp. z o.o.,Kraków,3 kw. 2023,115,"6,11,20,22,28",9000,50.09841715416643,19.95109661294575
-model,#r3093,★¼,Wstępna,Lokum Vista etap IIIb,Lokum Deweloper,Kraków,3 kw. 2023,131,"3,6,7,11,18,19,20,24,26,29",0,50.02440626259386,19.96098446973518
-model,#r3094,★¾,Wstępna,Mazowiecka 115,Des Henryk Dowgier Anna Dowgier,Kraków,3 kw. 2026,86,"20,29,31",19710,50.07737336399814,19.920365335503874
-model,#r4816,★½,Wstępna,Osiedle przy Malborskiej,Dom Development S.A.,Kraków,1 kw. 2024,70,"2,22,28,29",17950,50.02022567840251,19.962346043763254
-model,#r3103,★¼,Wstępna,Osiedle Górka Narodowa,Dom Development S.A.,Kraków,4 kw. 2023,490,"2,3,10,20,22,28,29,31",13700,50.10085094858678,19.953894081248226
-model,#r3112,★★,Wstępna,Mieszkaj w Mieście - etap Poetów budynek K,Henniger Investment S.A.,Kraków,1 kw. 2023,224,"2,3,6,11,12,15,18,19,20,22,24,28,29",13435,50.08654359369402,19.88576520291305
-model,#r3122,⓿½,Wstępna,Osiedle Ozon etap V,Megapolis Development,Kraków,4 kw. 2022,183,"3,6,19,20,22,31",13073,50.10203941404777,19.963010241199243
-model,#r3122,⓿½,Wstępna,Osiedle Ozon etap VI,Megapolis Development,Kraków,2 kw. 2023,236,"3,6,19,20,22,31",12826,50.10208975869758,19.96305723129649
-model,#r3125,★¾,Wstępna,Osiedle Lasówka etap II,Stylhut Plus Sp. z o.o.,Kraków,,124,"3,20,29,34",12700,50.049133157070486,19.99430998976583
-model,#r3129,★¾,Wstępna,29. Aleja,Dom Development S.A.,Kraków,4 kw. 2024,149,1,19200,50.078844217385814,19.951034335526316
-model,#r3130,★★¾,Wstępna,Cieszyńska 9 budynek B i C,Palladio Cieszyńska 9 Pasek Paluch sp. K.,Kraków,4 kw. 2024,157,1,20840,50.07495990684669,19.93168431080886
-model,#r3167,⓿¾,Wstępna,Pękowicka 94,Real-Construct Sp. z o.o.,Kraków,4 kw. 2025,24,1,14300,50.10091424669486,19.914614755090156
-model,#r3168,★½,Wstępna,Centralna Vita,Develia,Kraków,1 kw. 2026,371,1,11499,50.05864754170712,20.01240180170109
-model,#r3169,⓿½,Wstępna,Murapol Mateczniq,Murapol S.A.,Kraków,4 kw. 2024,187,1,0,50.03652,19.93128
-model,#r3171,★¾,Wstępna,Ocean Apartments,Resi Capital S.A.,Kraków,1 kw. 2024,120,1,16500,50.04773847086744,19.973566863750168
-model,#r3172,★★,Wstępna,Apartamenty Park Matecznego Etap 1,Dom Development S.A.,Kraków,4 kw. 2025,26,1,16700,50.035682723816144,19.937273043357767
-model,#r3173,★½,Wstępna,29. Aleja etap 2,Dom Development S.A.,Kraków,3 kw. 2026,166,1,14600,50.07872464245437,19.950782877926734
-model,#r3174,★½,Wstępna,Grzegórzecka 77,Develia,Kraków,2 kw. 2026,86,1,0,50.056678757594206,19.967321224706954
-model,#r3175,★¾,Wstępna,Craft Zabłocie,Cordia Polska,Kraków,4 kw. 2025,94,1,19335,50.050450023798426,19.966143274472707
-model,#r3176,★,Poszerzona,Osiedle Górka Narodowa etap 5,Dom Development S.A.,Kraków,4 kw. 2025,113,1,13500,50.10007407644052,19.95543256838149
-model,#r3177,★★¼,Wstępna,Portowa Zabłocie,YIT Development Sp. z o.o.,Kraków,4 kw. 2025,156,1,18245,50.05111294256829,19.970145195688605
-model,#r3102,★¾,Wstępna,Osiedle przy Malborskiej II,Dom Development S.A.,Kraków,4 kw. 2026,159,1,15900,50.02052465059213,19.962298033113544
-model,#r3178,★¼,Wstępna,City Vibe,Develia,Kraków,4 kw. 2025,125,1,11899,50.045401432717576,19.99768571497244
-model,#r3179,⓿½,Wstępna,Bochenka Vita,Develia,Kraków,4 kw. 2024,140,1,0,50.010912670867874,19.977636232404855
-model,#r3180,★¼,Wstępna,FORTnatura,Frax-Bud Franciszek Drożdż,Kraków,3 kw. 2024,342,1,15897,50.08364928941385,19.927610204347822
-model,#r3181,★¾,Wstępna,Apartamenty Składowa,KRAK-KOLOR SKŁADOWA SP. Z O.O.,Kraków,2 kw. 2025,85,1,15000,50.0798920668405,19.931986750945235
-model,#r3182,★★¾,Wstępna,Vido,EKOPARK,Kraków,3 kw. 2024,34,1,0,50.07285,19.9859
-model,#r3183,★★¾,Wstępna,Koletek 3,GSS Property Suwaj,Kraków,1 kw. 2024,21,1,36000,50.05242922871782,19.93945054536003
-model,#r3184,★¼,Wstępna,Czerwieńskiego 3,Real-Construct Sp. z o.o.,Kraków,2 kw. 2024,85,1,14449,50.08639586482012,19.903378675556578
-model,#r3185,★¾,Wstępna,Mieszkaj w Mieście - Zacisze Banacha,Henniger Investment S.A.,Kraków,2 kw. 2023,108,1,14799,50.10128634286417,19.960476901842345
-model,#r3186,★★,Wstępna,Forma Otwarta,EKOPARK,Kraków,4 kw. 2024,128,1,12628,50.09280961959625,19.890339009205995
-model,#r3187,★★¼,Wstępna,Skowronia,Urba Sp. z o.o.,Kraków,1 kw. 2026,24,1,,50.024754619492185,19.968001105733798
-model,#r3188,★★,Wstępna,Kosocicka Forest,Hammak,Kraków,4 kw. 2026,38,1,11047,50.00402525503393,19.99651539791199
-model,#r3189,★¾,AI,Proste Kąty,Leach & Lang,Kraków,4 kw. 2024,12,1,,50.0848027362447,19.91320942202911
-model,#r3190,★¾,Wstępna,Sołtysowska,Sołtysowska Sp. z o.o.,Kraków,3 kw. 2025,73,1,14742,50.064165383953224,20.02147523673975
-model,#r3191,★½,Wstępna,Dąbska Pools,Dasta Invest Sp. z o.o.,Kraków,3 kw. 2025,132,1,18253,50.06557039148139,19.985278381619587
-model,#r3192,★★,Wstępna,Łepkowskiego 11,Grupa Wawel Service,Kraków,2 kw. 2026,43,1,14800,50.0913699645077,19.962924097390587
-model,#r3193,⓿¼,Wstępna,Piasta Park VI,Grupa Wawel Service,Kraków,4 kw. 2026,118,1,11200,50.10343272748462,20.017408464970483
-model,#r3194,★¼,Wstępna,Apartamenty Portowa,Matexi Polska Sp. z o.o.,Kraków,2 kw. 2026,99,1,19200,50.050712580734405,19.970348841770978
-model,#r3195,★¾,Wstępna,Apartamenty Maestro,Awim Grupa Inwestycyjna,Kraków,2 kw. 2025,78,1,13000,50.01511043562481,20.026680277857032
-model,#r3196,⓿,Wstępna,Podgórska Park,Platforma Mieszkaniowa,Kraków,2 kw. 2024,18,1,0,49.97932764253581,20.02323315116138
-model,#r3197,⓿,Wstępna,Osiedle Symbioza etap IV,Rogala Development Sp. z o.o.,Kraków,2 kw. 2026,111,1,12292,50.06228671919969,20.02369425363821
-model,#r3198,★¼,AI,Cechowa Park,MB Development,Kraków,3 kw. 2025,44,1,,50.00504424714087,19.94524790693405
-model,#r3199,★★¼,Poszerzona,Apartamenty Wybickiego 2.0,GVD Sp. z o.o.,Kraków,3 kw. 2025,43,1,14900,50.083271574559305,19.91865447059392
-model,#r3200,★★½,Wstępna,Faktoria Młyn,Faktoria Młyn Sp. z o. o.,Kraków,3 kw. 2025,62,1,14069,50.086527323892035,20.0375596087886
-model,#r3201,★★,Wstępna,Przewóz 42 ATAL,ATAL S.A.,Kraków,4 kw. 2025,126,1,12117,50.04156422057281,19.998216213424886
-model,#r3202,★¼,Wstępna,Do Wilgi,Matexi Polska Sp. z o.o.,Kraków,4 kw. 2025,100,1,15819,50.02272,19.93253
-model,#r3203,★,Wstępna,Piasta Towers bud. 86 i 86A,INTER-BUD Developer Sp. z o.o.,Kraków,2 kw. 2025,130,1,12200,50.1043621997815,20.010546414160654
-model,#r3204,★¾,Wstępna,Mieszkaj w mieście - Etap Odkrywców L,Henniger Investment S.A.,Kraków,2 kw. 2024,130,1,14400,50.087824381660496,19.88639687292741
-model,#r3205,★½,Wstępna,Nowa Pszczelna,Nowy Ląd Sp. z o.o.,Kraków,3 kw. 2024,26,1,13300,50.024487872771765,19.916533436264103
-model,#r3206,★,Wstępna,Viva Piast 5,Victoria Dom S.A.,Kraków,3 kw. 2025,99,1,15200,50.10620791848944,20.01129763833947
-model,#r3207,★★,Wstępna,Nowa Siewna etap III,Super Krak S.A.,Kraków,4 kw. 2024,61,1,12528,50.09367168708252,19.95995842634185
-model,#r3208,★★¼,AI,Emaus 41,Sun House,Kraków,3 kw. 2025,8,1,,50.06062115262911,19.897893155419116
-model,#r3209,★½,Wstępna,Glogera bud. H,Dom-Bud M. Szaflarski Sp. j.,Kraków,4 kw. 2024,37,1,12800,50.09915613423948,19.926038547068277
-model,#r3210,★★¼,Wstępna,SoHo Residence II,Terra Casa S.A.,Kraków,2 kw. 2025,53,1,22000,50.056606158614585,19.954881562320658
-model,#r3211,⓿½,Wstępna,ul. Powstańców/os. Piastów bud. E,Dom-Bud M. Szaflarski Sp. j.,Kraków,2 kw. 2025,115,1,14700,50.10583678895116,20.015355832639923
-model,#r3212,★★,Wstępna,Federowicza – Ruczaj Park,HSD Inwestycje,Kraków,2 kw. 2026,116,1,13600,50.0151151150933,19.882585484725674
-model,#r3213,⓿½,Wstępna,Conrada 27,MJM Conrada Sp. z o.o.,Kraków,4 kw. 2025,144,1,13010,50.08865,19.90301
-model,#r3214,★,Wstępna,Kapelanka - Pychowicka - budynek CD,Budrem  Kraków,Kraków,3 kw. 2025,102,1,18000,50.03392495343905,19.91973451378626
-model,#r3215,⓿½,Wstępna,Podedworze 13,EKOPARK,Kraków,4 kw. 2025,220,1,12600,50.012740825765775,19.976862910708423
-model,#r3216,★★,Wstępna,Na Wzgórzach,J.W. Construction Holding S.A.,Kraków,4 kw. 2023,37,1,9800,49.87339346462216,19.962068077919383
-model,#r3217,★,Poszerzona,Strefa Cegielnia 2,ATAL S.A.,Kraków,2 kw. 2025,134,1,10640,50.108647760439645,20.043523890117626
-model,#r3218,⓿½,Wstępna,Strzelców 28,MFC Development,Kraków,3 kw. 2025,107,1,13600,50.097846340268354,19.974656539631624
-model,#r3219,⓿¼,Wstępna,Ecco Panorama,PM-Development Sp. z o.o.,Kraków,3 kw. 2025,101,1,10400,50.00279092792036,20.06281280046946
-model,#r3220,★,Wstępna,Viva Piast 4,Victoria Dom S.A.,Kraków,4 kw. 2024,81,1,0,50.10622689230716,20.011274069960677
-model,#r3221,⓿,Wstępna,Przewóz 4,Grupa Proins,Kraków,1 kw. 2026,127,1,13000,50.0451,19.98536
-model,#r3222,★,Wstępna,Stawowa,Dom-Bud M. Szaflarski Sp. j.,Kraków,4 kw. 2023,26,1,14400,50.099718019487995,19.876026042118898
-model,#r3223,⓿¾,Wstępna,City Łobzów,Des Henryk Dowgier Anna Dowgier,Kraków,2 kw. 2025,205,1,12999,50.08173,19.90835
-model,#r3224,★,Wstępna,Kameralny Prokocim 2,Matexi Polska Sp. z o.o.,Kraków,2 kw. 2025,49,1,13611,50.01528,19.98827
-model,#r3225,★★¼,Wstępna,Villa Botanica,GRUPA LANDESKRONE,Kraków,3 kw. 2024,18,1,19500,50.06052047841856,19.957272181802228
-model,#r3226,★★½,Wstępna,Łokietka Park Lane,Hammak,Kraków,4 kw. 2025,56,1,10955,50.099550242251915,19.90887725571531
-model,#r3227,★★¾,Wstępna,Dominikanów,Dasta Invest Sp. z o.o.,Kraków,1 kw. 2025,53,1,13156,50.087161589221665,19.96402642620808
-model,#r3229,★★¾,Wstępna,LINDEGO2,Noho Investment,Kraków,2 kw. 2025,248,1,15225,50.079313540339975,19.879742595147814
-model,#r3230,★¼,Wstępna,Domosfera II,Bryksy,Kraków,4 kw. 2024,128,1,0,50.092159465843324,19.987068344265914
-model,#r3231,★½,AI,Zielone Mogilany,Grupa Wawel Service,Kraków,1 kw. 2023,28,1,,49.937102158045256,19.903927601694736
-model,#r3232,⓿,Wstępna,Start City etap IV,Grupa Deweloperska START,Kraków,2 kw. 2025,87,1,13770,50.0164484460456,20.001805214060894
-model,#r3233,★,AI,Alchemik74 - lokale użytkowe,Grupa Arkada,Kraków,3 kw. 2025,13,1,,50.038315173822085,19.941177329982107
-model,#r3234,★¾,Wstępna,Skwer Harmonia,ATAL S.A.,Kraków,2 kw. 2024,150,1,10090,50.039775211158144,20.04238688487541
-model,#r3235,★¾,Wstępna,Strefa Cegielnia,ATAL S.A.,Kraków,2 kw. 2024,144,1,10337,50.10881540844069,20.043520247297163
-model,#r3236,★★★¼,Wstępna,Libra Residence,MFC Development,Kraków,2 kw. 2024,52,1,27500,50.058769314429284,19.94583816698479
-model,#r3237,★,Wstępna,Arka Nova,Optimum Inwestycje Optimum Sp. z o.o. Sp. Komandytowa,Kraków,4 kw. 2023,67,1,9100,49.97539716203017,19.85918605151536
-model,#r3238,★★,Wstępna,Sitowie,Urba Sp. z o.o.,Kraków,1 kw. 2024,121,1,13200,50.01491817197441,19.90938077192374
-model,#r3239,★,Wstępna,Wzgórze Wielickie,HRMS Invest,Kraków,1 kw. 2024,112,1,0,50.00001587583524,20.048853053564642
-model,#r3240,★★★,Wstępna,Młyny Mogilska,Noho Investment,Kraków,4 kw. 2024,422,1,20105,50.070545090034486,19.981469487735414
-model,#r3241,★★,Wstępna,Na Błonie 106,Grupa Wawel Service,Kraków,4 kw. 2023,29,1,19500,50.07288964552434,19.877544815563134
-model,#r3242,★★½,Wstępna,Emaus Garden,Grupa Matejek,Kraków,4 kw. 2023,125,1,20000,50.0656530449911,19.889862682953545
-model,#r3243,⓿¼,Wstępna,Turniejowa 59,EKOPARK,Kraków,3 kw. 2023,121,1,13335,50.010773814747296,19.960346257015523
-model,#r3244,★★,Wstępna,Green Park Villa etap III,Imperial Capital,Kraków,3 kw. 2023,84,1,13900,50.09059188721849,19.87208580649832
-model,#r3245,★★¾,Wstępna,Illumina,Excon S.A.,Kraków,2 kw. 2024,145,1,11280,50.01120600976093,20.010823163112903
-model,#r3246,★¾,Wstępna,Mieszkaj w mieście - etap Reżyserów budynek J,Henniger Investment S.A.,Kraków,4 kw. 2022,177,1,0,50.08507152756373,19.88713954959425
-model,#r4487,★★¼,AI,Tesoro Verde Residence,Techniq,Kraków,4 kw. 2023,28,1,,50.01120670786947,19.936517640572575
-model,#r3248,★¾,Wstępna,Life Hub,Urba Sp. z o.o.,Kraków,2 kw. 2022,30,1,23000,50.07308689428253,19.923336383921807
-model,#r3249,★¾,Wstępna,Slow City,EKOPARK,Kraków,3 kw. 2023,224,1,13200,50.100042216670715,19.920859507900836
-model,#r3250,⓿½,Wstępna,Apartamenty przy Parku,Murapol S.A.,Kraków,4 kw. 2021,10,1,0,49.991413215862806,20.041315461492005
-model,#r3251,★★★½,Wstępna,Długa Residence,Platforma Mieszkaniowa,Kraków,1 kw. 2024,38,1,0,50.06799939276065,19.9383219131385
-model,#r3252,★★,Wstępna,Art City,EKOPARK,Kraków,1 kw. 2020,415,1,18000,50.06121266751753,19.97176492730197
-model,#r3170,⓿¾,Wstępna,Słoneczne Miasteczko,Develia,Kraków,2 kw. 2026,165,1,10750,50.0209389289578,20.05899613645359
-system,#r3939,★★★¼,Wstępna,Pod Jesionem,VESDOM DEVELOPMENT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,Kraków,4 kw. 2025,6,,,50.086032579116,19.877154291034
-system,#r3940,⓿½,Wstępna,Apartamenty Radzikowskiego,RADZIKOWSKIEGO APV SP. Z O.O.,Kraków,2 kw. 2025,46,,12500,50.08474,19.899965
-system,#r3941,⓿¼,Wstępna,Osiedle Pasteura Etap IV,Tętnowski Development,Kraków,1 kw. 2026,33,,1,50.097370149854,19.933248832857
-system,#r3943,⓿¾,Wstępna,EkoSucharskiego,Sucharskiego,Kraków,3 kw. 2024,16,,1,50.018152060018,20.044281416133
-system,#r3944,⓿¾,Wstępna,Nowe mieszkania od 31m2 do 45m2 - Nowa Huta,Invest House,Kraków,3 kw. 2025,32,,12000,50.071534677111,20.140286799523
-model,#r3945,★¾,Wstępna,Osiedle Kołłątajówka,Spravia,Kraków,4 kw. 2026,108,1,11500,50.09928768677168,19.960959295206724
-model,#r3947,★★½,Wstępna,La Vie House,Imperial Capital,Kraków,2 kw. 2026,255,1,14800,50.03133014759222,19.942920286927965
-model,#r3948,★¼,AI,Stelmachów 205,Zabielny Invest Sp. j.,Kraków,2 kw. 2025,16,1,14200,50.09771153570551,19.89690137029462
-model,#r3949,★,Wstępna,Casa Feliz Portowa,Casa Feliz Portowa Sp. z o.o.,Kraków,4 kw. 2025,90,1,14915,50.04850289011444,19.974104436705396
-model,#r3952,⓿½,Wstępna,Pękowicka 96,Hopfen Sp. z o.o.,Kraków,4 kw. 2025,27,1,13900,50.10126197500432,19.914553929874415
-system,#r3953,★¼,AI,Nowa Drożdżownia,Tętnowski Development,Kraków,4 kw. 2025,53,,1,50.013340641114,20.040257052917
-model,#r3954,★★,Wstępna,Osiedle Imbramowskie,TDJ Estate,Kraków,2 kw. 2026,212,1,14300,50.088431398510934,19.95040869908896
-system,#r3955,★¼,AI,Zgodna Park,BROTHERM DEVELOPMENT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,Kraków,2 kw. 2026,24,,8900,49.98052974746,19.904825560513
-system,#r3956,★★,Wstępna,Weduta Krakowa,Architecture Vento,Kraków,4 kw. 2025,55,,13349,50.10692,19.9608
-system,#r3957,★¾,Wstępna,Apartamenty Gdyńska,APARTAMENTY GDYŃSKA,Kraków,3 kw. 2025,96,,13484,50.091440624308,19.912784271164
-system,#r3958,★½,Wstępna,Wiślane Klimaty,Start,Kraków,1 kw. 2026,69,,13300,50.046219117752,19.996890414415
-system,#r3959,★,Wstępna,Słomczyńskiego Widoki,Caba Development,Kraków,1 kw. 2026,89,,13149,50.099,19.95869
-model,#r3960,★½,Wstępna,Moderno Łobzów,Ardekon,Kraków,4 kw. 2023,91,1,14016,50.08004775433446,19.930843688381096
-system,#r3961,★★,Wstępna,Wzgórze Krzemionki,Matejek Sp. z o.o.,Kraków,kw.,62,,1,50.035390470471,19.966565249126
-system,#r3962,★¼,AI,SHED Living Kraków,Project Development 6 Sp z o.o.,Kraków,4 kw. 2023,5,,,50.063053,19.908203
-model,#r3963,★¼,Wstępna,Staw Płaszowski II,Activ Investment Sp. z o.o.,Kraków,2 kw. 2026,31,1,13800,50.0377239250895,19.975810153498266
-system,#r3964,★★¼,Wstępna,Merite Serena,Deweloper MERITE FLORA A. Gilarska i wspólnicy sp. komandytowa,Kraków,3 kw. 2025,49,,13700,50.016327246041,20.024905382385
-system,#r3965,★¼,AI,Janowskiego Park,Libbud Plus Zięba Spółka Jawna,Kraków,kw.,8,,11644,50.006214,19.912565
-system,#r3966,★¼,Wstępna,Osiedle Ozon,Megapolis Development,Kraków,2 kw. 2025,"1,474",,1,50.1019717,19.961148
-system,#r3967,⓿¼,Wstępna,Bukowe Zacisze,Bukowe Zacisze 2E Developer sp. z o.o. sp. k.,Kraków,1 kw. 2024,54,,8850,50.1224,19.884033
-system,#r3968,⓿,Wstępna,Link Bunscha,Megapolis Development,Kraków,2 kw. 2024,102,,1,50.016103962597,19.885244542329
-system,#r3969,★★,Wstępna,Gaik II,GIZA,Kraków,kw.,20,,12190,50.094456,19.937271
-system,#r3971,★★,Wstępna,Willa Zalesie,Nokturn Deweloper,Kraków,4 kw. 2025,36,,14500,50.020843291019,19.90787679266
-system,#r3973,⓿½,Wstępna,Glogera 32 | w harmonii z naturą,Realimpex Inwestycje Sp. z o.o.,Kraków,4 kw. 2024,55,,13689,50.103310238615,19.927108342329
-model,#r3974,★★,Wstępna,U Przybyszewskiego,EKOPARK,Kraków,2 kw. 2023,206,1,17950,50.068808184063606,19.89139628970853
-system,#r3975,★★½,Wstępna,Green Square Apartments,Arfa Invest,Kraków,3 kw. 2023,59,,14838,50.095202682218,19.984471222091
-model,#r3228,★★,Wstępna,5cubes,KRK ESTATE,Kraków,4 kw. 2024,84,1,14000,50.0953892956946,19.903747515060243
-system,#r3976,★¾,Wstępna,Piasta Towers,INTER-BUD Developer Sp. z o.o.,Kraków,4 kw. 2023,903,,10900,50.104755578014,20.010905144775
-model,#r3977,★★★½,Wstępna,Wiślane Tarasy 2.0,INTER-BUD Developer Sp. z o.o.,Kraków,2 kw. 2022,865,1,25000,50.05507552976693,19.96226980288539
-system,#r3978,★★½,Wstępna,Noble Residence,Bartycka Real Estate,Kraków,2 kw. 2023,80,,19900,50.058815,19.929392
-system,#r3980,⓿,Wstępna,Start City,Start,Kraków,2 kw. 2025,94,,13900,50.01531003866,20.00041570462
-model,#r3981,⓿¼,Wstępna,Alchemik,Grupa Arkada,Kraków,2 kw. 2025,13,1,18000,50.038571375000146,19.94137938769371
-system,#r3982,★★½,Wstępna,Mieszkaj w Mieście – etap Poetów (bud. K),Henniger Investment S.A.,Kraków,1 kw. 2023,224,,1,50.087990369055,19.886084001669
-model,#r3983,⓿¾,Wstępna,Osiedle Piltza X,KG Group Sp. z o.o.,Kraków,2 kw. 2024,179,1,1,50.01084374745038,19.889626054818258
-model,#r3984,★,Wstępna,Kapelanka - Pychowicka,Budrem  Kraków,Kraków,3 kw. 2024,113,1,1,50.03329232726616,19.92162118639048
-system,#r3985,★,Wstępna,Bagry – Lipska/Siemienowicza,HSD Inwestycje,Kraków,4 kw. 2023,70,,17600,50.037967720047,19.995769903286
-model,#r3986,★★¼,Wstępna,Greendustry Zabłocie,Quelle Locum Sp. z o.o.,Kraków,4 kw. 2024,125,1,13000,50.04697695942385,19.964369774892898
-model,#r3987,★★¼,Wstępna,Krowodrza Park,Tętnowski Development,Kraków,2 kw. 2023,338,1,1,50.07111917606963,19.91427173340809
-system,#r4286,★½,AI,Łapczyca pod Bochnią,InovaHome Development sp. z o.o.,Kraków,2 kw. 2025,4,,12992,49.957527150492,20.376865019074
-model,#r4306,★¼,AI,Nova Jurajska,Arkon,Kraków,4 kw. 2025,52,1,,50.12772998134735,19.87402919819492
-model,#r4307,★¼,Wstępna,Przewóz 42 ATAL II,ATAL S.A.,Kraków,3 kw. 2026,126,1,12672,50.04146278648608,19.998214180726432
-model,#r4312,★★¼,Wstępna,SoHo Residence I,Terra Casa S.A.,Kraków,4 kw. 2023,97,1,19400,50.05647,19.955
-model,#r4316,⓿½,Wstępna,Kameralna Golikówka,Kameralna Golikówka Sp. z o.o.,Kraków,4 kw. 2025,35,1,13870,50.041583107095654,20.003801420839622
-model,#r4321,★★¼,Wstępna,Barska Forum,Grimbud,Kraków,4 kw. 2026,12,1,0,50.052284824214,19.928436834799975
-model,#r4322,★,Wstępna,Glogera bud. F i G,Dom-Bud M. Szaflarski Sp. j.,Kraków,2 kw. 2025,110,1,13600,50.099244978357945,19.92611149647222
-model,#r4329,★¼,Wstępna,Bona.,EKOPARK,Kraków,4 kw. 2025,244,1,12900,50.025955543923054,19.961206604893057
-model,#r4330,⓿¼,Wstępna,Osiedle Versus,Frax-Bud Franciszek Drożdż,Kraków,3 kw. 2025,70,1,13340,50.013754244039035,19.88122893694878
-model,#r4331,★,Wstępna,Nove Dobczyce,4K Development,Kraków,4 kw. 2026,74,1,10500,49.88059370800473,20.09811872664838
-model,#r4332,★¾,Wstępna,Mierzeja Wiślana etap III,Instal Kraków S.A.,Kraków,4 kw. 2024,200,1,13400,50.036105924642975,20.00316557290304
-model,#r4334,⓿½,Wstępna,Osiedle Mozaika,KG Group Sp. z o.o.,Kraków,3 kw. 2026,184,1,1,50.0976973410558,19.917652980381675
-system,#r4346,★¼,AI,PMreco JASNA 3,PMreco,Kraków,kw.,10,,8700,49.62528780176642,20.727351116394054
-model,#r4438,⓿,Wstępna,Murapol Prado,Murapol S.A.,Kraków,4 kw. 2027,222,1,1,50.098783112406224,19.92250759443424
-system,#r4453,★★½,Wstępna,Matejki Residence,Royal Invest sp. z o.o.,Kraków,kw.,52,,13500,49.831684,19.94153
-system,#r4456,★★,Wstępna,Green Park,Royal Invest sp. z o.o.,Kraków,2 kw. 2025,24,,12500,49.609204099947,19.949598570456
-model,#r4483,★½,Wstępna,Kameralna Piltza,Kameralna PILTZA,Kraków,4 kw. 2024,12,1,0,50.0090562,19.8894788
-model,#r4484,★,Wstępna,Kapelanka-Pychowicka Etap III,Budrem  Kraków,Kraków,3 kw. 2026,139,1,15500,50.0330018,19.9204861
-model,#r4488,⓿¾,Wstępna,Akacjowa Wita,ATAL S.A.,Kraków,3 kw. 2026,100,1,12744,50.08550017898588,19.9812345572536
-system,#r4531,★¼,Wstępna,Geremka Inwestycja,Geremka Inwestycja  Spółka z ograniczoną odpowiedzialnością,Kraków,2 kw. 2025,50,,1,50.003581084561,19.892754813603
-model,#r4533,★★¼,Wstępna,Destino,EKOPARK,Kraków,3 kw. 2025,90,1,20400,50.070296318272796,19.889391958625804
-system,#r4536,★¼,Wstępna,Kameralny Ruczaj,Activ Investment Sp. z o.o.,Kraków,4 kw. 2026,36,,15600,50.025143,19.919598
-model,#r4541,★¾,Wstępna,Wita bud. E,Archicom S.A.,Kraków,4 kw. 2025,180,1,0,50.07273796581176,19.94952992798092
-system,#r4556,★,Niedostateczne dane,Resi4Rent Kraków Błonia,R4R Kraków 3 Maja spółka z ograniczoną odpowiedzialnością,Kraków,kw.,386,,79,50.061092,19.912195
-model,#r4559,★¾,Wstępna,Mieszkaj w mieście - Ogrody Glogera,Henniger Investment S.A.,Kraków,1 kw. 2025,127,1,13763,50.09896556982916,19.931052741719192
-system,#r4570,★½,AI,Lokum Siesta - apartamenty inwestycyjne,Megapolis Development,Kraków,4 kw. 2023,5,,1,50.03424,19.92943
-system,#r4581,⓿,Wstępna,Centralna II,Proins,Kraków,1 kw. 2027,84,,15500,50.065266060513,20.011276209363
-model,#r4587,★★,Wstępna,Look Up House,Imperial Capital,Kraków,2 kw. 2026,140,1,13100,50.095091310422305,19.917225837707527
-system,#r4605,★,Wstępna,Cechowa 100,Hammak,Kraków,4 kw. 2019,2,,8434,50.006946258109,19.972951276513
-system,#r4609,⓿,Niedostateczne dane,Zielona 27,HO-BU POLSKA Sp. z o.o.,Kraków,4 kw. 2024,56,,5605,49.601242,20.692627
-model,#r4636,★★,Wstępna,Forma Otwarta etap II,EKOPARK,Kraków,4 kw. 2025,80,1,12900,50.092802320550064,19.890359812510532
-model,#r4637,★★¼,Wstępna,Cystersów 19 - lokale inwestycyjne,Imperial Capital,Kraków,1 kw. 2026,182,1,,50.06399690463673,19.968249173285066
-model,#r4638,⓿¼,Wstępna,Enklawa Bukowa,Grupa Wawel Service,Kraków,2 kw. 2027,155,1,11000,50.03938198787638,20.049395918958787
-model,#r4639,★¼,Wstępna,Stańczyka 5,Oaza Bronowice,Kraków,4 kw. 2019,94,1,0,50.07818334657414,19.894454025480123
-model,#r4640,⓿¾,Wstępna,Łużycka 71,DDS Development Sp. z o.o. 3 Sp. k.,Kraków,4 kw. 2025,53,1,14600,50.01286862479681,19.9680672318174
-model,#r4692,★¾,Wstępna,Stawowa Residence - etap V,Imperial Capital,Kraków,2 kw. 2025,48,1,13400,50.096456919326215,19.888464529826557
-model,#r4643,★¾,Wstępna,Kobi HOUSE,Imperial Capital,Kraków,2 kw. 2025,42,1,15500,50.02187829596227,19.909595643614743
-model,#r4678,★½,Wstępna,Green Park etap II - apartament wykończony pod klucz,Imperial Capital,Kraków,1 kw. 2023,76,1,0,50.0923351,19.8733321
-model,#r4680,★¼,Wstępna,Osiedle Krokus etap IV,Osiedle Krokus,Kraków,4 kw. 2025,75,1,0,49.59966796122887,19.94425982236863
-model,#r4685,★¾,Wstępna,Nordic Górka Narodowa,YIT Development Sp. z o.o.,Kraków,3 kw. 2025,98,1,13401,50.10311932257979,19.957156066874116
-model,#r4687,★¾,Wstępna,Osiedle Dolina Prądnika,Spravia,Kraków,1 kw. 2027,128,1,1,50.1030848,19.9276493
-model,#r4704,★★¼,Wstępna,Lubostroń 13,Żołnierska Inwestycja Sp. z o.o.,Kraków,2 kw. 2024,61,1,1,50.01474102878274,19.8967778477144
-model,#r4727,★,Wstępna,ATAL Aleja Pokoju IIIB,ATAL S.A.,Kraków,3 kw. 2022,248,1,0,50.0665,20.00955
-model,#r4713,★★¼,Wstępna,Masarska 6,ATAL S.A.,Kraków,4 kw. 2022,113,1,0,50.05565836643348,19.9558727269627
-model,#r4756,★★,Wstępna,Zakątek Dąbie,ATAL S.A.,Kraków,1 kw. 2023,121,1,0,50.05571501962835,19.976448256295285
-model,#r4786,⓿¾,Wstępna,Sensity,Dom Development S.A.,Kraków,1 kw. 2021,120,1,8900,50.0277823370691,19.97541946951325
-model,#r4830,⓿,Wstępna,Murapol Nowy Złocień,Murapol S.A.,Kraków,4 kw. 2022,771,1,0,50.02336575948963,20.04973331592746
-model,#r4861,⓿,Wstępna,Królewskie Tarasy,Murapol S.A.,Kraków,4 kw. 2022,710,1,0,49.98666112001357,20.035508719841843
-model,#r4871,★¼,AI,Osiedle Przy Mogilskiej,Develia,Kraków,2 kw. 2021,65,1,,50.06907797794291,19.977486266527837
-model,#r4877,⓿,Wstępna,Centralna Park,Develia,Kraków,3 kw. 2024,"1,060",1,11099,50.06129470877186,20.008723730596277
-model,#r4882,★,Wstępna,Przy Mogilskiej,Develia,Kraków,3 kw. 2023,180,1,10900,50.06906619156621,19.97685125999848
-model,#r5004,★½,Wstępna,Fredry 6,Spravia,Kraków,4 kw. 2020,143,1,0,50.02591264753652,19.94307477816565
-model,#r5007,★,Wstępna,Nowa Myśliwska 55B,Spravia,Kraków,2 kw. 2024,174,1,11100,50.04326000347821,19.997387861583423
-model,#r5009,★¼,Wstępna,Nowa Myśliwska,Spravia,Kraków,2 kw. 2022,129,1,8800,50.04420673960467,19.99725855951848
-model,#r5013,⓿¼,Wstępna,Osiedle #dobrego III,Spravia,Kraków,2 kw. 2019,158,1,0,50.088962509006834,19.97805390025894
-model,#r5016,★½,Wstępna,Fredry 6 - etap II,Spravia,Kraków,1 kw. 2022,189,1,9150,50.024544885452215,19.942259456196005
-model,#r5018,⓿¾,Wstępna,Fredry 6 - etap IV,Spravia,Kraków,1 kw. 2024,187,1,10000,50.02635527831339,19.94290529329597
-model,#r5050,★★¾,Wstępna,Świtezianki,Matexi Polska Sp. z o.o.,Kraków,3 kw. 2022,70,1,15532,50.06214637501495,19.981190804823278
-model,#r5053,★★,AI,Rogalskiego,Matexi Polska Sp. z o.o.,Kraków,4 kw. 2021,31,1,0,50.066614313703035,19.87583657869365
-model,#r5106,★½,Wstępna,Lema 28,Grupa Wawel Service,Kraków,2 kw. 2023,67,1,0,50.06867008823659,19.987244318167182
-model,#r5119,⓿¼,Wstępna,Krygowskiego,Grupa Wawel Service,Kraków,4 kw. 2019,173,1,6200,50.00146771649438,19.901847243421415
-model,#r5108,★★¼,AI,Dom Dla Każdego 2.0,Grupa Wawel Service,Kraków,4 kw. 2021,8,2,,50.174477334780185,19.99055120193026
-model,#r5107,⓿¼,Wstępna,Piasta Park III,Grupa Wawel Service,Kraków,3 kw. 2021,315,1,8500,50.10238516053744,20.01813500878317
-model,#r5115,★½,AI,Nova Wiosenna,Grupa Wawel Service,Kraków,3 kw. 2023,16,2,,50.06949999682234,19.852555382125924
-model,#r5113,⓿¼,Wstępna,Piasta Park V,Grupa Wawel Service,Kraków,4 kw. 2024,138,1,0,50.10243834044168,20.0166930349761
-model,#r5112,★¼,Wstępna,Lawendowa,Grupa Wawel Service,Kraków,3 kw. 2019,16,2,,50.103955271654776,19.919481392166357
-model,#r5115,★★,AI,Nova Wiosenna,Grupa Wawel Service,Kraków,3 kw. 2023,16,1,0,50.069542494060926,19.85250638339579
-model,#r5111,★,Wstępna,Lema 2,Grupa Wawel Service,Kraków,3 kw. 2021,96,1,9800,50.0697285921292,19.9854423103493
-model,#r5117,⓿¼,Wstępna,Krygowskiego III,Grupa Wawel Service,Kraków,3 kw. 2019,52,1,6500,50.001670000351425,19.901396881025075
-model,#r5110,⓿¼,Wstępna,Piasta Park IV,Grupa Wawel Service,Kraków,4 kw. 2022,314,1,0,50.10291723495596,20.01628708094659
-model,#r5114,⓿,Wstępna,Apartamenty Nowa Bonarka,Grupa Wawel Service,Kraków,3 kw. 2020,81,1,8000,50.02054642409175,19.956343723750642
-model,#r5109,⓿¼,Wstępna,Piasta Park II,Grupa Wawel Service,Kraków,1 kw. 2020,293,1,8300,50.102416800890396,20.018232528635583
-model,#r5145,★,Wstępna,Osiedle 7 życzeń,EKOPARK,Kraków,3 kw. 2020,96,1,7908,50.09120480836076,19.88756003863607
-model,#r5148,★★¼,Wstępna,Apartamenty Morelove,EKOPARK,Kraków,1 kw. 2019,60,1,11445,50.06960754205696,19.87435991037245
-model,#r5144,★★,AI,DUO Residence,EKOPARK,Kraków,1 kw. 2022,35,1,21000,50.05260186211438,19.920040631494476
-model,#r5147,★,Wstępna,Nowa Lipska,EKOPARK,Kraków,3 kw. 2022,238,1,0,50.040751563604346,19.998393077640305
-model,#r5164,★½,Wstępna,Lublańska Park,Grupa Wawel Service,Kraków,3 kw. 2021,108,1,9000,50.086279667747895,19.96994954982694
-model,#r5167,★★,Wstępna,Wzgórze Krzemionki II,Grupa Matejek,Kraków,1 kw. 2027,62,1,16000,50.0349449,19.9666913
-model,#r5170,★¾,Wstępna,Casa Feliz Portowa II,Casa Feliz Portowa Sp. z o.o.,Kraków,4 kw. 2026,182,1,15617,50.04844847472264,19.97404878745174
-system,#r5266,★★,AI,Osiedle Krokus,KROKUS Sp. z o.o.,Kraków," kw. ",75,,10000,49.600289007317,19.946176
-system,#r5290,★¼,AI,Apartamenty Panorama,Panorama Jaworki  Sp. z o.o.,Kraków," kw. ",34,,11984,49.40997,20.561539
-system,#r5305,★,AI,Piłsudskiego 32,HO-BU POLSKA Sp. z o.o.,Kraków,4 kw. 2024,14,,9200,49.427006,20.954617
-model,#r5312,★,Wstępna,Imperial Citi Yes,Imperial Capital,Kraków,4 kw. 2022,289,1,12900,50.05983144041146,20.00225364105924
-model,#r5313,★★,AI,Zalesie Corner House,Imperial Capital,Kraków,3 kw. 2023,24,1,10100,50.02301998099155,19.90636753873318
-model,#r5421,★,Wstępna,Pachońskiego Sky,Hreit,Kraków,4 kw. 2025,328,1,8863,50.09462788097246,19.923851592784192
-model,#r5449,★★,Wstępna,Pękowicka Trio,Samson-Dom,Kraków,4 kw. 2026,83,1,12000,50.099140982203636,19.915314744731212
-model,#r5487,★★,Wstępna,Apartamenty Zalesie,LV DEVELOPMENT,Kraków,1 kw. 2025,20,1,7409,50.192224872828746,20.023614890497363
-model,#r5494,★¼,AI,Magnoliowa Twin II,4K Development,Kraków,4 kw. 2025,19,2,,49.999025266808886,20.01406181488616
-model,#r5559,⓿½,Wstępna,Domy na Spacerowej,Real-Construct Sp. z o.o.,Kraków,2 kw. 2024,8,2,,50.00133266478938,19.73496504914899
-model,#r5562,★★¾,AI,Wola Village,Urba Sp. z o.o.,Kraków,4 kw. 2024,68,2,,50.071613809418665,19.848364365356602
-model,#r5588,★★★¼,Wstępna,Sebastiana 18,MB Development,Kraków,2 kw. 2024,54,1,25802,50.05563,19.94326
-model,#r5591,★½,Wstępna,ul. Paszkowskiego - Pękowicka,HSD Inwestycje,Kraków,1 kw. 2024,52,1,10900,50.10543546407513,19.913742310112003
-model,#r5597,⓿,Wstępna,Centralna,Grupa Proins,Kraków,1 kw. 2024,211,1,10000,50.06583359556709,20.011178997615794
-model,#r5596,★¾,Wstępna,LIPSKA 16,Bryksy,Kraków,4 kw. 2024,117,1,0,50.0399132249831,19.989392388366273
-model,#r5626,★,Wstępna,Nad Ruczajem,Epol Holding,Kraków,1 kw. 2024,160,1,0,50.010975868604,19.886155397377696
-model,#r5657,★★¼,AI,Opatkowicka Park,Samson-Dom,Kraków,3 kw. 2024,14,2,,49.983539782321145,19.915711744964945
-model,#r5681,★½,Wstępna,Safrano,Cordia Polska,Kraków,4 kw. 2023,99,1,16146,50.02368353128029,19.919960999962665
-model,#r5694,★★★,Wstępna,Kościuszki 22,Dasta Invest Sp. z o.o.,Kraków,2 kw. 2023,75,1,22125,50.05411267049068,19.924915676279593
-model,#r5698,★¾,AI,Emaus Yacht,Hammak,Kraków,2 kw. 2023,19,1,18799,50.06574110598313,19.89007809003422
-model,#r5697,★,Wstępna,Odlewnicza Apartments,Hammak,Kraków,2 kw. 2023,20,1,11492,50.070394272511926,19.889982576858564
-model,#r5704,★★,Niedostateczne dane,Kamienica z festonami,Platforma Mieszkaniowa,Kraków,1 kw. 2023,9,1,0,50.067481559546096,19.937982919097088
-model,#r5708,★¼,AI,Osiedle Jurajska,Platforma Mieszkaniowa,Kraków,4 kw. 2023,24,2,,50.09267253462221,19.795829846809518
-model,#r5711,★½,AI,Diamentowe Zacisze Więckowice,Platforma Mieszkaniowa,Kraków,4 kw. 2023,4,2,,50.13455030080027,19.75945541985858
-model,#r5712,★★¼,Wstępna,Ułanów 58,Super Krak S.A.,Kraków,2 kw. 2023,54,1,0,50.07981921010425,19.98120311353227
-model,#r5713,★,Wstępna,Bagry - ul. Lipska/Siemienowicza,HSD Inwestycje,Kraków,4 kw. 2023,70,1,,50.03854192382519,19.995955346113767
-model,#r5717,⓿½,Wstępna,Przewóz 6,Grupa Proins,Kraków,2 kw. 2023,47,1,,50.04331162809548,19.98658196307177
-model,#r5718,★½,Wstępna,SASKA BLU etap III,Bryksy,Kraków,4 kw. 2023,173,1,,50.03954351175527,19.983731336922283
-model,#r5720,⓿¾,Wstępna,Nowy Horyzont,Grupa Deweloperska START,Kraków,4 kw. 2023,89,1,,50.09730512980668,20.062354320926698
-model,#r5820,★★,Wstępna,Staw Płaszowski,Activ Investment Sp. z o.o.,Kraków,2 kw. 2023,49,1,0,50.03774146330319,19.975255078447862
-model,#r5822,★¼,Wstępna,Banacha II - budynek B2,Activ Investment Sp. z o.o.,Kraków,2 kw. 2023,115,1,0,50.10308694068289,19.96166421658044
-model,#r5825,★½,Wstępna,Bardosa,KRK ESTATE,Kraków,3 kw. 2023,35,1,,50.06632834140766,20.06764190432722
-model,#r5826,★★,AI,"Piasta Towers budynek 6, 7 i 8",INTER-BUD Developer Sp. z o.o.,Kraków,2 kw. 2023,155,1,7900,50.10421030789691,20.00962690769959
-model,#r5828,★¼,Wstępna,Park Leśny Bronowice etap IV,Quelle Locum Sp. z o.o.,Kraków,3 kw. 2019,184,1,,50.10233669936831,19.872703002066405
-model,#r5865,★★,AI,Central Point Co-Living,Grimbud,Kraków,1 kw. 2024,280,1,,50.080200555098855,19.949487436219005
-model,#r5866,★,Wstępna,Apartamenty Prądnik,Grimbud,Kraków,4 kw. 2023,120,1,,50.09578990636546,19.95716946380179
-model,#r5872,★,AI,Magnoliowa Twin,4K Development,Kraków,3 kw. 2023,22,2,,49.998970435593,20.014504352432947
-model,#r5883,⓿¾,AI,Pod Orłem,Optimum Inwestycje Optimum Sp. z o.o. Sp. Komandytowa,Kraków,3 kw. 2025,6,1,,50.18659892541054,19.786510913601795
-system,#r5911,⓿,Niedostateczne dane,Kraków Podole,Life Spot Management Sp. z o.o.,Kraków,1 kw. 2025,398,,,50.02244,19.890759
-system,#r5915,★¾,AI,Białoprądnicka Park,Hammak,Kraków,4 kw. 2026,36,,13798,50.092139600958,19.938867238663
-system,#r5949,★★¼,Wstępna,CLoU Lindego,Megapolis Development,Kraków,1 kw. 2026,129,,1,50.078764739954,19.875934625738
-system,#r5962,★¼,AI,Osiedle Szmaragdowe,Good Home Inwest Sp. z o.o.,Kraków,4 kw. 2025,22,,8000,49.98929,20.431913
-model,#r6011,★★,AI,Lokum Siesta,Lokum Deweloper,Kraków,2 kw. 2021,517,1,12171,50.034029840088046,19.92932191100182
-model,#r6012,★★,AI,Lokum Salsa,Lokum Deweloper,Kraków,4 kw. 2021,357,1,0,50.04716254368819,19.972840992272097
-model,#r6012,★★,AI,Lokum Salsa etap III,Lokum Deweloper,Kraków,3 kw. 2022,48,1,0,50.047256760406114,19.972919346068014
-model,#r6013,★,Wstępna,Dąbska Street- III etap,Dasta Invest Sp. z o.o.,Kraków,1 kw. 2021,177,1,9600,50.067570951215224,19.986744098753398
-model,#r6025,⓿½,Wstępna,NIVA Domy w Krakowie - Sidzinie,Urba Sp. z o.o.,Kraków,1 kw. 2021,19,2,,49.98889036363839,19.874321848846687
-model,#r6026,★¾,Wstępna,Kasztelańska 22,Urba Sp. z o.o.,Kraków,4 kw. 2021,28,1,0,50.055600350407516,19.912909980626015
-model,#r6027,★¾,AI,Domy przyszłości,Leach & Lang,Kraków,4 kw. 2022,40,2,,49.96839382492516,19.898603773814376
-model,#r6028,★¼,Wstępna,Apartamenty Cynamonowe,Awim Grupa Inwestycyjna,Kraków,4 kw. 2022,101,1,13000,50.08003599802317,19.93148732440206
-system,#r6270,★¾,AI,Parkowe Kliny,INTER-BUD Developer Sp. z o.o.,Kraków,4 kw. 2025,16,,12000,50.000159275297,19.887453300309
-system,#r6314,★★,AI,Apartamenty Uzdrowiskowe Hygge,Eko Park Invest sp z o.o.,Kraków,2 kw. 2024,132,,,50.461410869285,20.7086277049
-system,#r6339,★¼,AI,Vidok Residence,VIDOK INVESTMENT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,Kraków,3 kw. 2025,55,,6990,50.159515,19.484892
-system,#r6419,★¼,AI,Osiedle Pod Lipką 5,Perfekt Dom sp. z o.o.,Kraków,4 kw. 2025,24,,10488,49.829820517238,19.929498005626
-system,#r6494,★★,AI,Zawiła 65,"Przedsiębiorstwo Budowlane START G. Szmolke, M. Szmolke spółka jawna",Kraków,4 kw. 2024,28,,,50.007515,19.89672
-system,#r6538,★★¼,AI,Mogilska 35 Office,Mogilska Office 4 Sp. z o.o.,Kraków," kw. ",11,,,50.066406,19.965939
-system,#r6536,★★,Wstępna,Wolskiej Park,Green-Park Sp. z o.o.,Kraków," kw. ",59,,9900,49.61406110175334,20.691110354492203
-system,#r6553,⓿¼,AI,Mieszkania ENERGOOSZCZĘDNE ul.Axentowicza +parking,GLOBET KOSTKA BRUKOWA Janusz Szkaradek,Kraków," kw. ",8,,7200,49.635437,20.67291
-system,#r6550,⓿¾,AI,Mieszkania ENERGOOSZCZĘDNE + miejsce postojowe,GLOBET KOSTKA BRUKOWA Janusz Szkaradek,Kraków," kw. ",10,,6500,49.632206,20.672268
-model,#r6608,★¼,Wstępna,Bunscha Park 4.0,Bunscha Park Sp. z o.o.,Kraków,1 kw. 2026,54,1,14115,50.01315837770376,19.88336000423107
-system,#r6616,⓿,Wstępna,ul. Glogera,DOM-BUD M. Szaflarski sp.j.,Kraków,2 kw. 2025,262,,12800,50.100917744638,19.927857100527
-system,#r6617,★¼,AI,ul. Stawowa,DOM-BUD M. Szaflarski sp.j.,Kraków,4 kw. 2023,26,,15150,50.098660589011,19.875792169309
-system,#r6618,⓿¾,Wstępna,ul. Powstańców / os. Piastów,DOM-BUD M. Szaflarski sp.j.,Kraków,2 kw. 2025,359,,12400,50.105766652075,20.014711777991
-system,#r6641,★,AI,Gertrudy 7,AT RENT Sp. z o.o.,Kraków,4 kw. 2024,3,,,50.05696,19.94046
-model,#r6648,⓿½,Wstępna,Ojcowska Park,Nokturn Deweloper,Kraków,3 kw. 2023,50,2,,50.127587271572395,19.893064184859067
-model,#r6651,★¾,Wstępna,Rydlówka 40,Nokturn Deweloper,Kraków,4 kw. 2023,65,1,0,50.035643153173396,19.93252833114627
-model,#r6649,★,Wstępna,Panorama Prądnik,Nokturn Deweloper,Kraków,1 kw. 2020,127,1,,50.09854991705679,19.954844133580718
-model,#r6648,⓿½,Wstępna,Ojcowska Park - etap I,Nokturn Deweloper,Kraków,1 kw. 2021,50,2,,50.12823578596644,19.897184792441927
-model,#r6650,★¾,Wstępna,Willa Nokturn,Nokturn Deweloper,Kraków,2 kw. 2021,59,1,7100,50.01539098956216,20.027862374104657
-system,#r6684,★½,AI,STELMACHÓW 205,ZABIELNY INVEST SPÓŁKA JAWNA,Kraków,3 kw. 2025,16,,,50.097137,19.900118
-model,#r6691,⓿¾,Wstępna,Glogera Bricks,KRK ESTATE,Kraków,2 kw. 2026,72,1,,50.104151545431414,19.926235454337753
-model,#r6693,★,Wstępna,Moja Skawina,Epol Holding,Kraków,3 kw. 2026,165,1,0,49.98232329180183,19.841812849044807
-model,#r6703,★¼,Wstępna,Viva Piast 6,Victoria Dom S.A.,Kraków,4 kw. 2025,108,1,15552,50.10600604993806,20.011639595031745
-model,#r6700,★½,AI,Dvorskie Residence,Dvorskie Residence,Kraków,4 kw. 2025,4,1,,50.111861546456254,19.902930176069177
-system,#r6704,★¾,AI,Jagiellońska Park,Royal Invest sp. z o.o.,Kraków," kw. ",86,,,49.88714,20.099052
-model,#r6712,★,Wstępna,Wzgórze Gustawa,Awim Grupa Inwestycyjna,Kraków,4 kw. 2026,81,1,12000,50.10322598663827,20.05861959965889
-model,#r6711,★¼,Wstępna,Szaflarska 9,Awim Grupa Inwestycyjna,Kraków,4 kw. 2026,13,1,24500,50.041214946842615,19.9377831724814
-model,#r6713,★★★¼,Wstępna,Wenecja 1,MJM 11 Sp. z o.o.,Kraków,3 kw. 2025,13,1,30992,50.0604563,19.9269895
-model,#r6721,★★,Wstępna,Takt Lirników,Matexi Polska Sp. z o.o.,Kraków,1 kw. 2026,100,1,14190,50.01625922430911,19.964767085410674
-model,#r6745,★¼,Wstępna,Aleja Dębowa III - mieszkania,Wisdomic Home Sp. z o.o. Sp. k.,Kraków,4 kw. 2025,24,1,9507,50.04723321230526,20.058764518152483
-system,#r6759,⓿¾,Wstępna,Glogera Bricks,KRK ESTATE,Kraków,4 kw. 2026,72,,1,50.104168655091,19.926122162664
-system,#r6769,★¾,AI,Bunscha Residence,INTER-BUD Developer Sp. z o.o.,Kraków,4 kw. 2026,282,,1,50.016686426068,19.888540337933
-system,#r6785,★★★¼,Wstępna,Wiślane Tarasy 2.0 bud. C,INTER-BUD Developer Sp. z o.o.,Kraków,1 kw. 2027,189,,1,50.055583269687,19.963902772312
-system,#r6795,★,AI,Łanowe Zacisze,PC3D 1 sp. z o.o.,Kraków," kw. ",12,,8200,49.976866817957,19.847366295032
-model,#r6794,★★,Poszerzona,Mieszkaj w mieście - przy Bonarce,Henniger Investment S.A.,Kraków,2 kw. 2026,391,1,13429,50.0254182,19.9527294
-model,#r6798,★★½,Wstępna,Wiślane Tarasy budynek 4,INTER-BUD Developer Sp. z o.o.,Kraków,1 kw. 2017,71,1,10000,50.05476571928169,19.96196037643024
-model,#r6799,★★,Wstępna,Grzegórzki Park - Budynek nr 6,INTER-BUD Developer Sp. z o.o.,Kraków,4 kw. 2020,68,1,8500,50.065263521219435,19.96638228964202
-model,#r6800,★★,Wstępna,Grzegórzki Park - Budynek nr 4,INTER-BUD Developer Sp. z o.o.,Kraków,2 kw. 2018,113,1,7900,50.06527149895298,19.96762076943104
-model,#r6801,★★¾,AI,Wiślane Tarasy 2.0 budynek D,INTER-BUD Developer Sp. z o.o.,Kraków,4 kw. 2020,150,1,12999,50.05506373758781,19.962262992968732
-model,#r6802,★★,AI,Osiedle Bobrzyńskiego II,INTER-BUD Developer Sp. z o.o.,Kraków,2 kw. 2017,39,1,6400,50.018953528631805,19.905988831556233
-model,#r6803,★★,Wstępna,Grzegórzki Park - Budynek nr 3,INTER-BUD Developer Sp. z o.o.,Kraków,2 kw. 2017,118,1,8700,50.06526767267392,19.96676192952777
-model,#r6804,★,Wstępna,Osiedle Bobrzyńskiego,INTER-BUD Developer Sp. z o.o.,Kraków,2 kw. 2016,45,1,0,50.02221815113778,19.902778740482578
-model,#r6805,★★,Wstępna,Wiślane Tarasy budynek 6,INTER-BUD Developer Sp. z o.o.,Kraków,1 kw. 2016,194,1,7500,50.05539203977186,19.96123525532264
-model,#r6806,★½,Wstępna,Panorama Kliny,INTER-BUD Developer Sp. z o.o.,Kraków,2 kw. 2020,79,1,6800,50.00243340728339,19.889079506858025
-model,#r6807,★¾,AI,Nove Skotniki,INTER-BUD Developer Sp. z o.o.,Kraków,3 kw. 2019,30,2,,50.01032999164031,19.87279555011567
-model,#r6808,★★,Wstępna,Wiślane Tarasy budynek 5,INTER-BUD Developer Sp. z o.o.,Kraków,1 kw. 2016,188,1,7200,50.05533986430224,19.961547599636017
-model,#r6809,★,Wstępna,Willa Wego,INTER-BUD Developer Sp. z o.o.,Kraków,1 kw. 2016,69,1,,50.08461583072391,19.898277685621878
-model,#r6810,★½,Wstępna,M House,INTER-BUD Developer Sp. z o.o.,Kraków,1 kw. 2018,156,1,5900,50.09971258003988,19.964140804233434
-model,#r6811,★¼,AI,Osiedle Bobrzyńskiego - Przemiarki,INTER-BUD Developer Sp. z o.o.,Kraków,3 kw. 2017,8,1,,50.022680005715515,19.90246631873733
-model,#r6812,★★,Wstępna,Grzegórzki Park - Budynek nr 5,INTER-BUD Developer Sp. z o.o.,Kraków,4 kw. 2019,109,1,9000,50.065123953798796,19.96753606070275
-system,#r6817,⓿¾,Wstępna,OSIEDLE pod DĘBINĄ W KRZYSZKOWICACH,JENS sp z o.o.,Kraków,1 kw. 2025,8,,8700,49.88221,19.923574
-model,#r6849,⓿½,Wstępna,Okulickiego IX,Activ Investment Sp. z o.o.,Kraków,4 kw. 2015,50,1,,50.09366216079239,20.026068850217687
-model,#r6850,⓿¾,Wstępna,Wodna,Activ Investment Sp. z o.o.,Kraków,4 kw. 2020,52,1,,50.03828990534966,19.975732008732738
-model,#r6851,⓿¼,Wstępna,Apartamenty Mogilska,Activ Investment Sp. z o.o.,Kraków,3 kw. 2018,112,1,0,50.067849855855734,19.978665086656136
-model,#r6852,⓿,Wstępna,Okulickiego VIII,Activ Investment Sp. z o.o.,Kraków,4 kw. 2015,111,1,0,50.093722919978546,20.026001112069256
-model,#r6854,★¾,Wstępna,Apartamenty Mogilska etap IV,Activ Investment Sp. z o.o.,Kraków,2 kw. 2019,33,1,0,50.068610682470435,19.978535977093642
-model,#r6856,⓿,Wstępna,Banacha etap II,Activ Investment Sp. z o.o.,Kraków,2 kw. 2018,76,1,,50.10074457179289,19.959778856855408
-model,#r6857,★¼,Wstępna,Wodna 34,Activ Investment Sp. z o.o.,Kraków,2 kw. 2022,65,1,11500,50.03765687878947,19.975895020634525
-model,#r6858,★¼,Wstępna,Banacha II,Activ Investment Sp. z o.o.,Kraków,2 kw. 2022,115,1,0,50.102508268605085,19.96153170656371
-model,#r6861,★★,Wstępna,Osiedle Stańczyka,Activ Investment Sp. z o.o.,Kraków,2 kw. 2019,219,1,0,50.07877102537204,19.893366359638517
-model,#r6862,⓿,Wstępna,Banacha etap III,Activ Investment Sp. z o.o.,Kraków,1 kw. 2019,76,1,,50.10157116001327,19.960757298180198
-model,#r6865,★¼,Wstępna,Wadowicka,Activ Investment Sp. z o.o.,Kraków,2 kw. 2020,196,1,0,50.03395837763926,19.94154213929421
-model,#r6866,⓿,Wstępna,Konopnicka City Park,Activ Investment Sp. z o.o.,Kraków,2 kw. 2018,347,1,,50.038364142144175,19.93765636652093
-model,#r6869,⓿,Wstępna,Banacha etap I,Activ Investment Sp. z o.o.,Kraków,2 kw. 2017,87,1,,50.102019638432395,19.961101509127563
-model,#r6868,★,Wstępna,Apartamenty Mogilska etap III,Activ Investment Sp. z o.o.,Kraków,2 kw. 2019,116,1,0,50.06863463211889,19.978518448618196
-model,#r6867,⓿½,Wstępna,Wodna II,Activ Investment Sp. z o.o.,Kraków,4 kw. 2022,66,1,,50.039990632826225,19.975104816652205
-model,#r6882,★★¼,AI,Tetmajera Residence,Platforma Mieszkaniowa,Kraków,3 kw. 2021,12,1,6830,50.08876508902592,19.87390304607657
-model,#r6887,⓿½,Wstępna,Silva Park,Platforma Mieszkaniowa,Kraków,3 kw. 2020,32,1,,50.10823733211278,19.955046014407902
-model,#r6889,★★¼,AI,Ogrody Elizjum,Platforma Mieszkaniowa,Kraków,3 kw. 2020,12,1,7900,50.10946031377176,19.88832238754879
-model,#r6890,★¾,AI,Villa Residence,Platforma Mieszkaniowa,Kraków,3 kw. 2020,16,1,,50.110970335733576,19.883299503406253
-model,#r6893,★,AI,Domy Na Polanie,Platforma Mieszkaniowa,Kraków,3 kw. 2022,6,2,,49.99061050066435,19.729473644741887
-model,#r6900,⓿¾,Wstępna,Atal Kliny Zacisze III,ATAL S.A.,Kraków,4 kw. 2020,143,1,,49.99823796109363,19.893210400014738
-model,#r6906,★★,AI,Bronowice Residence VI,ATAL S.A.,Kraków,3 kw. 2020,42,1,0,50.096040450041585,19.896669139340613
-model,#r6910,★¾,Wstępna,Atal Kliny Zacisze II,ATAL S.A.,Kraków,1 kw. 2020,217,1,,49.99852412964872,19.89342620936052
-model,#r6961,★¼,Wstępna,Mieszkaj w mieście - etap Aktorów budynek H.,Henniger Investment S.A.,Kraków,3 kw. 2020,255,1,0,50.08405857093261,19.88656024638003
-model,#r6960,★¾,Wstępna,Mieszkaj w mieście - etap Kompozytorów budynek G.,Henniger Investment S.A.,Kraków,2 kw. 2021,91,1,,50.08412821249499,19.88699443436239
-model,#r6962,★★½,Wstępna,Mieszkaj w mieście - etap Kompozytorów budynek F.,Henniger Investment S.A.,Kraków,1 kw. 2020,110,1,0,50.08417131415361,19.886796252032667
-model,#r6974,★,Wstępna,Casa Feliz etap III,Casa Feliz sp. z o.o.,Kraków,3 kw. 2017,74,1,6580,50.08298093437899,19.945718940775613
-model,#r6975,⓿¼,Wstępna,Casa Feliz etap II,Casa Feliz sp. z o.o.,Kraków,4 kw. 2016,112,1,0,50.083052916835214,19.94541752522725
-model,#r6976,⓿¼,Wstępna,Casa Feliz etap V,Casa Feliz sp. z o.o.,Kraków,4 kw. 2017,72,1,6821,50.08292817589428,19.94595446938992
-model,#r6977,★,Wstępna,Casa Feliz etap VII,Casa Feliz sp. z o.o.,Kraków,2 kw. 2022,147,1,7012,50.082880607807404,19.945939688819713
-model,#r6978,★¼,Wstępna,Casa Feliz etap IV,Casa Feliz sp. z o.o.,Kraków,1 kw. 2018,144,1,6634,50.08292046519425,19.946060957973028
-model,#r6979,⓿½,Wstępna,Casa Feliz,Casa Feliz sp. z o.o.,Kraków,4 kw. 2015,164,1,0,50.08304436336001,19.94589004108582
-model,#r6980,★,Wstępna,Casa Feliz etap VI,Casa Feliz sp. z o.o.,Kraków,2 kw. 2019,148,1,8076,50.082914473378125,19.945816289612754
-model,#r6981,★,Wstępna,Osiedle Ogrody Żabińca Budynek Roma,Metropolis,Kraków,3 kw. 2013,29,1,,50.0834536,19.9466961
-model,#r6982,⓿,Niedostateczne dane,Osiedle Lawenda Park II,Metropolis,Kraków,3 kw. 2011,1,1,,50.11982339999998,19.9427079
-model,#r6982,⓿,Wstępna,Osiedle Lawenda Park II,Metropolis,Kraków,3 kw. 2011,21,2,,50.11982339999998,19.9427079
-model,#r6984,★¼,AI,Dom bliźniaczy na Żabińcu,Metropolis,Kraków,4 kw. 2011,1,2,,50.06465009999999,19.9449799
-model,#r6983,★¼,Wstępna,Osiedle Rzymskie,Metropolis,Kraków,3 kw. 2013,56,2,,50.1212419,19.9306536
-model,#r6985,★¼,Wstępna,Osiedle Ogrody Żabińca - D,Metropolis,Kraków,4 kw. 2016,118,1,0,50.0814118291506,19.946833554466934
-model,#r6986,⓿¾,Niedostateczne dane,Słoneczne Tarasy - etap III,Metropolis,Kraków,3 kw. 2018,8,2,,50.130686416454466,19.961532097116844
-model,#r6988,★,Wstępna,Osiedle Ogrody Żabińca Sanremo i Verona,Metropolis,Kraków,3 kw. 2014,58,1,,50.0816582,19.9462107
-model,#r6987,★¾,Wstępna,Osiedle Ogrody Żabińca- Modena,Metropolis,Kraków,3 kw. 2015,25,1,0,50.08230888807024,19.946197422299647
-model,#r6989,⓿½,Wstępna,Osiedle Lawenda Park,Metropolis,Kraków,3 kw. 2010,20,1,,50.11982339999998,19.9427079
-model,#r6990,★,Wstępna,Osiedle Ogrody Żabińca Ravenna i Sorrento,Metropolis,Kraków,3 kw. 2014,58,1,,50.08228237756013,19.946213326897293
-model,#r6991,⓿¾,Wstępna,Villa Rejtana 4,Metropolis,Kraków,3 kw. 2011,21,1,,50.0439708,19.9457216
-model,#r6992,★,Wstępna,Wzgórze Akacji,Metropolis,Kraków,3 kw. 2014,36,2,,50.130682745641394,19.961534236461592
-model,#r6993,★★,Wstępna,Krowoderska 40,Metropolis,Kraków,1 kw. 2023,40,1,17090,50.0699989143831,19.934207642567987
-system,#r7007,★★,Wstępna,Novy Mateczny,MIX Nieruchomości,Kraków,2 kw. 2026,143,,1,50.033740603724,19.942260268494
-system,#r7001,★,AI,Wenecja,MJM 11,Kraków,3 kw. 2025,10,,1,50.060473909004,19.927051754733
-system,#r7003,★★,AI,Złoty Róg 54,Frena,Kraków,4 kw. 2025,4,,1,50.081882309136,19.892664388342
-system,#r7002,★¾,AI,Tarasy Moderno,DGI Lesław Sarachmann,Kraków,2 kw. 2026,28,,1,50.022841882668,19.920313568709
-model,#r7080,⓿¼,Niedostateczne dane,Wężyka 10,Grupa Wawel Service,Kraków,1 kw. 2015,48,1,,50.07269458113902,20.014743732967524
-model,#r7082,⓿¼,Wstępna,Lema,Grupa Wawel Service,Kraków,4 kw. 2017,96,1,6983,50.069886380059465,19.985537955449168
-model,#r7083,⓿¾,Poszerzona,Halszki - 28A - Etap II,Grupa Wawel Service,Kraków,1 kw. 2016,94,1,,50.00783082510783,19.94768411189124
-model,#r7085,⓿¼,Wstępna,Mieszkania przy ul. Halszki etap III,Grupa Wawel Service,Kraków,2 kw. 2012,49,1,,50.06465009999999,19.9449799
-model,#r7086,⓿¼,Wstępna,"Borkowska B1 i B2 ",Grupa Wawel Service,Kraków,1 kw. 2015,89,1,,50.00232557277851,19.902497212969145
-model,#r7087,⓿¾,Wstępna,Zawiła,Grupa Wawel Service,Kraków,1 kw. 2016,84,1,,50.00581934108882,19.904896430482868
-model,#r7088,⓿¼,Wstępna,Wyspiański Park,Grupa Wawel Service,Kraków,3 kw. 2010,95,1,0,50.0825773,19.9226587
-model,#r7089,★¼,Wstępna,Wielicka 44,Grupa Wawel Service,Kraków,4 kw. 2013,144,1,0,50.0369864399656,19.96765894449732
-model,#r7090,★¼,Wstępna,Mochnackiego,Grupa Wawel Service,Kraków,2 kw. 2014,71,1,6300,50.02347376500453,19.963741890577964
-model,#r7091,⓿¾,Wstępna,Mieszkania przy ul. Halszki,Grupa Wawel Service,Kraków,3 kw. 2011,175,1,0,50.0075938,19.9471615
-model,#r7092,★,Wstępna,Klonowica,Grupa Wawel Service,Kraków,1 kw. 2013,184,1,,50.0202252,19.9561299
-model,#r7093,★★¼,Wstępna,Apartamenty Sowiniec,Grupa Wawel Service,Kraków,1 kw. 2014,60,1,6399,50.06864339125485,19.851675155175542
-model,#r7094,⓿¼,Wstępna,Białoprądnicka,Grupa Wawel Service,Kraków,2 kw. 2018,115,1,7174,50.09405402966769,19.93505101689066
-model,#r7095,⓿½,Wstępna,Piasta Park,Grupa Wawel Service,Kraków,4 kw. 2017,224,1,5850,50.10243213842713,20.01674131641978
-model,#r7116,★★,Wstępna,Nowe Zabłocie,Chemobudowa-Kraków S.A.,Kraków,2 kw. 2026,120,1,16500,50.048100699999985,19.9719751
-model,#r7154,★½,Wstępna,Białoprądnicka Park,Hammak,Kraków,4 kw. 2026,36,1,17029,50.0921316524012,19.938844442367557
-model,#r7168,⓿,Niedostateczne dane,Tutaj Bunscha,Epol Holding,Kraków,2 kw. 2027,172,1,13500,50.0098479,19.8814563
-model,#r7167,⓿,Niedostateczne dane,Apartamenty Casa Sole,Smart Apartments Sp. z o.o.,Kraków,2 kw. 2025,11,1,14700,50.012689,19.8994034
-model,#r7162,★★¼,Wstępna,Stare Podgórze,Fracthon,Kraków,3 kw. 2025,6,1,25000,50.0429975,19.9449286
-model,#r7189,⓿¾,Wstępna,Zgodna Park,BROTHERM Sp. z o.o.,Kraków,2 kw. 2026,24,1,10000,49.97890609082196,19.89660749548968
-model,#r7198,★½,Wstępna,Skwer Harmonia II,ATAL S.A.,Kraków,2 kw. 2027,251,1,9830,50.0399972,20.0426727
-model,#r7206,★★,AI,Osiedle Solne etap II,KG Group Sp. z o.o.,Kraków,2 kw. 2027,185,1,10400,49.993599,20.0348143
-model,#r7211,★¼,Wstępna,Wiślane Klimaty,Grupa Deweloperska START,Kraków,4 kw. 2025,69,1,13300,50.046911829415286,19.997740043662834
-model,#r7216,★,Wstępna,Łąki Nowohuckie,Odmętowa Development Sp. z o.o.,Kraków,4 kw. 2025,16,1,12828,50.06299712324176,20.04907225868576
-model,#r7247,★½,Wstępna,Gryczana 23,Gryczana 23 Artwik Sp.k.,Kraków,2 kw. 2026,20,1,0,50.10982329999999,19.9088976
-model,#r7253,⓿½,Wstępna,Kuźnicy Kołłątajowskiej 42,Real-Construct Sp. z o.o.,Kraków,3 kw. 2026,40,1,13400,50.09843050000001,19.9544515
-model,#r7258,★★¼,Wstępna,Osiedle Niezapominajek,Stylhut Plus Sp. z o.o.,Kraków,3 kw. 2025,70,1,16000,50.069288,19.8435454
-model,#r7273,⓿¾,Wstępna,Lipińskiego Nova,Grupa Deweloperska START,Kraków,4 kw. 2025,30,1,14300,50.02807639108103,19.9245420026114
-model,#r7283,★¼,Wstępna,Strefa Cegielnia 3,ATAL S.A.,Kraków,1 kw. 2027,137,1,10868,50.1083043,20.0432035
-model,#r7323,⓿¼,Wstępna,Ecco Panorama etap C-D,PM-Development Sp. z o.o.,Kraków,3 kw. 2027,108,1,10200,50.002766196819145,20.06290465472719
-model,#r7318,⓿¾,Wstępna,3 Wymiary Bronowice,Quelle Locum Sp. z o.o.,Kraków,2 kw. 2027,99,1,,50.09431136659236,19.90876899246737
-model,#r7346,★,Wstępna,Dębowa 51,AWIM Nieruchomości,Kraków,1 kw. 2026,40,1,0,49.9981743,20.0642751
-model,#r7343,⓿¼,Wstępna,Enklawa Bukowa II,Grupa Wawel Service,Kraków,4 kw. 2027,189,1,10000,50.03932789999999,20.0494692
-model,#r7348,★¼,AI,29L - Apartamenty inwestycyjne,Archicom S.A.,Kraków,3 kw. 2026,198,1,,50.08861564440272,19.956393570095404
-model,#r7348,⓿¾,Wstępna,29L,Archicom S.A.,Kraków,3 kw. 2026,389,1,0,50.0888139,19.9561234
-model,#r7351,★,Wstępna,Żabiniec Vita,Develia,Kraków,1 kw. 2027,120,1,15100,50.0818884,19.9454641
-model,#r7354,★★¼,Wstępna,Awangarda Mogilska,Skanska Residential Development Poland Sp. z o.o.,Kraków,2 kw. 2028,278,1,18198,50.0696404,19.9804299
-model,#r7362,★,Poszerzona,Osiedle Górka Narodowa etap 3,Dom Development S.A.,Kraków,4 kw. 2024,386,1,0,50.09972395313532,19.95333402839369
-model,#r7414,★¾,Wstępna,Trybuny Ludów 27,Excon S.A.,Kraków,2 kw. 2023,10,1,11300,50.01841643479263,19.962779170186877
-model,#r7423,★★½,AI,Dolina Krasowa,Antrans Invest Sp. z o.o.,Kraków,2 kw. 2023,84,1,5900,50.134291991305496,19.649580115969755
-model,#r7424,★½,Wstępna,Zacisze Biema,Antrans Invest Sp. z o.o.,Kraków,4 kw. 2023,76,1,,50.26030106930183,19.578799042611966
-model,#r7430,★★,Wstępna,Dolina Krasowa II,Antrans Invest Sp. z o.o.,Kraków,4 kw. 2023,84,1,0,50.13458693117279,19.650023697522606
-model,#r7442,⓿¾,Wstępna,Osiedle Bonarka Living etap 2 - budynek C i D,Echo Residential by Archicom,Kraków,3 kw. 2023,330,1,,50.02871548420997,19.946783550449535
-model,#r7443,★½,Wstępna,ZAM Apartments,Echo Residential by Archicom,Kraków,3 kw. 2024,100,1,0,50.035242338780165,19.936280323614497
-model,#r7451,★½,Wstępna,Solaris Park etap II,Semaco,Kraków,3 kw. 2023,245,1,12650,50.06993531648346,19.986941255082172
-model,#r7491,⓿¾,Wstępna,Osiedle Piltza etap X,KG Group Sp. z o.o.,Kraków,2 kw. 2024,179,1,,50.010604479927515,19.890296687787096
-model,#r7485,★★,Wstępna,Piastowska 30,ACATOM Sp. z o.o.,Kraków,1 kw. 2023,35,1,0,50.07097217149466,19.90406776781579
-model,#r7494,⓿¾,Poszerzona,ul. Meiera 16E - II etap,Dom-Bud M. Szaflarski Sp. j.,Kraków,2 kw. 2023,110,1,,50.09961492146003,19.964104840876526
-model,#r7497,⓿½,Wstępna,ul. Powstańców/os. Piastów bud. D,Dom-Bud M. Szaflarski Sp. j.,Kraków,3 kw. 2024,119,1,0,50.1052593157262,20.01596962337398
-model,#r7580,★,Wstępna,DoWoli,Buma,Kraków,4 kw. 2023,90,1,,50.02056933308407,19.9629218508491
-model,#r7597,⓿,Niedostateczne dane,Mierzeja Wiślana etap II,Instal Kraków S.A.,Kraków,4 kw. 2024,133,1,,50.03579939837143,20.000668987934915
-model,#r7605,⓿¼,Wstępna,Centralna II,Grupa Proins,Kraków,2 kw. 2027,84,1,11747,50.06432298361415,20.011589772142884
-model,#r7639,⓿,Wstępna,Różana 28,PM-Development Sp. z o.o.,Kraków,3 kw. 2023,74,1,,49.994615622468025,20.02757722994011
-model,#r7655,★¾,AI,Aleja Dębowa III - domy,Wisdomic Home Sp. z o.o. Sp. k.,Kraków,4 kw. 2025,20,2,,50.047292615540464,20.058708843941275
-model,#r7656,★½,AI,Aleja Dębowa II,Wisdomic Home Sp. z o.o. Sp. k.,Kraków,4 kw. 2024,10,2,,50.04677361295637,20.058922710170794
-model,#r7660,★½,AI,Enklawa Zwierzyniec,"AB ARCHI – INWEST SP. J A. ŚWIERCZEK, S. CAŁKA SP.K.",Kraków,2 kw. 2025,10,2,,50.074964,19.8550741
-model,#r7661,★¼,Wstępna,Osiedle Rodzinne etap II,"AB ARCHI – INWEST SP. J A. ŚWIERCZEK, S. CAŁKA SP.K.",Kraków,4 kw. 2024,32,1,0,50.46237736797073,20.707042692662405
-model,#r7663,★¼,Wstępna,Osiedle na Wzgórzu,"AML Andrzej Bluj, Marcin Tandos, Łukasz Dziurski s.c.",Kraków,3 kw. 2023,57,1,9000,50.356049025142575,20.02191557931357
-model,#r7687,★¼,AI,Osiedle Grabówki,BOZ 2 Sp. z o.o. sp.k,Kraków,2 kw. 2025,18,2,,49.9749949,20.0139474
-model,#r7714,⓿½,Wstępna,FOR.REST RĄCZNA,Domopoly.pl Sp. z o.o.,Kraków,2 kw. 2026,19,2,,50.0055049,19.7680197
-model,#r7723,★¼,AI,Apartamenty Browarna,"Firma Handlowo Usługowa ""ROMAN"" Roman Pażucha",Kraków,1 kw. 2023,57,1,,49.61006178886273,20.72524813379741
-model,#r7734,★★¼,AI,Mników Zielona Dolina,Grupa Enbud  Sp. z o.o. Sp. K,Kraków,3 kw. 2024,4,2,,50.05218717113697,19.72835880341084
-model,#r7745,★★½,AI,Zenit Głowackiego,GVD Sp. z o.o.,Kraków,4 kw. 2026,86,1,0,50.0783565,19.9064112
-model,#r7755,★¼,AI,Osiedle Skotniki - Unruga,I Confisio Gładki Sp. K.,Kraków,2 kw. 2023,30,2,,50.01824879914446,19.868264034867053
-model,#r7756,★★¼,AI,Dom na zielonym uroczysku,I Confisio Gładki Sp. K.,Kraków,1 kw. 2025,8,2,,50.01390421357643,19.863870193385225
-model,#r7766,★,AI,Zielone Zalesie,ITW Invest Sp. z o.o.,Kraków,3 kw. 2024,9,2,,50.198329979478224,20.017663336849495
-model,#r7767,⓿½,Wstępna,Pychowicka 27,Janex Sp. z o.o.,Kraków,4 kw. 2026,16,1,,50.03268437602311,19.916060834631992
-model,#r7768,★¼,AI,Michałowice Park II,Janex Sp. z o.o.,Kraków,3 kw. 2025,8,2,,50.15894198904807,19.958558399167547
-model,#r7770,★★¼,AI,Michałowice Park.,Janex Sp. z o.o.,Kraków,3 kw. 2023,12,2,,50.15901579443156,19.957858431561867
-model,#r7770,★★¼,AI,Michałowice Park,Janex Sp. z o.o.,Kraków,2 kw. 2023,12,2,,50.15902073951868,19.95786747965801
-model,#r7805,★¼,AI,Oaza Tyniecka,Mjs Investment Sp. z o. o.,Kraków,3 kw. 2027,20,2,,50.03352147833185,19.87194431121706
-model,#r7809,⓿¾,Wstępna,Wielicka 179 - etap II,MTW Development,Kraków,1 kw. 2023,87,1,,50.02181588601601,19.981276071602895
-model,#r7808,★¾,Wstępna,Lemko Residence,MTW Development,Kraków,4 kw. 2025,44,1,13500,49.42662,20.95437
-model,#r7850,★¼,Wstępna,Słoneczne Zacisze,SHD Investment Sp. z o.o.,Kraków,1 kw. 2023,18,1,6000,50.12709206109718,19.720085241096776
-model,#r7837,⓿,Niedostateczne dane,Park Leśny Bronowice etap IV,Quelle Locum Sp. z o.o.,Kraków,4 kw. 2023,47,1,,50.10105749031164,19.87351671496066
-model,#r7856,★,AI,Słoneczna Brzozowa etap I,Słoneczny Prądnik,Kraków,4 kw. 2024,14,2,,50.11737435299807,19.952363994380054
-model,#r7870,★¾,AI,Apartamenty Gałczyńskiego,Toplokum Sp. z o.o.,Kraków,1 kw. 2026,14,1,17032,50.07079,20.0119
-model,#r7889,⓿¾,Wstępna,Bibickie Wzgórze,Akopol Sp. z o.o.,Kraków,2 kw. 2024,40,1,,50.14026806959398,19.965590201483344
-model,#r7910,⓿¼,Wstępna,Mieszkania Stanisławice,"Archi-Inwest Sp.j A.Świerczek, S.Całka",Kraków,4 kw. 2023,15,1,,49.98783335797117,20.35407027673489
-model,#r7924,★★½,Wstępna,Apartamenty Park Matecznego Etap 2,Dom Development S.A.,Kraków,4 kw. 2027,114,1,15900,50.03628873132268,19.937485279085355
-model,#r7930,⓿¼,Wstępna,Dolnomłyńska 5,HK Group,Kraków,2 kw. 2027,14,1,15200,50.07279340719133,20.00830102025325
-model,#r7940,⓿,Niedostateczne dane,Budynek Miechowska,Nowum Wolbrom,Kraków,2 kw. 2023,63,1,,50.383767122784874,19.776902929412202
-model,#r7946,★½,AI,Laskowe Wzgórze,SHD Investment Sp. z o.o.,Kraków,3 kw. 2024,10,2,,49.75017,20.49453
-model,#r7955,⓿,Wstępna,Tyniecka Domy,ZF INVESTMENT TYNIECKA,Kraków,1 kw. 2025,16,2,,50.0266972,19.8485398
-model,#r7956,★,AI,Gajowe Zacisze,Animusz,Kraków,1 kw. 2025,2,2,,49.92560514790607,19.91721216772983
-model,#r7960,★,Niedostateczne dane,Nowa Dzielnica,WJAP INVEST,Kraków,4 kw. 2023,60,1,,50.46406410142585,20.70838229957183
-model,#r7964,★,Wstępna,Myśliwska Solar Garden,ASA Development,Kraków,2 kw. 2023,157,1,,50.04571352984435,19.98617996897192
-model,#r7989,★,Wstępna,ul. Powstańców/os. Piastów bud. F,Dom-Bud M. Szaflarski Sp. j.,Kraków,1 kw. 2026,119,1,13100,50.10509858329503,20.016069539901356
-model,#r8008,★¼,Wstępna,Sowia,HSD Inwestycje,Kraków,4 kw. 2026,20,1,15300,50.0228236357405,19.938650564999314
-model,#r8014,★★¾,AI,CASCADA House,Imperial Capital,Kraków,2 kw. 2027,64,1,10100,50.10303743445386,19.84080342407794
-model,#r8022,⓿¾,Wstępna,Mierzeja Wiślana etap IV,Instal Kraków S.A.,Kraków,4 kw. 2025,207,1,,50.0356422,20.0030564
-model,#r8029,★,Wstępna,Murapol GreenCity bud. 2,Murapol S.A.,Kraków,4 kw. 2026,249,1,0,50.0212792118821,20.04565151717115
-model,#r8037,★¼,Wstępna,Lokum Siesta,Lokum Deweloper,Kraków,3 kw. 2018,576,1,7432,50.034225888204276,19.928908364232434
-model,#r8041,★★,AI,Lokum Vista Etap I,Lokum Deweloper,Kraków,3 kw. 2018,245,1,0,50.0250728959517,19.9613213122477
-model,#r8046,★★,AI,Lokum Vista etap IIIa,Lokum Deweloper,Kraków,3 kw. 2022,121,1,0,50.02484487570333,19.961286607870644
-model,#r8067,★¼,Wstępna,5 Dzielnica,Develia,Kraków,2 kw. 2017,299,1,0,50.07909034716579,19.922694324586686
-model,#r8075,⓿¼,Wstępna,Centralna Park.,Develia,Kraków,4 kw. 2018,800,1,5649,50.06187837914496,20.008469447637797
-model,#r8081,⓿,Wstępna,Okulickiego 59,Develia,Kraków,1 kw. 2013,145,1,0,50.093263061909994,20.02522220491679
-model,#r8138,★★¾,AI,Angel Stradom,Angel Poland Group,Kraków,1 kw. 2022,133,1,23000,50.05293872819432,19.94104226384947
-model,#r8164,★½,Wstępna,Dom przy Źródle,Eiffage Immobilier Polska,Kraków,4 kw. 2019,80,,,50.03752376532838,19.941318578201976
-model,#r8187,★★,Wstępna,Supernova,Cordia Polska,Kraków,3 kw. 2019,191,,9250,50.06558398036809,19.989828018189236
-model,#r8188,★¾,Wstępna,Cordia Cystersów Garden etap II,Cordia Polska,Kraków,1 kw. 2018,177,,6830,50.064192133881974,19.97090895186411
-model,#r8189,★¾,Wstępna,Cordia Cystersów Garden etap I,Cordia Polska,Kraków,2 kw. 2017,146,,6800,50.06419668127096,19.970955875884595
-model,#r8190,★★,Wstępna,Lotniczówka,Cordia Polska,Kraków,3 kw. 2020,67,,10620,50.07736398241871,19.99446560569631
-system,#r8172,★,Wstępna,Murapol GreenCity,Murapol,Kraków,4 kw. 2026,81,,,50.02164675641,20.045410424893
-system,#r8227,★¼,AI,Osiedle Telimeny III,KG Group,Kraków,4 kw. 2026,48,,,50.020874562531,20.011385197345
-system,#r8223,★¼,Wstępna,Osiedle Solne II,KG Group,Kraków,1 kw. 2027,185,,,49.99377546947,20.035239474852
-system,#r8216,★★¾,Wstępna,Cieszyńska 9,Palladio Cieszyńska 9 Pasek Paluch sp. K.,Kraków,4 kw. 2024,230,,20840,50.074917,19.930515
-system,#r8234,★¾,Wstępna,Osiedle FI,Megapolis,Kraków,3 kw. 2026,238,,,50.033475732465,19.931224582895
-system,#r8230,★¼,AI,Osiedle Niezapominajek,Stylhut Plus Sp. z o.o.,Kraków,2 kw. 2026,70,,,50.069006786219,19.843993418049
-system,#r8253,★¼,AI,Wzgórze Gustawa,AWIM DEVELOPMENT SP. Z O.O.,Kraków,4 kw. 2026,81,,12000,50.10312,20.058521
-system,#r8263,⓿¾,Wstępna,Piasta Park VI,Wawel Service,Kraków,4 kw. 2026,134,,12200,50.10274,20.01721
-system,#r8272,★¾,AI,Enklawa Bukowa,Wawel Service,Kraków,2 kw. 2027,145,,11000,50.039093569876,20.048389082134
-system,#r8273,★½,AI,Enklawa Bukowa II,Wawel Service,Kraków,4 kw. 2027,189,,9900,50.039534194888,20.048862836753
-system,#r8275,★★,AI,Łagiewniki - ul. Sowia,HSD Inwestycje,Kraków,4 kw. 2026,20,,,50.022827107666,19.938591041637
-system,#r8278,★¾,AI,APARTAMENTY PRZY ZAKRZÓWKU,Wakom,Kraków,3 kw. 2025,172,,16000,50.032867,19.918161
-system,#r8279,★★½,AI,Łepkowskiego,Wawel Service,Kraków,2 kw. 2026,43,,14800,50.090416583385,19.96321614233
-system,#r8281,★¾,AI,Safrano,CORDIA,Kraków,4 kw. 2023,97,,,50.023653600662,19.919871561581
-system,#r8284,★¼,AI,Osiedle Ozon etap 5 i 6,Biuro sprzedaży Osiedle Ozon - MEGAPOLIS Spółka z o.o.,Kraków," kw. ",7,,12419,50.102142,19.955725
-system,#r8289,★★¾,AI,Cascada House,Imperial Capital,Kraków,2 kw. 2027,64,,,50.102980796054,19.84076845767
-system,#r8316,★★¼,Wstępna,Aleje Wolności 16,G 16 Górscy sp. jawna,Kraków,4 kw. 2027,64,,11340,49.61618,20.69715
-system,#r8339,★¾,AI,Szklane Tarasy Gorlice - Blok B,STG SYSTEM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,Kraków,4 kw. 2024,45,,7400,49.661748411902,21.152791536909
-system,#r8350,⓿,AI,Nova Krzyszkowicka,ADKON sp. z o.o. ul. Płaszowska 11 32-005 Niepołomice,Kraków,1 kw. 2026,12,,8500,49.9909122,20.025519
-model,#r8362,★¼,Wstępna,Smętna Garden,Dom-Bud M. Szaflarski Sp. j.,Kraków,3 kw. 2025,28,,15700,50.09067430000001,19.8872347
-model,#r8369,★★,Wstępna,Apartamenty Panorama,Panorama Jaworki Spółka z o.o.,Kraków,1 kw. 2027,34,,11606,49.4098274,20.5618985
-model,#r8372,★¼,Wstępna,Punkt Wola,Excon S.A.,Kraków,1 kw. 2027,57,,14600,50.01909646900104,19.962182129971154
-model,#r8378,★★¾,Wstępna,Cieszyńska 9,Palladio Cieszyńska 9 Pasek Paluch sp. K.,Kraków,2 kw. 2023,79,,15400,50.074958242657495,19.931671045328695
-system,#r8463,★,AI,Osiedle Zdrojove Zacisze w Busku-Zdroju,MTM-DEVELOPMENT POLSKA SP. Z O.O.,Kraków,2 kw. 2027,67,,7600,50.463910623739,20.702555568769
-model,#r8495,★★½,AI,Stawowa Residence etap IV,Imperial Stawowa Residence,Kraków,4 kw. 2020,38,,9400,50.0958599538223,19.88883837063809
-model,#r8496,★★,AI,Green Park Villa etap II,Imperial Capital,Kraków,3 kw. 2022,76,,11028,50.091492532642754,19.87115111865887
-model,#r8500,★¼,Wstępna,Trybuny Ludów 3,Grupa Enbud  Sp. z o.o. Sp. K,Kraków,4 kw. 2026,31,,14345,50.01959424222932,19.961074038966267
-system,#r8504,⓿,AI,Zodiak,Grupa Orion Investment.S.A.,Kraków," kw. ",2,,,50.0306445,20.0517777
-system,#r8512,⓿¼,AI,Staw Płaszowski II,Activ Investment Sp. z o.o.,Kraków,4 kw. 2025,1,,14500,50.039399892905,19.975316563763
-model,#r8528,⓿¼,Wstępna,Sołtysowska Vidok,Zieliński Development Sp. z o.o.,Kraków,4 kw. 2026,22,,10785,50.061969256380046,20.022732273989064
-model,#r8529,⓿¾,Wstępna,Osiedle Versus etap II,Frax-Bud Franciszek Drożdż,Kraków,2 kw. 2026,214,,12439,50.01373255803813,19.882590683966697
-model,#r8531,★¾,Wstępna,Weduta Krakowa etap I,Architecture Vento,Kraków,4 kw. 2025,160,,14000,50.10605414873575,19.960720330912153
-model,#r8531,★¾,Wstępna,Weduta Krakowa etap II,Architecture Vento,Kraków,2 kw. 2026,53,,13800,50.10643825915102,19.960787866362054
-model,#r8551,★,Wstępna,3 Wymiary Bronowice,3 Wymiary Bronowice Sp. z o.o.,Kraków,1 kw. 2027,99,,15100,50.09455757585628,19.90869913228944
-model,#r8548,⓿¼,Wstępna,Kordiana 46,Grupa Deweloperska START,Kraków,1 kw. 2026,23,,14300,50.010783987501604,19.964499253498044
-system,#r8580,⓿¼,AI,Kozia 5 Bagry Apartments,WBG Development,Kraków,1 kw. 2026,21,,17000,50.0343412,19.9970726
-system,#r8564,★,Wstępna,Smętna Garden,DOM-BUD M. Szaflarski sp.j.,Kraków,4 kw. 2025,28,,15700,50.091251320064,19.885781542328
-system,#r8563,★,AI,Rynek Fałęcki 7,Solart Deweloper,Kraków,4 kw. 2026,1,,15790,50.018024805451,19.922565623679
-system,#r8568,★¼,AI,Zielona Krzyszkowicka,Veridia Development Sp. z o.o.,Kraków,1 kw. 2026,24,,9100,49.991776124956,20.019594000286
-model,#r8605,★¾,Wstępna,Podgórki Tynieckie,HSD Inwestycje,Kraków,4 kw. 2027,50,,11500,49.997119308868726,19.847558821425398
-model,#r8610,⓿,Niedostateczne dane,Sadyba 2.0,Eko In Sp. z o.o.,Kraków,2 kw. 2026,84,,9600,49.63178859183709,20.69558323375571
-model,#r8611,★¼,Wstępna,Merite Serena,Merite Sp. z o.o.,Kraków,3 kw. 2025,49,,15200,50.01613847717978,20.024934234742453
-model,#r8638,★★★,Wstępna,Dajwór,Buma Dajwór P.S.A.,Kraków,2 kw. 2028,20,,35150,50.050908054511055,19.94888104634297
-model,#r8637,⓿½,Wstępna,Slow City etap D,EKOPARK,Kraków,4 kw. 2026,116,,13900,50.09980526870061,19.91996865827985
-model,#r8644,★¾,Wstępna,Osiedle przy Wielickiej,Dom Development S.A.,Kraków,3 kw. 2027,124,,,50.011131564298424,20.005249684138455
-system,#r8668,★★¾,AI,Słoneczne Tarasy  - Nowy Sącz,Optibud Sp. z o.o.,Kraków,1 kw. 2026,34,,8950,49.610008197763,20.711317792035
-system,#r8675,★¼,AI,ZIELONE KOŹMICE,Vista Property Spółka z o.o.,Kraków,2 kw. 2026,10,,8399,49.955682439269,20.045307944489
-system,#r8679,⓿¼,AI,EKO SUCHARSKIEGO,Invemio Bis Sp.zo.o,Kraków," kw. ",16,,12225,50.016797087342,20.047347300507
-system,#r8688,★,Wstępna,Kraków Romanowicza,Kraków Romanowicza Sp. z. o.o.,Kraków," kw. ",873,,86,50.046160775663,19.962925837919
-system,#r8687,★¼,AI,Kordiana 46,Start,Kraków,1 kw. 2026,18,,14300,50.01085,19.96459
-system,#r8685,★¾,AI,Podgórki Tynieckie,HSD Inwestycje,Kraków,4 kw. 2027,50,,11500,49.997185677224,19.847554609536
-system,#r8720,⓿¼,Wstępna,Link Bunscha,Link Bunscha Megapolis Sp. z o.o. Sp.k,Kraków," kw. ",102,,13778,50.015598119813,19.884984214294
-system,#r8727,⓿½,AI,Michałowice k. Krakowa ul. Za Dworem,Wielicka Polana S. Piwowarczyk sp. k.,Kraków,3 kw. 2025,8,,10110,50.153614630303,19.992683623393
-system,#r8757,★¼,AI,Mój Przewóz,Activ Investment,Kraków,3 kw. 2027,68,,12600,50.041803002493,19.988583291725
-model,#r8787,★¾,Wstępna,Zielona Krzyszkowicka,Veridia Development Sp. z o.o.,Kraków,3 kw. 2026,24,,8100,49.99034335530256,20.030924183663757
-system,#r8803,★¾,AI,Clou Lindego,CLOU MEGAPOLIS Sp. z o.o. Sp. komandytowa,Kraków,4 kw. 2025,129,,15914,50.079146245009,19.875478479376
-system,#r8806,⓿¼,AI,Sądecka Panorama,DM HOMES,Kraków,4 kw. 2027,30,,,49.622090813797,20.629839180976
-system,#r8807,★★,AI,Dajwór,MJM 11,Kraków,2 kw. 2028,15,,35150,50.05117,19.94892
-model,#r8846,★½,Wstępna,Banacha 12,Super Krak S.A.,Kraków,4 kw. 2027,126,,12420,50.102318471149744,19.960795733436715
-model,#r8848,★,Wstępna,Kameralna Koszykarska,Kameralna Koszykarska,Kraków,2 kw. 2027,38,,14000,50.048564769655236,19.985960093830535
-system,#r8857,⓿¾,Wstępna,Nove Dobczyce,4K Development,Kraków,4 kw. 2026,74,,10475,49.880818792077,20.097379208037
-system,#r8858,★,AI,Banacha 12,Super Krak,Kraków,1 kw. 2027,126,,12419,50.102394719372,19.960695457672
-system,#r8864,★¼,AI,Młyńska Ogrody 5,Deve Invest Sp. z o.o.,Kraków,4 kw. 2026,69,,7490,50.466398578828,20.706044587042
-model,#r8881,★,Wstępna,Murapol GreenCity bud. 1,Murapol S.A.,Kraków,3 kw. 2027,168,,12550,50.021808960066345,20.04605207388925
-model,#r8886,★,Wstępna,Murapol Mateczniq bud. 4,Murapol S.A.,Kraków,3 kw. 2025,225,,17200,50.03621029622565,19.931495083567
-model,#r8896,★★,AI,Królowej Jadwigi Residence,Platforma Mieszkaniowa,Kraków,3 kw. 2024,20,,14791,50.07121302240254,19.86065756954983
-model,#r8897,★★¼,AI,The Emaus,Platforma Mieszkaniowa,Kraków,4 kw. 2025,3,,24900,50.0622477,19.8939307
-model,#r8898,★★★,Wstępna,The View,EKOPARK,Kraków,3 kw. 2026,100,,19500,50.0420934593251,19.934491638011835
-model,#r8908,★★¼,AI,Destino Domy,EKOPARK,Kraków,2 kw. 2026,14,,16800,50.06953994509247,19.89038405004711
-system,#r8913,★★¼,AI,Krzesławickie Tarasy,Risto,Kraków,4 kw. 2027,93,,,50.10284978963,20.056117283791
-system,#r8919,⓿,Niedostateczne dane,Sitowie,Grupa Urba,Kraków,3 kw. 2024,121,,13200,50.01513,19.90906
-model,#r8973,★★,AI,Krzesławickie Tarasy,Risto Deweloper,Kraków,4 kw. 2027,93,,11465,50.1024615,20.0562675
-model,#r8977,⓿,Niedostateczne dane,Apartamenty nad Wilgą,Platforma Mieszkaniowa,Kraków,4 kw. 2019,4,,6004,49.98703037792588,19.919629571052816
-system,#r8984,⓿,Niedostateczne dane,Szaflarska9,Awim Spółka z ograniczoną odpowiedzialnością Krowodrza Spółka komandytowa,Kraków,4 kw. 2026,12,,24500,50.0412577,19.9375358
-system,#r8988,★½,AI,Apartamenty przy Zakrzówku,Wakom,Kraków,3 kw. 2025,172,,16200,50.032592885447,19.918881111542
-system,#r8995,★★¼,Wstępna,Essa Kliny,Green Town Development,Kraków,4 kw. 2026,188,,10500,49.995387714205,19.900840223377
-system,#r8997,⓿¾,Wstępna,Podedworze 11,Westa Investments,Kraków,4 kw. 2026,98,,13900,50.014441008616,19.97428354049
-model,#r9006,★★★,Wstępna,Monument,Platforma Mieszkaniowa,Kraków,2 kw. 2026,115,,19481,50.084356436955204,19.929414515874537
-system,#r9007,★★½,Wstępna,Drago,Antrans Invest,Kraków,4 kw. 2027,99,,,50.102231806626,19.96109882571
-system,#r9010,★½,AI,Osiedle Fi,Osiedle Fi3 Megapolis Sp. z o. o. Spółka Komandytowa,Kraków," kw. ",217,,16787,50.033199022671,19.931296189269
-model,#r9015,★½,Wstępna,Przewóz 41 Residence,BAL-BUD Investment,Kraków,3 kw. 2026,47,,15000,50.04114227754575,19.992251332748403
-system,#r9028,★,AI,Strzelców 28,MFC Development,Kraków,3 kw. 2025,85,,,50.09782033826,19.974702964417
-model,#r9042,★★,AI,Grzegórzki Park,INTER-BUD Developer Sp. z o.o.,Kraków,4 kw. 2013,104,,0,50.06540717734515,19.966651738814026
-model,#r9045,★½,AI,Piasta Towers budynek 2,INTER-BUD Developer Sp. z o.o.,Kraków,4 kw. 2018,,,5100,50.10479658760174,20.01052437031192
-model,#r9043,★½,AI,Piasta Towers budynek 4,INTER-BUD Developer Sp. z o.o.,Kraków,4 kw. 2020,,,9100,50.10452765692125,20.008370070308953
-model,#r9045,★¾,Wstępna,Piasta Towers,INTER-BUD Developer Sp. z o.o.,Kraków,4 kw. 2017,109,,5100,50.10452577587024,20.010379965470225
-model,#r9046,⓿¾,Wstępna,Osiedle Bobrzyńskiego Blok B,INTER-BUD Developer Sp. z o.o.,Kraków,1 kw. 2011,42,,0,50.0235248,19.9013981
-model,#r9044,⓿¼,Wstępna,Piasta Towers budynek 3,INTER-BUD Developer Sp. z o.o.,Kraków,1 kw. 2019,96,,5343,50.10519155365513,20.009594124384265
-model,#r9047,★¼,AI,Domy na Klinach,INTER-BUD Developer Sp. z o.o.,Kraków,3 kw. 2010,23,,0,50.0089933,19.9080057
-model,#r9050,★½,Wstępna,Vis a Vis Wawelu,INTER-BUD Developer Sp. z o.o.,Kraków,4 kw. 2010,36,,9565,50.04971163779483,19.928314497932977
-model,#r9051,★¾,Wstępna,Wiślane Tarasy,INTER-BUD Developer Sp. z o.o.,Kraków,4 kw. 2010,60,,0,50.05540851686118,19.961336388417784
-model,#r9053,★★,AI,Kamienica Dworska,INTER-BUD Developer Sp. z o.o.,Kraków,4 kw. 2014,68,,0,50.044373997686094,19.92439729148354
-model,#r9054,★★,AI,Osiedle Bobrzyńskiego Blok D,INTER-BUD Developer Sp. z o.o.,Kraków,3 kw. 2011,55,,0,50.0209804,19.8988225
-model,#r9048,★¼,Wstępna,Osiedle Cztery Domy,INTER-BUD Developer Sp. z o.o.,Kraków,3 kw. 2011,52,,0,50.04401243714864,19.977049590956728
-model,#r9049,★¼,AI,Apartamenty W Krynicy,INTER-BUD Developer Sp. z o.o.,Kraków,4 kw. 2010,8,,0,49.3974053,20.9565405
-model,#r9056,⓿¾,Wstępna,Osiedle Bobrzyńskiego Blok A,INTER-BUD Developer Sp. z o.o.,Kraków,2 kw. 2010,42,,0,50.0235248,19.9013981
-model,#r9055,⓿¾,AI,Domy Pod Dębem,INTER-BUD Developer Sp. z o.o.,Kraków,4 kw. 2010,5,,0,50.0022466,19.8951866
-model,#r9052,★¼,AI,Panorama Swoszowicka,INTER-BUD Developer Sp. z o.o.,Kraków,4 kw. 2010,8,,0,49.983281,19.9370109
-model,#r9057,★¾,AI,Osiedle Pod Dębem,INTER-BUD Developer Sp. z o.o.,Kraków,3 kw. 2013,,,0,50.006439047061995,19.895279092202504
-model,#r9072,⓿¾,AI,Rynek Fałęcki,SOLART sp. z o.o.,Kraków,3 kw. 2026,4,,15791,50.018001267049165,19.9225694533081
-system,#r9087,★,AI,Przewóz Solar Garden,Asa Development,Kraków,1 kw. 2027,65,,15804,50.043027885284,19.990102895825
-model,#r9118,⓿¾,Wstępna,Stawowa ABC,Dom-Bud M. Szaflarski Sp. j.,Kraków,3 kw. 2025,29,,13500,50.10009726784479,19.87475513110117
-model,#r9121,★¼,Wstępna,Osiedle Pod Dębem,INTER-BUD Developer Sp. z o.o.,Kraków,3 kw. 2013,168,,5900,50.006439047061995,19.895279092202504
-model,#r9122,★★¼,Wstępna,Grzegórzki Park - Budynek nr 2,INTER-BUD Developer Sp. z o.o.,Kraków,4 kw. 2015,114,,8977,50.065284649777844,19.966616508189897
-system,#r9149,⓿¾,AI,Stawowa ABC,DOM-BUD M. Szaflarski sp.j.,Kraków,3 kw. 2025,17,,13500,50.098833673705,19.875186316555
-model,#r9125,★¾,Wstępna,Bursztynowy Dom,DK-Development Sp. z o.o.,Kraków,3 kw. 2025,5,,16500,50.07449682922792,19.97241606101801
-model,#r9158,⓿¾,Wstępna,Apartamenty Wielicka I etap,WAN S.A.,Kraków,1 kw. 2014,342,,0,50.01759861790422,19.99173068864095
-model,#r9159,⓿½,Wstępna,Apartamenty Wielicka II etap,WAN S.A.,Kraków,4 kw. 2017,121,,0,50.01861275846816,19.99164415909948
-model,#r9165,★,AI,Apartamenty Snycerska,WAN S.A.,Kraków,2 kw. 2020,,,0,50.022363343900636,19.992298655239882
-model,#r9185,★★½,AI,ATAL Residence Zabłocie I,ATAL S.A.,Kraków,2 kw. 2018,224,,7100,50.05081425341223,19.959767777758888
-model,#r9186,★★¼,AI,ATAL Residence Zabłocie II,ATAL S.A.,Kraków,3 kw. 2018,77,,7300,50.050779502029066,19.959944696448268
-system,#r9190,★¼,AI,Malborska 151,Krakusa Development,Kraków,1 kw. 2026,43,,14700,50.020505022629,19.960977477294
-system,#r9200,★½,AI,Osiedle Ozon - etap 7,Biuro sprzedaży Osiedle Ozon - MEGAPOLIS Spółka z o.o.,Kraków," kw. ",306,,12687,50.102316558906,19.957089974177
-model,#r9217,★★,AI,Osiedle Meiera,TDJ Estate,Kraków,3 kw. 2027,294,,12300,50.098567854354265,19.968721398237495
-model,#r9220,⓿,Brak,Grzegórzecka 77 - etap I,Develia,Kraków,4 kw. 2014,59,,0,50.056754914141656,19.964866949518857
-model,#r9221,★,AI,Słoneczne Miasteczko,Develia,Kraków,3 kw. 2023,"1,190",,8099,50.02020987020588,20.05744156779197
-model,#r9235,★¼,AI,Zakątek Telimeny,Archicom S.A.,Kraków,1 kw. 2027,70,,12850,50.01467641906766,20.022470346416423
-model,#r9238,★,AI,Osiedle Bociana 5,Archicom S.A.,Kraków,3 kw. 2027,280,,13350,50.0932970170943,19.9555137229252
-model,#r9239,★★¼,AI,Wita,Archicom S.A.,Kraków,4 kw. 2025,180,,0,50.072707288458915,19.949623039867646
-system,#r9254,★¾,AI,Stare Podgórze,Fracthon Development,Kraków,4 kw. 2025,25,,22032,50.043029118279,19.944884249019
-system,#r9253,⓿,Brak,Oaza Opatkowice,Oaza Opatkowice Sp. z o.o.,Kraków," kw. ",12,,8259,49.983772925685,19.889275371503
-system,#r9258,⓿,Brak,Nova Residence Prestige,Stobud Kraków Development,Kraków,3 kw. 2026,6,,27955,50.069491001116,19.874798304826
-model,#r9268,⓿,Brak,Kameralny Prokocim,Matexi Polska Sp. z o.o.,Kraków,4 kw. 2022,73,,11251,50.01672203034923,19.990385121725236
-system,#r9319,★★¼,AI,Sosnowiecka Park,Mak Dom Holding S.A.,Kraków,2 kw. 2027,86,,15000,50.095756425952,19.90668356319
-model,#r9325,⓿,Brak,Badurskiego 7,Budrem  Kraków,Kraków,3 kw. 2026,24,,14500,50.07094297156195,19.960555403136777
-model,#r9326,★★¼,AI,River Park,Imperial Capital,Kraków,2 kw. 2027,72,,12077,50.093799907248936,19.869747232411893
-system,#r9352,⓿,Brak,Apartamenty przy Zakrzówku,Wakom,Kraków,3 kw. 2025,172,,15500,50.032762113008,19.918188412202
-model,#r9384,⓿,Brak,Bochenka,Spółdzielnia Mieszkaniowa PIASKI NOWE,Kraków,4 kw. 2025,27,,15984,50.012018635331124,19.975767586288452
-system,#r9375,⓿,Brak,LifeSpot Kraków Lipska,Life Spot Management Sp. z o.o.,Kraków,4 kw. 2025,249,,,50.039438577597,19.99681161293
-system,#r9392,⓿,Brak,Badurskiego 7,Budrem,Kraków,4 kw. 2026,24,,14500,50.011581783252,19.99013943831
-system,#r9394,⓿,Brak,Torowa,MDR Skawina sp. z o.o.,Kraków," kw. ",190,,49,49.983016641913,19.825424988886
-system,#r9395,⓿,Brak,Piłsudskiego 32 - Krynica-Zdrój,HO-BU POLSKA Sp. z o.o.,Kraków,1 kw. 2025,13,,9000,49.4270048,20.9546158
-system,#r9397,⓿,Brak,Osiedle przy ulicy Spławy,Dewi Invest Sp.zo.o,Kraków,4 kw. 2026,12,,9800,50.08933,20.15013
-system,#r9417,★¾,AI,Nova Tymotkowa,Nokturn Deweloper,Kraków,4 kw. 2027,15,,16000,50.013542871515,19.89436978407
-system,#r9410,★★¾,AI,River Park,Imperial Capital,Kraków,2 kw. 2027,72,,14100,50.093378675563,19.868496271164
-system,#r9415,⓿,Brak,Weduta Krakowa,Architecture Vento,Kraków,2 kw. 2026,48,,13800,50.10692,19.9608
-system,#r9375,⓿,Brak,LifeSpot Kraków Lipska,Life Spot Management Sp. z o.o.,Kraków,4 kw. 2025,249,,,50.039438577597,19.99681161293
-system,#r9392,⓿,Brak,Badurskiego 7,Budrem,Kraków,4 kw. 2026,24,,14500,50.011581783252,19.99013943831
-system,#r9394,⓿,Brak,Torowa,MDR Skawina sp. z o.o.,Kraków," kw. ",190,,49,49.983016641913,19.825424988886
-system,#r9445,⓿,Brak,Zacisze Biema w Olkuszu - ostatnie wolne mieszkanie!,BUDOWLANYCH ANTRANS INVEST SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA,Kraków," kw. ",54,,494000,50.2604466421,19.578900290141
-model,#r9451,⓿,Brak,Vidok Residence - etap III,Platforma Mieszkaniowa,Kraków,3 kw. 2025,55,,7390,50.1591234,19.484243
-model,#r9477,⓿,Brak,QUADRA,Imperial Capital,Kraków,2 kw. 2027,168,,15100,50.098886050017406,19.91641790977039
-system,#r9500,⓿,Brak,Kombinat Mieszkań,Teatralne Residence Sp. z o.o.,Kraków,3 kw. 2026,16,,14700,50.078638818554,20.031560482225
-system,#r9488,⓿,Brak,Imperial Quadra,Imperial Capital,Kraków,3 kw. 2027,47,,15200,50.096829161663,19.918191198217
-system,#r9489,⓿,Brak,Osiedle Meiera,TDJ Estate,Kraków,4 kw. 2027,294,,12300,50.098322000421,19.968876912039
-system,#r9504,⓿,Brak,J​A\N͏A​S,Fracthon Development,Kraków,4 kw. 2027,29,,26500,50.047002679677,19.956370317532
-model,#r9511,⓿,Brak,Osiedle Ozon etap IV,Megapolis Development,Kraków,2 kw. 2022,171,,0,50.102060251072885,19.96303556358326
-model,#r9512,⓿,Brak,Osiedle Ozon etap III,Megapolis Development,Kraków,3 kw. 2022,186,,0,50.102109962764246,19.962959768086403
-model,#r9513,⓿,Brak,Osiedle Ozon etap VII,Megapolis Development,Kraków,4 kw. 2025,306,,12688,50.10203504568437,19.96296790814931
-model,#r9514,⓿,Brak,Osiedle Ozon etap VIII,Megapolis Development,Kraków,1 kw. 2027,112,,14224,50.10354615461065,19.95539313703175
-system,#r9521,⓿,Brak,Rosa Hills,4K Development,Kraków,2 kw. 2027,38,,9500,49.996430493751,20.027239271164
-system,#r9534,⓿,Brak,"Moja Skawina - nowe, komfortowe mieszkania w Skawinie",EPOL HOLDING SP. Z O.O.,Kraków,2 kw. 2027,288,,8500,49.980974444735,19.839568945508
-system,#r9532,★★½,Wstępna,Mogilska 31,Mogilska 31,Kraków,4 kw. 2028,145,,17095,50.066360324176,19.965447082224
-system,#r9527,⓿,Brak,Mieszkaj w mieście - etap Odkrywców (bud. L),Henniger Investment,Kraków," kw. ",130,,14400,50.087990369055,19.886084001669
-system,#r9525,⓿,Brak,Nordic Górka Narodowa,YIT Development,Kraków,4 kw. 2025,98,,13730,50.103796532032,19.957267694457
-system,#r9541,⓿,Brak,Sołtysowska Vidok,S1 Zieliński Development Sp zoo,Kraków,1 kw. 2027,22,,12355,50.062025847724,20.022895831666
-system,#r9546,⓿,Brak,Osiedle Ozon etap 8,Megapolis,Kraków,1 kw. 2027,112,,,50.102918915123,19.955353460854
-system,#r9544,⓿,Brak,Atal Bronowice,ATAL,Kraków,4 kw. 2027,188,,14650,50.102180375769,19.87529037502
-model,#r9565,⓿,Brak,MISTA Kraków,Grupa Victoria Dom,Kraków,2 kw. 2027,123,,12100,50.09992546251843,20.024106334038787
-system,#r9598,⓿,Brak,Willa Zalesie,Nokturn Deweloper,Kraków," kw. ",7,,14637,50.020768764157,19.907934067199
-system,#r9562,⓿,Brak,Apartamenty Dąbrowskiego 12,Remax Construct Sp. z o. o.,Kraków,3 kw. 2027,34,,19366,50.044895610207,19.958768544056
-system,#r9582,⓿,Brak,Mista Kraków,Victoria Dom,Kraków,2 kw. 2027,54,,12100,50.099307291365,20.023872958304
-system,#r9593,⓿,Brak,Malownicze Tarasy II,Risto,Kraków,4 kw. 2024,112,,11700,50.104234121049,20.058284276038
-system,#r9619,⓿,Brak,Osiedle Lawendowe,S-GRUPA sp. z o.o.,Kraków,1 kw. 2027,8,,12250,50.09341,19.92886
-model,#r9689,⓿,Brak,Ja\nas,Fracthon,Kraków,1 kw. 2028,36,,26500,50.04717237214439,19.95638586553896
-system,#r9705,⓿,Brak,Kosocicka Ambient,Hammak,Kraków,2 kw. 2028,48,,13956,50.004675,19.995069813492
-system,#r9706,⓿,Brak,Bociana 5,Archicom,Kraków,3 kw. 2027,269,,13826,50.093109522541,19.955666210679
-system,#r9707,⓿,Brak,29L͏͏,Archicom,Kraków,4 kw. 2026,72,,12421,50.0888139,19.9561234
-system,#r9708,⓿,Brak,Lea Spot - lokale inwestycyjne,Archicom,Kraków,2 kw. 2028,217,,15076,50.072115179833,19.897238090269
-system,#r9709,⓿,Brak,29L - Apartamenty inwestycyjne,Archicom,Kraków,4 kw. 2026,198,,13344,50.088615644403,19.956393570095
-system,#r9717,⓿,Brak,Apartamenty Casa Sole,Smart Apartments Sp.z o.o.,Kraków,4 kw. 2025,10,,13900,50.012541944484,19.899341371948
-system,#r9717,⓿,Brak,Apartamenty Casa Sole,Smart Apartments Sp.z o.o.,Kraków,4 kw. 2025,10,,13900,50.012541944484,19.899341371948
-system,#r9736,⓿,Brak,Gromadzka 57,GROMADZKA 57 SP. Z O.O. SPÓŁKA JAWNA,Kraków,3 kw. 2027,19,,16700,50.039236892709,19.97707712864
-system,#r9733,⓿,Brak,Atal Nova Obozowa,ATAL,Kraków,2 kw. 2028,154,,13622,50.019008638776,19.916066558198
-model,#r9773,⓿,Brak,Osiedle Teatralne 19,Frax-Bud Franciszek Drożdż,Kraków,1 kw. 2026,106,,11900,50.08023439999999,20.0302944
-model,#r9774,⓿,Brak,Osiedle Teatralne 19 - apartamenty inwestycyjne,Frax-Bud Franciszek Drożdż,Kraków,1 kw. 2026,106,,13400,50.0802511,20.0303133
-model,#r9770,⓿,Brak,Apartamenty pod Stokiem,Platforma Mieszkaniowa,Kraków,1 kw. 2028,4,,17700,50.07152634819878,19.852415136243767
-model,#r9772,⓿,Brak,Rudava Park,Platforma Mieszkaniowa,Kraków,1 kw. 2028,24,,16000,50.07178685634348,19.85837793796453
-model,#r9771,⓿,Brak,Królowej Jadwigi Residence II,Platforma Mieszkaniowa,Kraków,2 kw. 2027,16,,14900,50.070871799999985,19.8603415
-model,#r9784,⓿,Brak,Mogilska 31,Warimpex,Kraków,2 kw. 2028,145,,17238,50.0663817486946,19.96568611423541
-system,#r9790,⓿,Brak,Osiedle Teatralne 19,FRAX-BUD,Kraków,1 kw. 2026,106,,11900,50.07707,20.02289
-system,#r9795,⓿,Brak,Osiedle Lasówka,Stylhut Investments Sp z o.o.,Kraków,2 kw. 2025,125,,12700,50.0477822,19.9941876
-system,#r9823,⓿,Brak,Banacha 12,Super Krak S.A.,Kraków," kw. ",126,,12420,50.1018119,19.961217
-model,#r9816,⓿,Brak,Apartamenty Park Matecznego Etap 2.2,Dom Development S.A.,Kraków,3 kw. 2027,105,,16700,50.0367804,19.936559
-system,#r9855,⓿,Brak,SZAROTKI PARK,DOM.NBC sp. z o.o.,Kraków,1 kw. 2027,12,,15841,50.100402286937,19.880330579272
-system,#r9860,⓿,Brak,29 L,Archicom,Kraków," kw. ",115,,9990,50.088805998676,19.95605870741
-system,#r9863,⓿,Brak,Rudava Park,Krakowska Grupa Deweloperska,Kraków,1 kw. 2028,24,,16000,50.072092343854,19.858211665112
-system,#r9864,⓿,Brak,Morelife Apartments,Krakowska Grupa Deweloperska,Kraków,2 kw. 2026,36,,18900,50.069363771408,19.87236760578
-system,#r9865,⓿,Brak,The Emaus,Krakowska Grupa Deweloperska,Kraków,2 kw. 2026,12,,24900,50.063398111329,19.893213580354
-system,#r9867,⓿,Brak,Zakole Wisły Atal,ATAL,Kraków,2 kw. 2025,134,,12881,50.051749873973,19.986536315686
-system,#r9868,⓿,Brak,Residence Królowej Jadwigi II,Krakowska Grupa Deweloperska,Kraków,4 kw. 2027,16,,14900,50.070929456908,19.860662039878
-system,#r9869,⓿,Brak,Apartamenty Pod Stokiem,Krakowska Grupa Deweloperska,Kraków,1 kw. 2028,4,,17505,50.071414366767,19.852378950706
-system,#r9875,⓿,Brak,Nowe Branice II,Invest House,Kraków,4 kw. 2027,96,,12000,50.071534677111,20.140286799523
-model,#r9883,⓿,Brak,Apartamenty Jasińskiego,TAD-INVEST Drożdż,Kraków,2 kw. 2026,13,,14900,50.023225858567606,19.99269576685139
-model,#r9886,⓿,Brak,Przystanek Prądnik,Dom Development S.A.,Kraków,4 kw. 2027,121,,12600,50.09945479999998,19.9711086
-model,#r9883,⓿,Brak,Apartamenty Jasińskiego,TAD-INVEST Drożdż,Kraków,2 kw. 2026,13,,14900,50.023225858567606,19.99269576685139
-model,#r9886,⓿,Brak,Przystanek Prądnik,Dom Development S.A.,Kraków,4 kw. 2027,121,,12600,50.09945479999998,19.9711086
+Widok,Inwestycja,Deweloper,Liczba Mieszkań,Balkony,Fasady,Mieszkania,Teren,Udogodnienia,Wnętrza,ocenaLOG,ocena_wazona,Longitude,Latitude
+,Dąbrowskiego Stare Podgórze,Archicom S.A.,,2,2,,0,,,1.66,0.00,19.9582231,50.0446587
+#r3064,Murapol Parki Krakowa,Murapol S.A.,"1,021",0,1,0,0,,2,0.96,983.97,19.92621046822076,50.094599424352296
+#r3071,Jerozolimska,Cordia Polska,159,2,3,3,1,1,2,2.31,367.13,19.966882982062856,50.03610762086256
+#r3074,Viva Piast,Victoria Dom S.A.,365,2,0,0,0,,,0.95,348.38,20.011866975335604,50.10634947446168
+#r3086,Mieszkaj w mieście - etap Pianistów budynek I.,Henniger Investment S.A.,141,1,4,1,1,1,,2.57,362.68,19.888682635459006,50.08386568065739
+#r3090,Kuźnicy Kołłątajowskiej 68,Real-Construct Sp. z o.o.,115,1,0,1,0,1,,0.71,81.48,19.95109661294575,50.09841715416643
+#r3093,Lokum Vista etap IIIb,Lokum Deweloper,131,0,1,2,1,,2,1.45,189.33,19.96098446973518,50.02440626259386
+#r3094,Mazowiecka 115,Des Henryk Dowgier Anna Dowgier,86,1,2,1,1,,3,1.96,168.88,19.920365335503874,50.07737336399814
+#r4816,Osiedle przy Malborskiej,Dom Development S.A.,70,1,0,1,1,1,3,1.67,117.09,19.962346043763254,50.02022567840251
+#r3103,Osiedle Górka Narodowa,Dom Development S.A.,490,1,1,1,2,1,2,1.45,711.89,19.953894081248226,50.10085094858678
+#r3112,Mieszkaj w Mieście - etap Poetów budynek K,Henniger Investment S.A.,224,1,3,2,1,1,3,2.23,499.18,19.88576520291305,50.08654359369402
+#r3122,Osiedle Ozon etap V,Megapolis Development,183,0,1,1,0,0,,0.52,95.73,19.963010241199243,50.10203941404777
+#r3122,Osiedle Ozon etap VI,Megapolis Development,236,0,1,1,0,0,,0.52,123.46,19.96305723129649,50.10208975869758
+#r3125,Osiedle Lasówka etap II,Stylhut Plus Sp. z o.o.,124,1,3,1,1,,,1.95,242.35,19.99430998976583,50.049133157070486
+#r3129,29. Aleja,Dom Development S.A.,149,1,2,1,1,0,3,1.81,269.55,19.951034335526316,50.078844217385814
+#r3167,Pękowicka 94,Real-Construct Sp. z o.o.,24,1,1,,0,,,0.76,18.32,19.914614755090156,50.10091424669486
+#r3168,Centralna Vita,Develia,371,2,2,,1,0,,1.53,568.11,20.01240180170109,50.05864754170712
+#r3169,Murapol Mateczniq,Murapol S.A.,187,1,1,0,0,,1,0.71,132.49,19.93128,50.03652
+#r3171,Ocean Apartments,Resi Capital S.A.,120,2,0,,0,0,3,1.81,216.89,19.973566863750168,50.04773847086744
+#r3172,Apartamenty Park Matecznego Etap 1,Dom Development S.A.,26,2,2,,1,,3,2.24,58.25,19.937273043357767,50.035682723816144
+#r3173,29. Aleja etap 2,Dom Development S.A.,166,1,0,,0,0,3,1.64,272.42,19.950782877926734,50.07872464245437
+#r3174,Grzegórzecka 77,Develia,86,1,2,0,2,,,1.53,131.69,19.967321224706954,50.056678757594206
+#r3175,Craft Zabłocie,Cordia Polska,94,2,3,,0,0,2,2.00,187.79,19.966143274472707,50.050450023798426
+#r3176,Osiedle Górka Narodowa etap 5,Dom Development S.A.,113,1,0,,1,1,2,1.20,135.21,19.95543256838149,50.10007407644052
+#r3177,Portowa Zabłocie,YIT Development Sp. z o.o.,156,3,3,,1,0,,2.40,373.68,19.970145195688605,50.05111294256829
+#r3102,Osiedle przy Malborskiej II,Dom Development S.A.,159,2,0,1,1,0,3,1.76,280.01,19.962298033113544,50.02052465059213
+#r3178,City Vibe,Develia,125,2,0,,1,0,2,1.36,170.1,19.99768571497244,50.045401432717576
+#r3179,Bochenka Vita,Develia,140,1,0,,0,0,1,0.52,73.24,19.977636232404855,50.010912670867874
+#r3180,FORTnatura,Frax-Bud Franciszek Drożdż,342,0,2,,2,0,,1.43,490.35,19.927610204347822,50.08364928941385
+#r3181,Apartamenty Składowa,KRAK-KOLOR SKŁADOWA SP. Z O.O.,85,1,2,,0,0,3,1.86,158.3,19.931986750945235,50.0798920668405
+#r3182,Vido,EKOPARK,34,3,3,,1,,3,2.76,93.72,19.9859,50.07285
+#r3183,Koletek 3,GSS Property Suwaj,21,1,3,,0,,4,2.98,62.49,19.93945054536003,50.05242922871782
+#r3184,Czerwieńskiego 3,Real-Construct Sp. z o.o.,85,2,2,1,0,1,,1.45,122.85,19.903378675556578,50.08639586482012
+#r3185,Mieszkaj w Mieście - Zacisze Banacha,Henniger Investment S.A.,108,1,2,1,1,,3,1.96,212.08,19.960476901842345,50.10128634286417
+#r3186,Forma Otwarta,EKOPARK,128,2,1,,2,0,3,2.04,261.55,19.890339009205995,50.09280961959625
+#r3190,Sołtysowska,Sołtysowska Sp. z o.o.,73,2,1,,1,0,3,1.91,139.74,20.02147523673975,50.064165383953224
+#r3191,Dąbska Pools,Dasta Invest Sp. z o.o.,132,2,2,,0,,,1.66,219.12,19.985278381619587,50.06557039148139
+#r3192,Łepkowskiego 11,Grupa Wawel Service,43,3,0,,0,0,3,2.16,92.7,19.962924097390587,50.0913699645077
+#r3193,Piasta Park VI,Grupa Wawel Service,118,1,0,,0,,,0.45,53.43,20.017408464970483,50.10343272748462
+#r3194,Apartamenty Portowa,Matexi Polska Sp. z o.o.,99,2,2,,0,0,1,1.36,134.72,19.970348841770978,50.050712580734405
+#r3195,Apartamenty Maestro,Awim Grupa Inwestycyjna,78,3,0,,0,1,,1.82,142.33,20.026680277857032,50.01511043562481
+#r3196,Podgórska Park,Platforma Mieszkaniowa,18,0,0,,0,,,0.00,0,20.02323315116138,49.97932764253581
+#r3197,Osiedle Symbioza etap IV,Rogala Development Sp. z o.o.,111,0,0,,0,0,,0.00,0,20.02369425363821,50.06228671919969
+#r3199,Apartamenty Wybickiego 2.0,GVD Sp. z o.o.,43,3,3,2,0,1,3,2.48,106.47,19.91865447059392,50.083271574559305
+#r3200,Faktoria Młyn,Faktoria Młyn Sp. z o. o.,62,,3,,2,1,3,2.53,156.94,20.0375596087886,50.086527323892035
+#r3201,Przewóz 42 ATAL,ATAL S.A.,126,1,2,,1,,3,2.11,265.55,19.998216213424886,50.04156422057281
+#r3202,Do Wilgi,Matexi Polska Sp. z o.o.,100,2,0,,0,1,2,1.36,136.08,19.93253,50.02272
+#r3203,Piasta Towers bud. 86 i 86A,INTER-BUD Developer Sp. z o.o.,130,2,0,,1,1,1,1.20,155.56,20.010546414160654,50.1043621997815
+#r3204,Mieszkaj w mieście - Etap Odkrywców L,Henniger Investment S.A.,130,1,3,,0,0,2,1.86,242.1,19.88639687292741,50.087824381660496
+#r3205,Nowa Pszczelna,Nowy Ląd Sp. z o.o.,26,1,0,,0,1,3,1.71,44.34,19.916533436264103,50.024487872771765
+#r3206,Viva Piast 5,Victoria Dom S.A.,99,2,0,1,0,,,1.11,109.64,20.01129763833947,50.10620791848944
+#r3207,Nowa Siewna etap III,Super Krak S.A.,61,3,1,,0,,,2.07,126.35,19.95995842634185,50.09367168708252
+#r3209,Glogera bud. H,Dom-Bud M. Szaflarski Sp. j.,37,0,1,0,0,,3,1.64,60.72,19.926038547068277,50.09915613423948
+#r3210,SoHo Residence II,Terra Casa S.A.,53,3,2,,1,1,3,2.36,125.12,19.954881562320658,50.056606158614585
+#r3211,ul. Powstańców/os. Piastów bud. E,Dom-Bud M. Szaflarski Sp. j.,115,1,0,,0,,1,0.62,71.31,20.015355832639923,50.10583678895116
+#r3212,Federowicza – Ruczaj Park,HSD Inwestycje,116,3,1,,0,,,2.07,240.26,19.882585484725674,50.0151151150933
+#r3213,Conrada 27,MJM Conrada Sp. z o.o.,144,0,1,1,0,1,,0.71,102.03,19.90301,50.08865
+#r3214,Kapelanka - Pychowicka - budynek CD,Budrem  Kraków,102,1,2,0,1,,1,1.20,122.05,19.91973451378626,50.03392495343905
+#r3215,Podedworze 13,EKOPARK,220,1,0,,1,0,,0.62,136.43,19.976862910708423,50.012740825765775
+#r3216,Na Wzgórzach,J.W. Construction Holding S.A.,37,1,3,,0,,,2.07,76.64,19.962068077919383,49.87339346462216
+#r3217,Strefa Cegielnia 2,ATAL S.A.,134,1,2,1,0,0,,1.09,145.65,20.043523890117626,50.108647760439645
+#r3218,Strzelców 28,MFC Development,107,0,1,,1,0,,0.62,66.35,19.974656539631624,50.097846340268354
+#r3219,Ecco Panorama,PM-Development Sp. z o.o.,101,0,1,,0,,,0.45,45.74,20.06281280046946,50.00279092792036
+#r3220,Viva Piast 4,Victoria Dom S.A.,81,2,0,1,0,,,1.11,89.71,20.011274069960677,50.10622689230716
+#r3221,Przewóz 4,Grupa Proins,127,0,0,,0,0,,0.00,0,19.98536,50.0451
+#r3222,Stawowa,Dom-Bud M. Szaflarski Sp. j.,26,0,1,,1,0,2,1.09,28.26,19.876026042118898,50.099718019487995
+#r3223,City Łobzów,Des Henryk Dowgier Anna Dowgier,205,1,1,,1,0,,0.83,169.74,19.90835,50.08173
+#r3224,Kameralny Prokocim 2,Matexi Polska Sp. z o.o.,49,1,0,,0,,2,1.11,54.27,19.98827,50.01528
+#r3225,Villa Botanica,GRUPA LANDESKRONE,18,3,2,,0,2,3,2.42,43.47,19.957272181802228,50.06052047841856
+#r3226,Łokietka Park Lane,Hammak,56,3,3,,1,,,2.66,148.96,19.90887725571531,50.099550242251915
+#r3227,Dominikanów,Dasta Invest Sp. z o.o.,53,4,1,,0,,,2.97,157.27,19.96402642620808,50.087161589221665
+#r3229,LINDEGO2,Noho Investment,248,3,3,,2,3,3,2.86,710.48,19.879742595147814,50.079313540339975
+#r3230,Domosfera II,Bryksy,128,1,2,,1,,1,1.36,173.74,19.987068344265914,50.092159465843324
+#r3232,Start City etap IV,Grupa Deweloperska START,87,0,0,,0,,,0.00,0,20.001805214060894,50.0164484460456
+#r3234,Skwer Harmonia,ATAL S.A.,150,1,2,,0,1,3,1.91,287.15,20.04238688487541,50.039775211158144
+#r3235,Strefa Cegielnia,ATAL S.A.,144,3,2,,0,0,2,2.00,287.68,20.043520247297163,50.10881540844069
+#r3236,Libra Residence,MFC Development,52,1,4,,2,3,4,3.33,173.05,19.94583816698479,50.058769314429284
+#r3237,Arka Nova,Optimum Inwestycje Optimum Sp. z o.o. Sp. Komandytowa,67,2,1,,0,0,,1.11,74.2,19.85918605151536,49.97539716203017
+#r3238,Sitowie,Urba Sp. z o.o.,121,1,0,0,3,,3,2.19,265.57,19.90938077192374,50.01491817197441
+#r3239,Wzgórze Wielickie,HRMS Invest,112,0,1,,0,,2,1.11,124.04,20.048853053564642,50.00001587583524
+#r3240,Młyny Mogilska,Noho Investment,422,1,4,,2,3,,3.05,"1,288.74",19.981469487735414,50.070545090034486
+#r3241,Na Błonie 106,Grupa Wawel Service,29,2,1,,0,,3,2.05,59.56,19.877544815563134,50.07288964552434
+#r3242,Emaus Garden,Grupa Matejek,125,3,3,,0,,3,2.73,341.1,19.889862682953545,50.0656530449911
+#r3243,Turniejowa 59,EKOPARK,121,0,0,,0,,1,0.36,43.24,19.960346257015523,50.010773814747296
+#r3244,Green Park Villa etap III,Imperial Capital,84,3,1,,0,,,2.07,173.98,19.87208580649832,50.09059188721849
+#r3245,Illumina,Excon S.A.,145,1,1,4,1,,,2.75,399.17,20.010823163112903,50.01120600976093
+#r3246,Mieszkaj w mieście - etap Reżyserów budynek J,Henniger Investment S.A.,177,2,3,1,1,1,,1.96,347.58,19.88713954959425,50.08507152756373
+#r3248,Life Hub,Urba Sp. z o.o.,30,1,3,1,1,1,,1.82,54.7,19.923336383921807,50.07308689428253
+#r3249,Slow City,EKOPARK,224,1,1,,2,1,3,1.96,439.88,19.920859507900836,50.100042216670715
+#r3250,Apartamenty przy Parku,Murapol S.A.,10,0,1,0,0,1,,0.52,5.23,20.041315461492005,49.991413215862806
+#r3251,Długa Residence,Platforma Mieszkaniowa,38,3,3,4,0,4,4,3.53,134.18,19.9383219131385,50.06799939276065
+#r3252,Art City,EKOPARK,415,3,0,,1,,,2.07,859.56,19.97176492730197,50.06121266751753
+#r3170,Słoneczne Miasteczko,Develia,165,0,1,,1,,,0.76,125.96,20.05899613645359,50.0209389289578
+#r3939,Pod Jesionem,VESDOM DEVELOPMENT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,6,4,2,,1,,4,3.40,20.37,19.877154291034,50.086032579116
+#r3940,Apartamenty Radzikowskiego,RADZIKOWSKIEGO APV SP. Z O.O.,46,1,1,,0,,0,0.62,28.53,19.899965,50.08474
+#r3941,Osiedle Pasteura Etap IV,Tętnowski Development,33,1,0,,0,,,0.45,14.94,19.933248832857,50.097370149854
+#r3943,EkoSucharskiego,Sucharskiego,16,1,1,,0,,,0.76,12.21,20.044281416133,50.018152060018
+#r3944,Nowe mieszkania od 31m2 do 45m2 - Nowa Huta,Invest House,32,1,1,,0,,,0.76,24.43,20.140286799523,50.071534677111
+#r3945,Osiedle Kołłątajówka,Spravia,108,0,2,,2,0,3,2.00,215.76,19.960959295206724,50.09928768677168
+#r3947,La Vie House,Imperial Capital,255,3,2,,2,2,3,2.52,643.4,19.942920286927965,50.03133014759222
+#r3949,Casa Feliz Portowa,Casa Feliz Portowa Sp. z o.o.,90,0,1,,0,1,2,1.09,97.82,19.974104436705396,50.04850289011444
+#r3952,Pękowicka 96,Hopfen Sp. z o.o.,27,0,1,,0,1,,0.62,16.74,19.914553929874415,50.10126197500432
+#r3954,Osiedle Imbramowskie,TDJ Estate,212,3,2,,1,0,,2.05,435.43,19.95040869908896,50.088431398510934
+#r3957,Apartamenty Gdyńska,APARTAMENTY GDYŃSKA,96,1,1,,0,,3,1.89,181.6,19.912784271164,50.091440624308
+#r3958,Wiślane Klimaty,Start,69,2,2,,0,,,1.66,114.54,19.996890414415,50.046219117752
+#r3959,Słomczyńskiego Widoki,Caba Development,89,2,0,,0,,,1.14,101.54,19.95869,50.099
+#r3960,Moderno Łobzów,Ardekon,91,0,1,,0,1,3,1.71,155.21,19.930843688381096,50.08004775433446
+#r3961,Wzgórze Krzemionki,Matejek Sp. z o.o.,62,3,1,,0,,,2.07,128.42,19.966565249126,50.035390470471
+#r3963,Staw Płaszowski II,Activ Investment Sp. z o.o.,31,2,0,,1,,,1.31,40.58,19.975810153498266,50.0377239250895
+#r3966,Osiedle Ozon,Megapolis Development,"1,474",2,0,,1,,,1.31,"1,929.46",19.961148,50.1019717
+#r3968,Link Bunscha,Megapolis Development,102,0,0,,0,,,0.00,0,19.885244542329,50.016103962597
+#r3971,Willa Zalesie,Nokturn Deweloper,36,3,1,,1,,,2.14,77.07,19.90787679266,50.020843291019
+#r3973,Glogera 32 | w harmonii z naturą,Realimpex Inwestycje Sp. z o.o.,55,1,,,0,,,0.62,34.11,19.927108342329,50.103310238615
+#r3974,U Przybyszewskiego,EKOPARK,206,1,1,,2,2,3,2.09,429.91,19.89139628970853,50.068808184063606
+#r3975,Green Square Apartments,Arfa Invest,59,3,3,,0,,,2.62,154.53,19.984471222091,50.095202682218
+#r3228,5cubes,KRK ESTATE,84,3,2,1,0,,,2.05,172.53,19.903747515060243,50.0953892956946
+#r3976,Piasta Towers,INTER-BUD Developer Sp. z o.o.,903,3,0,,0,,2,2.00,"1,803.5",20.010905144775,50.104755578014
+#r3977,Wiślane Tarasy 2.0,INTER-BUD Developer Sp. z o.o.,865,4,3,,1,4,4,3.62,"3,130.88",19.96226980288539,50.05507552976693
+#r3978,Noble Residence,Bartycka Real Estate,80,2,3,,1,,3,2.53,202.5,19.929392,50.058815
+#r3980,Start City,Start,94,0,0,,0,,,0.00,0,20.00041570462,50.01531003866
+#r3981,Alchemik,Grupa Arkada,13,0,1,,0,0,,0.36,4.65,19.94137938769371,50.038571375000146
+#r3982,Mieszkaj w Mieście – etap Poetów (bud. K),Henniger Investment S.A.,224,1,3,,2,,3,2.53,567.01,19.886084001669,50.087990369055
+#r3983,Osiedle Piltza X,KG Group Sp. z o.o.,179,1,0,,1,,,0.76,136.65,19.889626054818258,50.01084374745038
+#r3984,Kapelanka - Pychowicka,Budrem  Kraków,113,1,2,0,1,,1,1.20,135.21,19.92162118639048,50.03329232726616
+#r3985,Bagry – Lipska/Siemienowicza,HSD Inwestycje,70,2,0,,0,,,1.14,79.87,19.995769903286,50.037967720047
+#r3986,Greendustry Zabłocie,Quelle Locum Sp. z o.o.,125,2,2,,0,3,3,2.42,301.88,19.964369774892898,50.04697695942385
+#r3987,Krowodrza Park,Tętnowski Development,338,3,2,,0,1,3,2.33,786.81,19.91427173340809,50.07111917606963
+#r4307,Przewóz 42 ATAL II,ATAL S.A.,126,1,2,,1,,,1.45,183.06,19.998214180726432,50.04146278648608
+#r4312,SoHo Residence I,Terra Casa S.A.,97,3,2,,1,1,3,2.36,229,19.955,50.05647
+#r4316,Kameralna Golikówka,Kameralna Golikówka Sp. z o.o.,35,1,0,,0,0,1,0.52,18.31,20.003801420839622,50.041583107095654
+#r4321,Barska Forum,Grimbud,12,2,3,,,0,,2.25,27,19.928436834799975,50.052284824214
+#r4322,Glogera bud. F i G,Dom-Bud M. Szaflarski Sp. j.,110,1,1,0,0,,2,1.09,119.56,19.92611149647222,50.099244978357945
+#r4329,Bona.,EKOPARK,244,1,2,,1,1,,1.36,331.2,19.961206604893057,50.025955543923054
+#r4330,Osiedle Versus,Frax-Bud Franciszek Drożdż,70,0,1,,0,,,0.45,31.7,19.88122893694878,50.013754244039035
+#r4331,Nove Dobczyce,4K Development,74,2,1,,0,0,,1.11,81.96,20.09811872664838,49.88059370800473
+#r4332,Mierzeja Wiślana etap III,Instal Kraków S.A.,200,3,1,,0,0,,1.82,364.94,20.00316557290304,50.036105924642975
+#r4334,Osiedle Mozaika,KG Group Sp. z o.o.,184,0,1,,0,1,,0.62,114.1,19.917652980381675,50.0976973410558
+#r4438,Murapol Prado,Murapol S.A.,222,0,0,,0,,,0.00,0,19.92250759443424,50.098783112406224
+#r4453,Matejki Residence,Royal Invest sp. z o.o.,52,3,2,,1,,3,2.53,131.63,19.94153,49.831684
+#r4456,Green Park,Royal Invest sp. z o.o.,24,3,1,,0,,,2.07,49.71,19.949598570456,49.609204099947
+#r4483,Kameralna Piltza,Kameralna PILTZA,12,1,1,2,1,,2,1.52,18.28,19.8894788,50.0090562
+#r4484,Kapelanka-Pychowicka Etap III,Budrem  Kraków,139,2,1,,0,0,,1.11,153.94,19.9204861,50.0330018
+#r4488,Akacjowa Wita,ATAL S.A.,100,1,1,,1,0,,0.83,82.8,19.9812345572536,50.08550017898588
+#r4531,Geremka Inwestycja,Geremka Inwestycja  Spółka z ograniczoną odpowiedzialnością,50,2,1,,1,,,1.45,72.64,19.892754813603,50.003581084561
+#r4533,Destino,EKOPARK,90,3,3,,1,1,2,2.36,212.47,19.889391958625804,50.070296318272796
+#r4536,Kameralny Ruczaj,Activ Investment Sp. z o.o.,36,2,1,,0,,,1.31,47.12,19.919598,50.025143
+#r4541,Wita bud. E,Archicom S.A.,180,2,3,,0,0,,2.00,359.5,19.94952992798092,50.07273796581176
+#r4559,Mieszkaj w mieście - Ogrody Glogera,Henniger Investment S.A.,127,1,2,,,,2,1.76,223.95,19.931052741719192,50.09896556982916
+#r4587,Look Up House,Imperial Capital,140,2,2,,1,,3,2.24,313.63,19.917225837707527,50.095091310422305
+#r4605,Cechowa 100,Hammak,2,2,0,,0,,1,1.11,2.22,19.972951276513,50.006946258109
+#r4609,Zielona 27,HO-BU POLSKA Sp. z o.o.,56,,,,,,,0.00,0,20.692627,49.601242
+#r4636,Forma Otwarta etap II,EKOPARK,80,2,1,,2,1,3,2.09,166.95,19.890359812510532,50.092802320550064
+#r4638,Enklawa Bukowa,Grupa Wawel Service,155,0,0,,1,,,0.45,70.19,20.049395918958787,50.03938198787638
+#r4639,Stańczyka 5,Oaza Bronowice,94,2,2,,1,0,1,1.45,135.85,19.894454025480123,50.07818334657414
+#r4640,Łużycka 71,DDS Development Sp. z o.o. 3 Sp. k.,53,1,1,,0,1,,0.83,43.88,19.9680672318174,50.01286862479681
+#r4692,Stawowa Residence - etap V,Imperial Capital,48,3,1,1,1,1,,1.82,87.51,19.888464529826557,50.096456919326215
+#r4643,Kobi HOUSE,Imperial Capital,42,3,2,0,0,,2,2.00,83.91,19.909595643614743,50.02187829596227
+#r4678,Green Park etap II - apartament wykończony pod klucz,Imperial Capital,76,2,1,2,0,,,1.53,116.38,19.8733321,50.0923351
+#r4680,Osiedle Krokus etap IV,Osiedle Krokus,75,2,1,,0,,,1.31,98.17,19.94425982236863,49.59966796122887
+#r4685,Nordic Górka Narodowa,YIT Development Sp. z o.o.,98,1,3,1,2,1,2,1.97,193.05,19.957156066874116,50.10311932257979
+#r4687,Osiedle Dolina Prądnika,Spravia,128,0,1,0,2,,3,1.86,238.38,19.9276493,50.1030848
+#r4704,Lubostroń 13,Żołnierska Inwestycja Sp. z o.o.,61,3,3,,0,0,2,2.29,139.92,19.8967778477144,50.01474102878274
+#r4727,ATAL Aleja Pokoju IIIB,ATAL S.A.,248,2,1,1,0,1,,1.20,296.75,20.00955,50.0665
+#r4713,Masarska 6,ATAL S.A.,113,3,2,1,1,,3,2.36,266.77,19.9558727269627,50.05565836643348
+#r4756,Zakątek Dąbie,ATAL S.A.,121,3,1,,0,,2,2.05,248.52,19.976448256295285,50.05571501962835
+#r4786,Sensity,Dom Development S.A.,120,1,1,,0,,,0.76,91.61,19.97541946951325,50.0277823370691
+#r4830,Murapol Nowy Złocień,Murapol S.A.,771,0,0,,0,,0,0.00,0,20.04973331592746,50.02336575948963
+#r4861,Królewskie Tarasy,Murapol S.A.,710,0,0,,0,,,0.00,0,20.035508719841843,49.98666112001357
+#r4877,Centralna Park,Develia,"1,060",0,0,,0,,,0.00,0,20.008723730596277,50.06129470877186
+#r4882,Przy Mogilskiej,Develia,180,1,0,,0,,2,1.11,199.35,19.97685125999848,50.06906619156621
+#r5004,Fredry 6,Spravia,143,2,2,,0,1,,1.53,218.97,19.94307477816565,50.02591264753652
+#r5007,Nowa Myśliwska 55B,Spravia,174,0,2,,1,1,,1.24,215.8,19.997387861583423,50.04326000347821
+#r5009,Nowa Myśliwska,Spravia,129,1,1,,1,,2,1.36,175.1,19.99725855951848,50.04420673960467
+#r5013,Osiedle #dobrego III,Spravia,158,1,0,,0,0,,0.36,56.47,19.97805390025894,50.088962509006834
+#r5016,Fredry 6 - etap II,Spravia,189,2,1,,1,,2,1.62,306.2,19.942259456196005,50.024544885452215
+#r5018,Fredry 6 - etap IV,Spravia,187,1,1,,1,1,,1.00,187,19.94290529329597,50.02635527831339
+#r5050,Świtezianki,Matexi Polska Sp. z o.o.,70,2,4,,0,0,,2.77,194.07,19.981190804823278,50.06214637501495
+#r5053,Rogalskiego,Matexi Polska Sp. z o.o.,31,2,1,,1,,3,2.11,65.33,19.87583657869365,50.066614313703035
+#r5106,Lema 28,Grupa Wawel Service,67,2,1,,0,,2,1.53,102.6,19.987244318167182,50.06867008823659
+#r5119,Krygowskiego,Grupa Wawel Service,173,0,1,,0,,,0.45,78.34,19.901847243421415,50.00146771649438
+#r5107,Piasta Park III,Grupa Wawel Service,315,1,0,,0,,,0.45,142.64,20.01813500878317,50.10238516053744
+#r5113,Piasta Park V,Grupa Wawel Service,138,1,0,,0,,,0.45,62.49,20.0166930349761,50.10243834044168
+#r5115,Nova Wiosenna,Grupa Wawel Service,16,0,2,,1,,3,2.05,32.86,19.85250638339579,50.069542494060926
+#r5111,Lema 2,Grupa Wawel Service,96,2,0,,0,,,1.14,109.53,19.9854423103493,50.0697285921292
+#r5117,Krygowskiego III,Grupa Wawel Service,52,1,0,,0,,,0.45,23.55,19.901396881025075,50.001670000351425
+#r5110,Piasta Park IV,Grupa Wawel Service,314,1,0,,0,,,0.45,142.19,20.01628708094659,50.10291723495596
+#r5114,Apartamenty Nowa Bonarka,Grupa Wawel Service,81,0,0,,0,0,,0.00,0,19.956343723750642,50.02054642409175
+#r5109,Piasta Park II,Grupa Wawel Service,293,1,0,,0,,,0.45,132.68,20.018232528635583,50.102416800890396
+#r5145,Osiedle 7 życzeń,EKOPARK,96,2,1,1,0,1,,1.20,114.87,19.88756003863607,50.09120480836076
+#r5148,Apartamenty Morelove,EKOPARK,60,3,1,,1,2,3,2.36,141.65,19.87435991037245,50.06960754205696
+#r5144,DUO Residence,EKOPARK,35,2,2,,1,1,3,2.09,73.04,19.920040631494476,50.05260186211438
+#r5147,Nowa Lipska,EKOPARK,238,0,0,,1,,2,1.11,263.59,19.998393077640305,50.040751563604346
+#r5164,Lublańska Park,Grupa Wawel Service,108,2,2,,0,,,1.66,179.28,19.96994954982694,50.086279667747895
+#r5167,Wzgórze Krzemionki II,Grupa Matejek,62,3,1,,0,,,2.07,128.42,19.9666913,50.0349449
+#r5170,Casa Feliz Portowa II,Casa Feliz Portowa Sp. z o.o.,182,1,2,,1,1,3,1.96,357.4,19.97404878745174,50.04844847472264
+#r5266,Osiedle Krokus,KROKUS Sp. z o.o.,75,2,2,,2,,,2.00,150,19.946176,49.600289007317
+#r5305,Piłsudskiego 32,HO-BU POLSKA Sp. z o.o.,14,1,1,,1,,,1.00,14,20.954617,49.427006
+#r5312,Imperial Citi Yes,Imperial Capital,289,1,,,1,1,,1.00,289,20.00225364105924,50.05983144041146
+#r5313,Zalesie Corner House,Imperial Capital,24,3,2,,2,1,,2.24,53.77,19.90636753873318,50.02301998099155
+#r5421,Pachońskiego Sky,Hreit,328,2,0,,0,,1,1.11,363.27,19.923851592784192,50.09462788097246
+#r5449,Pękowicka Trio,Samson-Dom,83,3,1,,0,,,2.07,171.91,19.915314744731212,50.099140982203636
+#r5487,Apartamenty Zalesie,LV DEVELOPMENT,20,3,1,,0,,,2.07,41.42,20.023614890497363,50.192224872828746
+#r5588,Sebastiana 18,MB Development,54,0,3,,0,4,4,3.27,176.47,19.94326,50.05563
+#r5591,ul. Paszkowskiego - Pękowicka,HSD Inwestycje,52,2,1,2,0,,,1.53,79.63,19.913742310112003,50.10543546407513
+#r5597,Centralna,Grupa Proins,211,0,0,,0,0,,0.00,0,20.011178997615794,50.06583359556709
+#r5596,LIPSKA 16,Bryksy,117,1,1,,1,0,3,1.77,206.64,19.989392388366273,50.0399132249831
+#r5626,Nad Ruczajem,Epol Holding,160,2,1,,0,0,,1.11,177.2,19.886155397377696,50.010975868604
+#r5681,Safrano,Cordia Polska,99,2,2,,1,1,2,1.71,169.14,19.919960999962665,50.02368353128029
+#r5694,Kościuszki 22,Dasta Invest Sp. z o.o.,75,3,3,,0,2,4,3.03,227.01,19.924915676279593,50.05411267049068
+#r5698,Emaus Yacht,Hammak,19,2,2,,1,,,1.76,33.5,19.89007809003422,50.06574110598313
+#r5697,Odlewnicza Apartments,Hammak,20,1,1,2,1,0,,1.20,23.93,19.889982576858564,50.070394272511926
+#r5704,Kamienica z festonami,Platforma Mieszkaniowa,9,,,,,,2,2.00,18,19.937982919097088,50.067481559546096
+#r5712,Ułanów 58,Super Krak S.A.,54,3,2,,0,1,3,2.33,125.7,19.98120311353227,50.07981921010425
+#r5713,Bagry - ul. Lipska/Siemienowicza,HSD Inwestycje,70,2,0,,0,,,1.14,79.87,19.995955346113767,50.03854192382519
+#r5717,Przewóz 6,Grupa Proins,47,1,1,,0,0,,0.62,29.15,19.98658196307177,50.04331162809548
+#r5718,SASKA BLU etap III,Bryksy,173,1,2,,1,,2,1.62,280.28,19.983731336922283,50.03954351175527
+#r5720,Nowy Horyzont,Grupa Deweloperska START,89,1,0,,1,,1,0.83,73.69,20.062354320926698,50.09730512980668
+#r5820,Staw Płaszowski,Activ Investment Sp. z o.o.,49,3,1,,0,,2,2.05,100.64,19.975255078447862,50.03774146330319
+#r5822,Banacha II - budynek B2,Activ Investment Sp. z o.o.,115,2,1,,0,,,1.31,150.53,19.96166421658044,50.10308694068289
+#r5825,Bardosa,KRK ESTATE,35,2,2,,0,1,,1.53,53.59,20.06764190432722,50.06632834140766
+#r5826,"Piasta Towers budynek 6, 7 i 8",INTER-BUD Developer Sp. z o.o.,155,2,2,,2,,,2.00,310,20.00962690769959,50.10421030789691
+#r5828,Park Leśny Bronowice etap IV,Quelle Locum Sp. z o.o.,184,2,1,,1,,,1.45,267.32,19.872703002066405,50.10233669936831
+#r5866,Apartamenty Prądnik,Grimbud,120,1,1,0,0,,2,1.09,130.43,19.95716946380179,50.09578990636546
+#r5883,Pod Orłem,Optimum Inwestycje Optimum Sp. z o.o. Sp. Komandytowa,6,0,1,,1,,,0.76,4.58,19.786510913601795,50.18659892541054
+#r5949,CLoU Lindego,Megapolis Development,129,3,2,,1,,,2.31,297.86,19.875934625738,50.078764739954
+#r5962,Osiedle Szmaragdowe,Good Home Inwest Sp. z o.o.,22,1,2,,1,,,1.45,31.96,20.431913,49.98929
+#r6011,Lokum Siesta,Lokum Deweloper,517,2,2,,2,,,2.00,"1,034",19.92932191100182,50.034029840088046
+#r6012,Lokum Salsa,Lokum Deweloper,357,2,2,,2,,,2.00,714,19.972840992272097,50.04716254368819
+#r6012,Lokum Salsa etap III,Lokum Deweloper,48,2,2,,2,,,2.00,96,19.972919346068014,50.047256760406114
+#r6013,Dąbska Street- III etap,Dasta Invest Sp. z o.o.,177,2,1,,0,0,,1.11,196.03,19.986744098753398,50.067570951215224
+#r6026,Kasztelańska 22,Urba Sp. z o.o.,28,1,1,,0,,3,1.89,52.97,19.912909980626015,50.055600350407516
+#r6028,Apartamenty Cynamonowe,Awim Grupa Inwestycyjna,101,1,2,,0,1,2,1.45,145.97,19.93148732440206,50.08003599802317
+#r6270,Parkowe Kliny,INTER-BUD Developer Sp. z o.o.,16,2,2,,1,,,1.76,28.21,19.887453300309,50.000159275297
+#r6314,Apartamenty Uzdrowiskowe Hygge,Eko Park Invest sp z o.o.,132,3,2,,1,,2,2.24,295.71,20.7086277049,50.461410869285
+#r6339,Vidok Residence,VIDOK INVESTMENT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,55,1,1,,1,,2,1.36,74.66,19.484892,50.159515
+#r6419,Osiedle Pod Lipką 5,Perfekt Dom sp. z o.o.,24,1,2,,1,,,1.45,34.87,19.929498005626,49.829820517238
+#r6494,Zawiła 65,"Przedsiębiorstwo Budowlane START G. Szmolke, M. Szmolke spółka jawna",28,0,3,,1,,,2.07,57.99,19.89672,50.007515
+#r6538,Mogilska 35 Office,Mogilska Office 4 Sp. z o.o.,11,2,3,,1,,,2.31,25.4,19.965939,50.066406
+#r6536,Wolskiej Park,Green-Park Sp. z o.o.,59,3,1,,0,,2,2.05,121.18,20.691110354492203,49.61406110175334
+#r6553,Mieszkania ENERGOOSZCZĘDNE ul.Axentowicza +parking,GLOBET KOSTKA BRUKOWA Janusz Szkaradek,8,0,1,,0,,,0.45,3.62,20.67291,49.635437
+#r6550,Mieszkania ENERGOOSZCZĘDNE + miejsce postojowe,GLOBET KOSTKA BRUKOWA Janusz Szkaradek,10,1,1,,1,,0,0.83,8.28,20.672268,49.632206
+#r6608,Bunscha Park 4.0,Bunscha Park Sp. z o.o.,54,1,2,1,0,1,2,1.38,74.71,19.88336000423107,50.01315837770376
+#r6616,ul. Glogera,DOM-BUD M. Szaflarski sp.j.,262,0,0,,0,0,,0.00,0,19.927857100527,50.100917744638
+#r6618,ul. Powstańców / os. Piastów,DOM-BUD M. Szaflarski sp.j.,359,2,0,,0,0,,0.95,342.65,20.014711777991,50.105766652075
+#r6641,Gertrudy 7,AT RENT Sp. z o.o.,3,0,1,,0,,2,1.11,3.32,19.94046,50.05696
+#r6651,Rydlówka 40,Nokturn Deweloper,65,3,2,1,1,1,,1.96,127.64,19.93252833114627,50.035643153173396
+#r6649,Panorama Prądnik,Nokturn Deweloper,127,2,0,0,1,,,1.11,140.65,19.954844133580718,50.09854991705679
+#r6650,Willa Nokturn,Nokturn Deweloper,59,3,1,,1,0,,1.89,111.61,20.027862374104657,50.01539098956216
+#r6684,STELMACHÓW 205,ZABIELNY INVEST SPÓŁKA JAWNA,16,1,2,,1,,2,1.62,25.92,19.900118,50.097137
+#r6691,Glogera Bricks,KRK ESTATE,72,1,1,,0,,,0.76,54.96,19.926235454337753,50.104151545431414
+#r6693,Moja Skawina,Epol Holding,165,2,1,1,0,,,1.24,204.64,19.841812849044807,49.98232329180183
+#r6703,Viva Piast 6,Victoria Dom S.A.,108,2,1,,0,,,1.31,141.37,20.011639595031745,50.10600604993806
+#r6700,Dvorskie Residence,Dvorskie Residence,4,1,2,,1,,2,1.62,6.48,19.902930176069177,50.111861546456254
+#r6704,Jagiellońska Park,Royal Invest sp. z o.o.,86,2,2,,1,,,1.76,151.65,20.099052,49.88714
+#r6712,Wzgórze Gustawa,Awim Grupa Inwestycyjna,81,1,1,,1,,,1.00,81,20.05861959965889,50.10322598663827
+#r6711,Szaflarska 9,Awim Grupa Inwestycyjna,13,2,1,,1,,,1.45,18.89,19.9377831724814,50.041214946842615
+#r6713,Wenecja 1,MJM 11 Sp. z o.o.,13,0,4,4,,3,3,3.40,44.25,19.9269895,50.0604563
+#r6721,Takt Lirników,Matexi Polska Sp. z o.o.,100,2,0,,1,,3,2.05,205.39,19.964767085410674,50.01625922430911
+#r6745,Aleja Dębowa III - mieszkania,Wisdomic Home Sp. z o.o. Sp. k.,24,2,1,,0,,,1.31,31.42,20.058764518152483,50.04723321230526
+#r6759,Glogera Bricks,KRK ESTATE,72,1,1,,0,,,0.76,54.96,19.926122162664,50.104168655091
+#r6769,Bunscha Residence,INTER-BUD Developer Sp. z o.o.,282,2,2,,1,,,1.76,497.27,19.888540337933,50.016686426068
+#r6785,Wiślane Tarasy 2.0 bud. C,INTER-BUD Developer Sp. z o.o.,189,4,3,,1,,4,3.50,660.84,19.963902772312,50.055583269687
+#r6795,Łanowe Zacisze,PC3D 1 sp. z o.o.,12,1,1,,1,,,1.00,12,19.847366295032,49.976866817957
+#r6794,Mieszkaj w mieście - przy Bonarce,Henniger Investment S.A.,391,3,1,1,1,1,3,2.14,837.1,19.9527294,50.0254182
+#r6798,Wiślane Tarasy budynek 4,INTER-BUD Developer Sp. z o.o.,71,3,3,,1,,,2.66,188.86,19.96196037643024,50.05476571928169
+#r6799,Grzegórzki Park - Budynek nr 6,INTER-BUD Developer Sp. z o.o.,68,3,2,,2,1,1,2.09,141.91,19.96638228964202,50.065263521219435
+#r6800,Grzegórzki Park - Budynek nr 4,INTER-BUD Developer Sp. z o.o.,113,3,2,,2,,1,2.24,253.15,19.96762076943104,50.06527149895298
+#r6801,Wiślane Tarasy 2.0 budynek D,INTER-BUD Developer Sp. z o.o.,150,3,2,,2,4,1,2.91,437.15,19.962262992968732,50.05506373758781
+#r6802,Osiedle Bobrzyńskiego II,INTER-BUD Developer Sp. z o.o.,39,2,2,,2,,,2.00,78,19.905988831556233,50.018953528631805
+#r6803,Grzegórzki Park - Budynek nr 3,INTER-BUD Developer Sp. z o.o.,118,3,2,,2,,1,2.24,264.35,19.96676192952777,50.06526767267392
+#r6804,Osiedle Bobrzyńskiego,INTER-BUD Developer Sp. z o.o.,45,2,1,,0,1,,1.24,55.81,19.902778740482578,50.02221815113778
+#r6805,Wiślane Tarasy budynek 6,INTER-BUD Developer Sp. z o.o.,194,2,3,,2,0,,2.19,425.53,19.96123525532264,50.05539203977186
+#r6806,Panorama Kliny,INTER-BUD Developer Sp. z o.o.,79,2,0,,1,,2,1.53,120.97,19.889079506858025,50.00243340728339
+#r6808,Wiślane Tarasy budynek 5,INTER-BUD Developer Sp. z o.o.,188,3,2,,1,0,,2.05,386.13,19.961547599636017,50.05533986430224
+#r6809,Willa Wego,INTER-BUD Developer Sp. z o.o.,69,2,0,,0,1,,1.11,76.42,19.898277685621878,50.08461583072391
+#r6810,M House,INTER-BUD Developer Sp. z o.o.,156,2,2,,0,,,1.66,258.96,19.964140804233434,50.09971258003988
+#r6811,Osiedle Bobrzyńskiego - Przemiarki,INTER-BUD Developer Sp. z o.o.,8,1,2,,1,,,1.45,11.62,19.90246631873733,50.022680005715515
+#r6812,Grzegórzki Park - Budynek nr 5,INTER-BUD Developer Sp. z o.o.,109,3,2,,2,,1,2.24,244.18,19.96753606070275,50.065123953798796
+#r6817,OSIEDLE pod DĘBINĄ W KRZYSZKOWICACH,JENS sp z o.o.,8,1,1,,0,,,0.76,6.11,19.923574,49.88221
+#r6849,Okulickiego IX,Activ Investment Sp. z o.o.,50,1,0,1,0,,,0.62,31.01,20.026068850217687,50.09366216079239
+#r6850,Wodna,Activ Investment Sp. z o.o.,52,1,1,,0,,,0.76,39.7,19.975732008732738,50.03828990534966
+#r6851,Apartamenty Mogilska,Activ Investment Sp. z o.o.,112,1,0,,0,,,0.45,50.72,19.978665086656136,50.067849855855734
+#r6852,Okulickiego VIII,Activ Investment Sp. z o.o.,111,0,0,,0,,,0.00,0,20.026001112069256,50.093722919978546
+#r6854,Apartamenty Mogilska etap IV,Activ Investment Sp. z o.o.,33,3,0,,0,,,2.00,65.88,19.978535977093642,50.068610682470435
+#r6856,Banacha etap II,Activ Investment Sp. z o.o.,76,0,0,,0,,,0.00,0,19.959778856855408,50.10074457179289
+#r6857,Wodna 34,Activ Investment Sp. z o.o.,65,2,1,,0,,,1.31,85.08,19.975895020634525,50.03765687878947
+#r6858,Banacha II,Activ Investment Sp. z o.o.,115,2,1,,0,,,1.31,150.53,19.96153170656371,50.102508268605085
+#r6861,Osiedle Stańczyka,Activ Investment Sp. z o.o.,219,3,1,,0,,,2.07,453.6,19.893366359638517,50.07877102537204
+#r6862,Banacha etap III,Activ Investment Sp. z o.o.,76,0,0,,0,,,0.00,0,19.960757298180198,50.10157116001327
+#r6865,Wadowicka,Activ Investment Sp. z o.o.,196,2,1,,0,,,1.31,256.56,19.94154213929421,50.03395837763926
+#r6866,Konopnicka City Park,Activ Investment Sp. z o.o.,347,0,0,,0,,,0.00,0,19.93765636652093,50.038364142144175
+#r6869,Banacha etap I,Activ Investment Sp. z o.o.,87,0,0,,0,,,0.00,0,19.961101509127563,50.102019638432395
+#r6868,Apartamenty Mogilska etap III,Activ Investment Sp. z o.o.,116,2,0,,0,,,1.14,132.35,19.978518448618196,50.06863463211889
+#r6867,Wodna II,Activ Investment Sp. z o.o.,66,0,1,,0,,1,0.62,40.93,19.975104816652205,50.039990632826225
+#r6882,Tetmajera Residence,Platforma Mieszkaniowa,12,2,3,,1,,,2.31,27.71,19.87390304607657,50.08876508902592
+#r6887,Silva Park,Platforma Mieszkaniowa,32,0,1,1,0,,,0.62,19.84,19.955046014407902,50.10823733211278
+#r6889,Ogrody Elizjum,Platforma Mieszkaniowa,12,2,3,,1,,,2.31,27.71,19.88832238754879,50.10946031377176
+#r6890,Villa Residence,Platforma Mieszkaniowa,16,2,2,,1,,,1.76,28.21,19.883299503406253,50.110970335733576
+#r6900,Atal Kliny Zacisze III,ATAL S.A.,143,2,0,0,0,1,,0.96,137.81,19.893210400014738,49.99823796109363
+#r6906,Bronowice Residence VI,ATAL S.A.,42,2,2,,2,,,2.00,84,19.896669139340613,50.096040450041585
+#r6910,Atal Kliny Zacisze II,ATAL S.A.,217,3,0,,0,0,,1.75,380.38,19.89342620936052,49.99852412964872
+#r6961,Mieszkaj w mieście - etap Aktorów budynek H.,Henniger Investment S.A.,255,1,1,1,1,2,,1.30,330.33,19.88656024638003,50.08405857093261
+#r6960,Mieszkaj w mieście - etap Kompozytorów budynek G.,Henniger Investment S.A.,91,1,3,1,1,1,,1.82,165.91,19.88699443436239,50.08412821249499
+#r6962,Mieszkaj w mieście - etap Kompozytorów budynek F.,Henniger Investment S.A.,110,1,4,1,0,1,,2.55,280.01,19.886796252032667,50.08417131415361
+#r6974,Casa Feliz etap III,Casa Feliz sp. z o.o.,74,2,0,,0,,,1.14,84.43,19.945718940775613,50.08298093437899
+#r6975,Casa Feliz etap II,Casa Feliz sp. z o.o.,112,1,0,,0,,,0.45,50.72,19.94541752522725,50.083052916835214
+#r6976,Casa Feliz etap V,Casa Feliz sp. z o.o.,72,1,0,,0,,,0.45,32.6,19.94595446938992,50.08292817589428
+#r6977,Casa Feliz etap VII,Casa Feliz sp. z o.o.,147,2,0,,0,,,1.14,167.72,19.945939688819713,50.082880607807404
+#r6978,Casa Feliz etap IV,Casa Feliz sp. z o.o.,144,2,0,,1,,,1.31,188.5,19.946060957973028,50.08292046519425
+#r6979,Casa Feliz,Casa Feliz sp. z o.o.,164,1,0,,0,,1,0.62,101.7,19.94589004108582,50.08304436336001
+#r6980,Casa Feliz etap VI,Casa Feliz sp. z o.o.,148,2,0,,0,,,1.14,168.86,19.945816289612754,50.082914473378125
+#r6981,Osiedle Ogrody Żabińca Budynek Roma,Metropolis,29,2,0,,0,,,1.14,33.09,19.9466961,50.0834536
+#r6982,Osiedle Lawenda Park II,Metropolis,1,,,,,,,0.00,0,19.9427079,50.11982339999998
+#r6985,Osiedle Ogrody Żabińca - D,Metropolis,118,2,0,,0,2,,1.43,169.19,19.946833554466934,50.0814118291506
+#r6988,Osiedle Ogrody Żabińca Sanremo i Verona,Metropolis,58,2,0,,0,1,,1.11,64.24,19.9462107,50.0816582
+#r6987,Osiedle Ogrody Żabińca- Modena,Metropolis,25,2,0,,0,3,,2.00,49.93,19.946197422299647,50.08230888807024
+#r6989,Osiedle Lawenda Park,Metropolis,20,,1,,0,,,0.62,12.4,19.9427079,50.11982339999998
+#r6990,Osiedle Ogrody Żabińca Ravenna i Sorrento,Metropolis,58,2,0,,0,1,,1.11,64.24,19.946213326897293,50.08228237756013
+#r6991,Villa Rejtana 4,Metropolis,21,0,2,,0,0,1,0.96,20.24,19.9457216,50.0439708
+#r6993,Krowoderska 40,Metropolis,40,3,1,1,0,,3,2.23,89.29,19.934207642567987,50.0699989143831
+#r7007,Novy Mateczny,MIX Nieruchomości,143,3,2,,0,,2,2.19,313.66,19.942260268494,50.033740603724
+#r7003,Złoty Róg 54,Frena,4,3,2,,0,,2,2.19,8.77,19.892664388342,50.081882309136
+#r7002,Tarasy Moderno,DGI Lesław Sarachmann,28,2,2,,1,,,1.76,49.37,19.920313568709,50.022841882668
+#r7080,Wężyka 10,Grupa Wawel Service,48,0,0,,0,,1,0.36,17.15,20.014743732967524,50.07269458113902
+#r7082,Lema,Grupa Wawel Service,96,1,0,,0,,,0.45,43.47,19.985537955449168,50.069886380059465
+#r7083,Halszki - 28A - Etap II,Grupa Wawel Service,94,1,1,,0,,,0.76,71.76,19.94768411189124,50.00783082510783
+#r7085,Mieszkania przy ul. Halszki etap III,Grupa Wawel Service,49,0,1,,0,,,0.45,22.19,19.9449799,50.06465009999999
+#r7086,"Borkowska B1 i B2 ",Grupa Wawel Service,89,1,0,,0,0,,0.36,31.81,19.902497212969145,50.00232557277851
+#r7087,Zawiła,Grupa Wawel Service,84,1,1,,0,1,,0.83,69.55,19.904896430482868,50.00581934108882
+#r7088,Wyspiański Park,Grupa Wawel Service,95,1,0,,0,,,0.45,43.02,19.9226587,50.0825773
+#r7089,Wielicka 44,Grupa Wawel Service,144,2,1,,0,,,1.31,188.5,19.96765894449732,50.0369864399656
+#r7090,Mochnackiego,Grupa Wawel Service,71,2,1,,0,,,1.31,92.94,19.963741890577964,50.02347376500453
+#r7091,Mieszkania przy ul. Halszki,Grupa Wawel Service,175,1,1,,0,,,0.76,133.59,19.9471615,50.0075938
+#r7092,Klonowica,Grupa Wawel Service,184,2,0,,0,,,1.14,209.93,19.9561299,50.0202252
+#r7093,Apartamenty Sowiniec,Grupa Wawel Service,60,2,3,,0,,,2.25,135.02,19.851675155175542,50.06864339125485
+#r7094,Białoprądnicka,Grupa Wawel Service,115,0,1,,0,,,0.45,52.08,19.93505101689066,50.09405402966769
+#r7095,Piasta Park,Grupa Wawel Service,224,1,1,0,0,,,0.62,138.91,20.01674131641978,50.10243213842713
+#r7116,Nowe Zabłocie,Chemobudowa-Kraków S.A.,120,2,3,1,1,,2,2.09,250.43,19.9719751,50.048100699999985
+#r7154,Białoprądnicka Park,Hammak,36,3,0,1,0,0,,1.64,59.08,19.938844442367557,50.0921316524012
+#r7168,Tutaj Bunscha,Epol Holding,172,,,,,,,0.00,0,19.8814563,50.0098479
+#r7167,Apartamenty Casa Sole,Smart Apartments Sp. z o.o.,11,,,,,,,0.00,0,19.8994034,50.012689
+#r7162,Stare Podgórze,Fracthon,6,0,3,,0,,3,2.36,14.13,19.9449286,50.0429975
+#r7189,Zgodna Park,BROTHERM Sp. z o.o.,24,1,1,,0,,,0.76,18.32,19.89660749548968,49.97890609082196
+#r7198,Skwer Harmonia II,ATAL S.A.,251,3,1,0,0,1,,1.71,428.09,20.0426727,50.0399972
+#r7206,Osiedle Solne etap II,KG Group Sp. z o.o.,185,2,2,,2,,,2.00,370,20.0348143,49.993599
+#r7211,Wiślane Klimaty,Grupa Deweloperska START,69,2,0,,0,,2,1.43,98.93,19.997740043662834,50.046911829415286
+#r7216,Łąki Nowohuckie,Odmętowa Development Sp. z o.o.,16,,1,,1,,,1.00,16,20.04907225868576,50.06299712324176
+#r7247,Gryczana 23,Gryczana 23 Artwik Sp.k.,20,2,1,2,0,,,1.53,30.63,19.9088976,50.10982329999999
+#r7253,Kuźnicy Kołłątajowskiej 42,Real-Construct Sp. z o.o.,40,0,1,1,0,,,0.62,24.8,19.9544515,50.09843050000001
+#r7258,Osiedle Niezapominajek,Stylhut Plus Sp. z o.o.,70,2,3,,0,,,2.25,157.53,19.8435454,50.069288
+#r7273,Lipińskiego Nova,Grupa Deweloperska START,30,1,1,,1,,1,1.00,30,19.9245420026114,50.02807639108103
+#r7283,Strefa Cegielnia 3,ATAL S.A.,137,2,1,,1,,,1.45,199.04,20.0432035,50.1083043
+#r7323,Ecco Panorama etap C-D,PM-Development Sp. z o.o.,108,0,1,,0,,,0.45,48.91,20.06290465472719,50.002766196819145
+#r7318,3 Wymiary Bronowice,Quelle Locum Sp. z o.o.,99,0,1,,1,1,1,0.86,85.62,19.90876899246737,50.09431136659236
+#r7346,Dębowa 51,AWIM Nieruchomości,40,0,1,2,0,,,1.11,44.3,20.0642751,49.9981743
+#r7343,Enklawa Bukowa II,Grupa Wawel Service,189,0,0,,1,,,0.45,85.59,20.0494692,50.03932789999999
+#r7348,29L,Archicom S.A.,389,0,0,0,0,2,,0.82,320.23,19.9561234,50.0888139
+#r7351,Żabiniec Vita,Develia,120,1,1,0,0,,2,1.09,130.43,19.9454641,50.0818884
+#r7354,Awangarda Mogilska,Skanska Residential Development Poland Sp. z o.o.,278,3,3,2,2,1,,2.45,679.78,19.9804299,50.0696404
+#r7362,Osiedle Górka Narodowa etap 3,Dom Development S.A.,386,1,0,,1,,2,1.24,478.73,19.95333402839369,50.09972395313532
+#r7414,Trybuny Ludów 27,Excon S.A.,10,3,0,,0,,,2.00,19.96,19.962779170186877,50.01841643479263
+#r7423,Dolina Krasowa,Antrans Invest Sp. z o.o.,84,3,1,,3,,,2.66,223.44,19.649580115969755,50.134291991305496
+#r7424,Zacisze Biema,Antrans Invest Sp. z o.o.,76,2,2,1,0,,,1.53,116.38,19.578799042611966,50.26030106930183
+#r7430,Dolina Krasowa II,Antrans Invest Sp. z o.o.,84,3,1,,0,,,2.07,173.98,19.650023697522606,50.13458693117279
+#r7442,Osiedle Bonarka Living etap 2 - budynek C i D,Echo Residential by Archicom,330,1,0,1,1,,,0.83,273.24,19.946783550449535,50.02871548420997
+#r7443,ZAM Apartments,Echo Residential by Archicom,100,2,0,,2,1,,1.53,153.13,19.936280323614497,50.035242338780165
+#r7451,Solaris Park etap II,Semaco,245,2,1,1,0,2,2,1.56,382.64,19.986941255082172,50.06993531648346
+#r7491,Osiedle Piltza etap X,KG Group Sp. z o.o.,179,2,0,,0,0,,0.95,170.85,19.890296687787096,50.010604479927515
+#r7485,Piastowska 30,ACATOM Sp. z o.o.,35,3,1,,0,,2,2.05,71.89,19.90406776781579,50.07097217149466
+#r7494,ul. Meiera 16E - II etap,Dom-Bud M. Szaflarski Sp. j.,110,1,1,0,0,1,1,0.76,83.97,19.964104840876526,50.09961492146003
+#r7497,ul. Powstańców/os. Piastów bud. D,Dom-Bud M. Szaflarski Sp. j.,119,1,0,,0,,1,0.62,73.79,20.01596962337398,50.1052593157262
+#r7580,DoWoli,Buma,90,2,0,1,1,1,,1.20,107.69,19.9629218508491,50.02056933308407
+#r7597,Mierzeja Wiślana etap II,Instal Kraków S.A.,133,,,,,,,0.00,0,20.000668987934915,50.03579939837143
+#r7605,Centralna II,Grupa Proins,84,0,1,0,0,,,0.36,30.02,20.011589772142884,50.06432298361415
+#r7639,Różana 28,PM-Development Sp. z o.o.,74,0,0,,0,,,0.00,0,20.02757722994011,49.994615622468025
+#r7661,Osiedle Rodzinne etap II,"AB ARCHI – INWEST SP. J A. ŚWIERCZEK, S. CAŁKA SP.K.",32,2,1,,0,,,1.31,41.89,20.707042692662405,50.46237736797073
+#r7663,Osiedle na Wzgórzu,"AML Andrzej Bluj, Marcin Tandos, Łukasz Dziurski s.c.",57,2,1,,1,1,,1.36,77.37,20.02191557931357,50.356049025142575
+#r7723,Apartamenty Browarna,"Firma Handlowo Usługowa ""ROMAN"" Roman Pażucha",57,2,1,,1,,,1.45,82.81,20.72524813379741,49.61006178886273
+#r7745,Zenit Głowackiego,GVD Sp. z o.o.,86,3,2,,2,3,3,2.71,232.93,19.9064112,50.0783565
+#r7767,Pychowicka 27,Janex Sp. z o.o.,16,0,0,1,0,1,,0.52,8.37,19.916060834631992,50.03268437602311
+#r7809,Wielicka 179 - etap II,MTW Development,87,0,0,1,0,0,2,0.85,74.38,19.981276071602895,50.02181588601601
+#r7808,Lemko Residence,MTW Development,44,3,2,0,0,2,,2.00,87.9,20.95437,49.42662
+#r7850,Słoneczne Zacisze,SHD Investment Sp. z o.o.,18,2,1,,0,,,1.31,23.56,19.720085241096776,50.12709206109718
+#r7837,Park Leśny Bronowice etap IV,Quelle Locum Sp. z o.o.,47,,,,,,,0.00,0,19.87351671496066,50.10105749031164
+#r7870,Apartamenty Gałczyńskiego,Toplokum Sp. z o.o.,14,2,2,,1,,2,1.83,25.59,20.0119,50.07079
+#r7889,Bibickie Wzgórze,Akopol Sp. z o.o.,40,1,1,1,0,,,0.83,33.12,19.965590201483344,50.14026806959398
+#r7910,Mieszkania Stanisławice,"Archi-Inwest Sp.j A.Świerczek, S.Całka",15,1,0,,0,,,0.45,6.79,20.35407027673489,49.98783335797117
+#r7924,Apartamenty Park Matecznego Etap 2,Dom Development S.A.,114,3,2,,1,,3,2.53,288.57,19.937485279085355,50.03628873132268
+#r7930,Dolnomłyńska 5,HK Group,14,1,0,,0,,,0.45,6.34,20.00830102025325,50.07279340719133
+#r7940,Budynek Miechowska,Nowum Wolbrom,63,,,,,,,0.00,0,19.776902929412202,50.383767122784874
+#r7960,Nowa Dzielnica,WJAP INVEST,60,,,,,1,,1.00,60,20.70838229957183,50.46406410142585
+#r7964,Myśliwska Solar Garden,ASA Development,157,2,0,,0,,,1.14,179.13,19.98617996897192,50.04571352984435
+#r7989,ul. Powstańców/os. Piastów bud. F,Dom-Bud M. Szaflarski Sp. j.,119,1,0,0,1,,2,1.09,129.34,20.016069539901356,50.10509858329503
+#r8008,Sowia,HSD Inwestycje,20,2,1,,0,,,1.31,26.18,19.938650564999314,50.0228236357405
+#r8014,CASCADA House,Imperial Capital,64,3,3,,2,,,2.76,176.86,19.84080342407794,50.10303743445386
+#r8022,Mierzeja Wiślana etap IV,Instal Kraków S.A.,207,2,1,0,0,0,,0.96,199.49,20.0030564,50.0356422
+#r8029,Murapol GreenCity bud. 2,Murapol S.A.,249,0,0,,2,,,1.14,284.09,20.04565151717115,50.0212792118821
+#r8037,Lokum Siesta,Lokum Deweloper,576,2,1,,1,0,2,1.45,832.47,19.928908364232434,50.034225888204276
+#r8041,Lokum Vista Etap I,Lokum Deweloper,245,1,1,,3,,2,2.11,516.34,19.9613213122477,50.0250728959517
+#r8046,Lokum Vista etap IIIa,Lokum Deweloper,121,2,2,,2,,,2.00,242,19.961286607870644,50.02484487570333
+#r8067,5 Dzielnica,Develia,299,2,0,,1,,,1.31,391.39,19.922694324586686,50.07909034716579
+#r8075,Centralna Park.,Develia,800,0,0,,0,,1,0.36,285.9,20.008469447637797,50.06187837914496
+#r8081,Okulickiego 59,Develia,145,0,0,,0,,0,0.00,0,20.02522220491679,50.093263061909994
+#r8138,Angel Stradom,Angel Poland Group,133,0,2,,1,4,3,2.84,378.05,19.94104226384947,50.05293872819432
+#r8164,Dom przy Źródle,Eiffage Immobilier Polska,80,2,1,,,,,1.62,129.61,19.941318578201976,50.03752376532838
+#r8187,Supernova,Cordia Polska,191,3,0,,1,,,2.07,395.61,19.989828018189236,50.06558398036809
+#r8188,Cordia Cystersów Garden etap II,Cordia Polska,177,3,1,,1,1,2,1.96,347.58,19.97090895186411,50.064192133881974
+#r8189,Cordia Cystersów Garden etap I,Cordia Polska,146,2,2,,2,2,,2.00,292,19.970955875884595,50.06419668127096
+#r8190,Lotniczówka,Cordia Polska,67,1,3,,1,,,2.14,143.44,19.99446560569631,50.07736398241871
+#r8227,Osiedle Telimeny III,KG Group,48,1,0,,2,,,1.31,62.83,20.011385197345,50.020874562531
+#r8216,Cieszyńska 9,Palladio Cieszyńska 9 Pasek Paluch sp. K.,230,3,4,1,1,1,3,2.84,653.71,19.930515,50.074917
+#r8230,Osiedle Niezapominajek,Stylhut Plus Sp. z o.o.,70,0,2,,1,,,1.31,91.63,19.843993418049,50.069006786219
+#r8281,Safrano,CORDIA,97,1,2,,2,,2,1.83,177.31,19.919871561581,50.023653600662
+#r8284,Osiedle Ozon etap 5 i 6,Biuro sprzedaży Osiedle Ozon - MEGAPOLIS Spółka z o.o.,7,0,1,,2,,,1.31,9.16,19.955725,50.102142
+#r8289,Cascada House,Imperial Capital,64,3,3,,2,,,2.76,176.86,19.84076845767,50.102980796054
+#r8316,Aleje Wolności 16,G 16 Górscy sp. jawna,64,2,3,,0,,,2.25,144.03,20.69715,49.61618
+#r8339,Szklane Tarasy Gorlice - Blok B,STG SYSTEM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,45,3,1,,0,,0,1.82,82.11,21.152791536909,49.661748411902
+#r8350,Nova Krzyszkowicka,ADKON sp. z o.o. ul. Płaszowska 11 32-005 Niepołomice,12,0,0,,0,,0,0.00,0,20.025519,49.9909122
+#r8362,Smętna Garden,Dom-Bud M. Szaflarski Sp. j.,28,1,0,,2,,,1.31,36.65,19.8872347,50.09067430000001
+#r8369,Apartamenty Panorama,Panorama Jaworki Spółka z o.o.,34,2,2,2,1,3,,2.20,74.68,20.5618985,49.4098274
+#r8372,Punkt Wola,Excon S.A.,57,1,1,0,2,,2,1.45,82.38,19.962182129971154,50.01909646900104
+#r8463,Osiedle Zdrojove Zacisze w Busku-Zdroju,MTM-DEVELOPMENT POLSKA SP. Z O.O.,67,1,1,,1,,,1.00,67,20.702555568769,50.463910623739
+#r8495,Stawowa Residence etap IV,Imperial Stawowa Residence,38,3,1,,2,,3,2.53,96.19,19.88883837063809,50.0958599538223
+#r8496,Green Park Villa etap II,Imperial Capital,76,3,2,,2,0,,2.19,166.7,19.87115111865887,50.091492532642754
+#r8500,Trybuny Ludów 3,Grupa Enbud  Sp. z o.o. Sp. K,31,1,2,,1,,,1.45,45.04,19.961074038966267,50.01959424222932
+#r8504,Zodiak,Grupa Orion Investment.S.A.,2,0,0,,0,,,0.00,0,20.0517777,50.0306445
+#r8528,Sołtysowska Vidok,Zieliński Development Sp. z o.o.,22,0,1,,0,,,0.45,9.96,20.022732273989064,50.061969256380046
+#r8529,Osiedle Versus etap II,Frax-Bud Franciszek Drożdż,214,1,1,,0,,,0.76,163.36,19.882590683966697,50.01373255803813
+#r8531,Weduta Krakowa etap I,Architecture Vento,160,3,1,0,0,,2,1.86,297.97,19.960720330912153,50.10605414873575
+#r8531,Weduta Krakowa etap II,Architecture Vento,53,3,1,0,0,,2,1.86,98.7,19.960787866362054,50.10643825915102
+#r8551,3 Wymiary Bronowice,3 Wymiary Bronowice Sp. z o.o.,99,0,0,,1,1,2,1.09,107.6,19.90869913228944,50.09455757585628
+#r8548,Kordiana 46,Grupa Deweloperska START,23,0,1,,0,,,0.45,10.42,19.964499253498044,50.010783987501604
+#r8580,Kozia 5 Bagry Apartments,WBG Development,21,0,0,,1,,,0.45,9.51,19.9970726,50.0343412
+#r8568,Zielona Krzyszkowicka,Veridia Development Sp. z o.o.,24,1,1,,2,,,1.45,34.87,20.019594000286,49.991776124956
+#r8605,Podgórki Tynieckie,HSD Inwestycje,50,3,0,0,1,,,1.82,91.24,19.847558821425398,49.997119308868726
+#r8610,Sadyba 2.0,Eko In Sp. z o.o.,84,,,,,,,0.00,0,20.69558323375571,49.63178859183709
+#r8611,Merite Serena,Merite Sp. z o.o.,49,2,1,,0,,,1.31,64.14,20.024934234742453,50.01613847717978
+#r8638,Dajwór,Buma Dajwór P.S.A.,20,3,4,,2,2,,3.11,62.15,19.94888104634297,50.050908054511055
+#r8637,Slow City etap D,EKOPARK,116,0,1,,1,0,,0.62,71.93,19.91996865827985,50.09980526870061
+#r8644,Osiedle przy Wielickiej,Dom Development S.A.,124,2,1,,2,,,1.76,218.66,20.005249684138455,50.011131564298424
+#r8668,Słoneczne Tarasy  - Nowy Sącz,Optibud Sp. z o.o.,34,3,3,,2,,,2.76,93.96,20.711317792035,49.610008197763
+#r8675,ZIELONE KOŹMICE,Vista Property Spółka z o.o.,10,1,1,,2,,,1.45,14.53,20.045307944489,49.955682439269
+#r8679,EKO SUCHARSKIEGO,Invemio Bis Sp.zo.o,16,0,0,,1,,0,0.36,5.72,20.047347300507,50.016797087342
+#r8685,Podgórki Tynieckie,HSD Inwestycje,50,2,1,,2,,,1.76,88.17,19.847554609536,49.997185677224
+#r8720,Link Bunscha,Link Bunscha Megapolis Sp. z o.o. Sp.k,102,0,1,,0,,,0.45,46.19,19.884984214294,50.015598119813
+#r8727,Michałowice k. Krakowa ul. Za Dworem,Wielicka Polana S. Piwowarczyk sp. k.,8,0,0,,1,,1,0.62,4.96,19.992683623393,50.153614630303
+#r8757,Mój Przewóz,Activ Investment,68,1,1,,2,,,1.45,98.79,19.988583291725,50.041803002493
+#r8787,Zielona Krzyszkowicka,Veridia Development Sp. z o.o.,24,2,3,1,0,0,,1.86,44.7,20.030924183663757,49.99034335530256
+#r8803,Clou Lindego,CLOU MEGAPOLIS Sp. z o.o. Sp. komandytowa,129,2,0,,2,,2,1.76,226.58,19.875478479376,50.079146245009
+#r8806,Sądecka Panorama,DM HOMES,30,0,0,,1,,,0.45,13.58,20.629839180976,49.622090813797
+#r8846,Banacha 12,Super Krak S.A.,126,1,1,,2,,2,1.62,204.13,19.960795733436715,50.102318471149744
+#r8848,Kameralna Koszykarska,Kameralna Koszykarska,38,1,1,,1,0,2,1.20,45.47,19.985960093830535,50.048564769655236
+#r8857,Nove Dobczyce,4K Development,74,1,1,,0,1,,0.83,61.27,20.097379208037,49.880818792077
+#r8864,Młyńska Ogrody 5,Deve Invest Sp. z o.o.,69,2,1,,1,,,1.45,100.25,20.706044587042,50.466398578828
+#r8881,Murapol GreenCity bud. 1,Murapol S.A.,168,1,1,0,2,,,1.24,208.36,20.04605207388925,50.021808960066345
+#r8886,Murapol Mateczniq bud. 4,Murapol S.A.,225,1,1,,1,,,1.00,225,19.931495083567,50.03621029622565
+#r8896,Królowej Jadwigi Residence,Platforma Mieszkaniowa,20,3,1,,2,,2,2.24,44.8,19.86065756954983,50.07121302240254
+#r8897,The Emaus,Platforma Mieszkaniowa,3,3,0,,3,,2,2.50,7.49,19.8939307,50.0622477
+#r8898,The View,EKOPARK,100,3,3,,2,4,3,3.20,319.66,19.934491638011835,50.0420934593251
+#r8908,Destino Domy,EKOPARK,14,3,2,,1,,,2.31,32.33,19.89038405004711,50.06953994509247
+#r8919,Sitowie,Grupa Urba,121,,,,,,,0.00,0,19.90906,50.01513
+#r8973,Krzesławickie Tarasy,Risto Deweloper,93,3,1,,2,,1,2.11,196,20.0562675,50.1024615
+#r8977,Apartamenty nad Wilgą,Platforma Mieszkaniowa,4,,,,,,,0.00,0,19.919629571052816,49.98703037792588
+#r8988,Apartamenty przy Zakrzówku,Wakom,172,3,0,,1,0,1,1.71,293.35,19.918881111542,50.032592885447
+#r8995,Essa Kliny,Green Town Development,188,3,2,,2,2,,2.36,443.19,19.900840223377,49.995387714205
+#r8997,Podedworze 11,Westa Investments,98,1,0,,1,,,0.76,74.81,19.97428354049,50.014441008616
+#r9006,Monument,Platforma Mieszkaniowa,115,3,2,,2,4,3,3.09,355,19.929414515874537,50.084356436955204
+#r9007,Drago,Antrans Invest,99,4,0,,0,1,,2.70,266.96,19.96109882571,50.102231806626
+#r9015,Przewóz 41 Residence,BAL-BUD Investment,47,1,2,1,2,,1,1.52,71.59,19.992251332748403,50.04114227754575
+#r9042,Grzegórzki Park,INTER-BUD Developer Sp. z o.o.,104,3,1,,1,,,2.14,222.66,19.966651738814026,50.06540717734515
+#r9045,Piasta Towers budynek 2,INTER-BUD Developer Sp. z o.o.,,2,0,,2,,,1.66,0.00,20.01052437031192,50.10479658760174
+#r9043,Piasta Towers budynek 4,INTER-BUD Developer Sp. z o.o.,,2,0,,2,,,1.66,0.00,20.008370070308953,50.10452765692125
+#r9045,Piasta Towers,INTER-BUD Developer Sp. z o.o.,109,3,0,,1,0,,1.82,198.89,20.010379965470225,50.10452577587024
+#r9046,Osiedle Bobrzyńskiego Blok B,INTER-BUD Developer Sp. z o.o.,42,1,0,,1,,,0.76,32.06,19.9013981,50.0235248
+#r9044,Piasta Towers budynek 3,INTER-BUD Developer Sp. z o.o.,96,0,0,,1,,,0.45,43.47,20.009594124384265,50.10519155365513
+#r9047,Domy na Klinach,INTER-BUD Developer Sp. z o.o.,23,2,1,,1,,,1.45,33.42,19.9080057,50.0089933
+#r9050,Vis a Vis Wawelu,INTER-BUD Developer Sp. z o.o.,36,2,2,0,1,,,1.53,55.13,19.928314497932977,50.04971163779483
+#r9051,Wiślane Tarasy,INTER-BUD Developer Sp. z o.o.,60,2,2,,1,,,1.76,105.8,19.961336388417784,50.05540851686118
+#r9053,Kamienica Dworska,INTER-BUD Developer Sp. z o.o.,68,3,1,,1,,,2.14,145.58,19.92439729148354,50.044373997686094
+#r9054,Osiedle Bobrzyńskiego Blok D,INTER-BUD Developer Sp. z o.o.,55,3,1,,1,,,2.14,117.75,19.8988225,50.0209804
+#r9048,Osiedle Cztery Domy,INTER-BUD Developer Sp. z o.o.,52,2,1,,0,,,1.31,68.07,19.977049590956728,50.04401243714864
+#r9049,Apartamenty W Krynicy,INTER-BUD Developer Sp. z o.o.,8,2,1,,1,,,1.45,11.62,20.9565405,49.3974053
+#r9056,Osiedle Bobrzyńskiego Blok A,INTER-BUD Developer Sp. z o.o.,42,1,0,,1,,,0.76,32.06,19.9013981,50.0235248
+#r9055,Domy Pod Dębem,INTER-BUD Developer Sp. z o.o.,5,0,1,,1,,,0.76,3.82,19.8951866,50.0022466
+#r9052,Panorama Swoszowicka,INTER-BUD Developer Sp. z o.o.,8,2,1,,1,,,1.45,11.62,19.9370109,49.983281
+#r9057,Osiedle Pod Dębem,INTER-BUD Developer Sp. z o.o.,,2,1,,2,,,1.76,0.00,19.895279092202504,50.006439047061995
+#r9072,Rynek Fałęcki,SOLART sp. z o.o.,4,0,1,,1,,,0.76,3.05,19.9225694533081,50.018001267049165
+#r9087,Przewóz Solar Garden,Asa Development,65,0,0,,1,,2,1.11,71.99,19.990102895825,50.043027885284
+#r9118,Stawowa ABC,Dom-Bud M. Szaflarski Sp. j.,29,0,2,,0,0,,0.95,27.68,19.87475513110117,50.10009726784479
+#r9121,Osiedle Pod Dębem,INTER-BUD Developer Sp. z o.o.,168,2,1,,1,,,1.45,244.08,19.895279092202504,50.006439047061995
+#r9122,Grzegórzki Park - Budynek nr 2,INTER-BUD Developer Sp. z o.o.,114,3,2,,0,,,2.25,256.55,19.966616508189897,50.065284649777844
+#r9149,Stawowa ABC,DOM-BUD M. Szaflarski sp.j.,17,0,1,,1,,,0.76,12.98,19.875186316555,50.098833673705
+#r9125,Bursztynowy Dom,DK-Development Sp. z o.o.,5,3,0,,0,,,2.00,9.98,19.97241606101801,50.07449682922792
+#r9158,Apartamenty Wielicka I etap,WAN S.A.,342,1,1,1,0,1,,0.86,295.78,19.99173068864095,50.01759861790422
+#r9159,Apartamenty Wielicka II etap,WAN S.A.,121,1,1,0,0,0,,0.52,63.3,19.99164415909948,50.01861275846816
+#r9165,Apartamenty Snycerska,WAN S.A.,,1,1,,1,,,1.00,0.00,19.992298655239882,50.022363343900636
+#r9185,ATAL Residence Zabłocie I,ATAL S.A.,224,3,3,,1,,,2.66,595.84,19.959767777758888,50.05081425341223
+#r9186,ATAL Residence Zabłocie II,ATAL S.A.,77,2,3,,2,,,2.45,188.87,19.959944696448268,50.050779502029066
+#r9190,Malborska 151,Krakusa Development,43,1,1,,2,,,1.45,62.47,19.960977477294,50.020505022629
+#r9200,Osiedle Ozon - etap 7,Biuro sprzedaży Osiedle Ozon - MEGAPOLIS Spółka z o.o.,306,2,0,,2,,,1.66,507.96,19.957089974177,50.102316558906
+#r9217,Osiedle Meiera,TDJ Estate,294,0,1,,3,,,2.07,608.94,19.968721398237495,50.098567854354265
+#r9220,Grzegórzecka 77 - etap I,Develia,59,,,,,,,0.00,0,19.964866949518857,50.056754914141656
+#r9221,Słoneczne Miasteczko,Develia,"1,190",0,0,,2,,,1.14,"1,357.71",20.05744156779197,50.02020987020588
+#r9235,Zakątek Telimeny,Archicom S.A.,70,1,1,,2,,,1.45,101.7,20.022470346416423,50.01467641906766
+#r9238,Osiedle Bociana 5,Archicom S.A.,280,0,0,,2,,,1.14,319.46,19.9555137229252,50.0932970170943
+#r9239,Wita,Archicom S.A.,180,0,3,,2,,,2.25,405.07,19.949623039867646,50.072707288458915
+#r9254,Stare Podgórze,Fracthon Development,25,0,1,,1,,3,1.89,47.29,19.944884249019,50.043029118279
+#r9253,Oaza Opatkowice,Oaza Opatkowice Sp. z o.o.,12,,,,,,,0.00,0,19.889275371503,49.983772925685
+#r9258,Nova Residence Prestige,Stobud Kraków Development,6,,,,,,,0.00,0,19.874798304826,50.069491001116
+#r9268,Kameralny Prokocim,Matexi Polska Sp. z o.o.,73,,,,,,,0.00,0,19.990385121725236,50.01672203034923
+#r9319,Sosnowiecka Park,Mak Dom Holding S.A.,86,3,1,,2,,,2.31,198.57,19.90668356319,50.095756425952
+#r9325,Badurskiego 7,Budrem  Kraków,24,,,,,,,0.00,0,19.960555403136777,50.07094297156195
+#r9326,River Park,Imperial Capital,72,3,3,,2,,0,2.50,179.75,19.869747232411893,50.093799907248936
+#r9352,Apartamenty przy Zakrzówku,Wakom,172,,,,,,,0.00,0,19.918188412202,50.032762113008
+#r9384,Bochenka,Spółdzielnia Mieszkaniowa PIASKI NOWE,27,,,,,,,0.00,0,19.975767586288452,50.012018635331124
+#r9375,LifeSpot Kraków Lipska,Life Spot Management Sp. z o.o.,249,,,,,,,0.00,0,19.99681161293,50.039438577597
+#r9392,Badurskiego 7,Budrem,24,,,,,,,0.00,0,19.99013943831,50.011581783252
+#r9394,Torowa,MDR Skawina sp. z o.o.,190,,,,,,,0.00,0,19.825424988886,49.983016641913
+#r9395,Piłsudskiego 32 - Krynica-Zdrój,HO-BU POLSKA Sp. z o.o.,13,,,,,,,0.00,0,20.9546158,49.4270048
+#r9397,Osiedle przy ulicy Spławy,Dewi Invest Sp.zo.o,12,,,,,,,0.00,0,20.15013,50.08933
+#r9417,Nova Tymotkowa,Nokturn Deweloper,15,2,1,,2,,,1.76,26.45,19.89436978407,50.013542871515
+#r9375,LifeSpot Kraków Lipska,Life Spot Management Sp. z o.o.,249,,,,,,,0.00,0,19.99681161293,50.039438577597
+#r9392,Badurskiego 7,Budrem,24,,,,,,,0.00,0,19.99013943831,50.011581783252
+#r9394,Torowa,MDR Skawina sp. z o.o.,190,,,,,,,0.00,0,19.825424988886,49.983016641913
+#r9445,Zacisze Biema w Olkuszu - ostatnie wolne mieszkanie!,BUDOWLANYCH ANTRANS INVEST SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA,54,,,,,,,0.00,0,19.578900290141,50.2604466421
+#r9451,Vidok Residence - etap III,Platforma Mieszkaniowa,55,,,,,,,0.00,0,19.484243,50.1591234
+#r9477,QUADRA,Imperial Capital,168,,,,,,,0.00,0,19.91641790977039,50.098886050017406
+#r9500,Kombinat Mieszkań,Teatralne Residence Sp. z o.o.,16,,,,,,,0.00,0,20.031560482225,50.078638818554
+#r9488,Imperial Quadra,Imperial Capital,47,,,,,,,0.00,0,19.918191198217,50.096829161663
+#r9504,J​A\N͏A​S,Fracthon Development,29,,,,,,,0.00,0,19.956370317532,50.047002679677
+#r9511,Osiedle Ozon etap IV,Megapolis Development,171,,,,,,,0.00,0,19.96303556358326,50.102060251072885
+#r9512,Osiedle Ozon etap III,Megapolis Development,186,,,,,,,0.00,0,19.962959768086403,50.102109962764246
+#r9513,Osiedle Ozon etap VII,Megapolis Development,306,,,,,,,0.00,0,19.96296790814931,50.10203504568437
+#r9514,Osiedle Ozon etap VIII,Megapolis Development,112,,,,,,,0.00,0,19.95539313703175,50.10354615461065
+#r9521,Rosa Hills,4K Development,38,,,,,,,0.00,0,20.027239271164,49.996430493751
+#r9534,"Moja Skawina - nowe, komfortowe mieszkania w Skawinie",EPOL HOLDING SP. Z O.O.,288,,,,,,,0.00,0,19.839568945508,49.980974444735
+#r9532,Mogilska 31,Mogilska 31,145,3,3,,1,2,3,2.64,383.42,19.965447082224,50.066360324176
+#r9527,Mieszkaj w mieście - etap Odkrywców (bud. L),Henniger Investment,130,,,,,,,0.00,0,19.886084001669,50.087990369055
+#r9525,Nordic Górka Narodowa,YIT Development,98,,,,,,,0.00,0,19.957267694457,50.103796532032
+#r9541,Sołtysowska Vidok,S1 Zieliński Development Sp zoo,22,,,,,,,0.00,0,20.022895831666,50.062025847724
+#r9544,Atal Bronowice,ATAL,188,,,,,,,0.00,0,19.87529037502,50.102180375769
+#r9565,MISTA Kraków,Grupa Victoria Dom,123,,,,,,,0.00,0,20.024106334038787,50.09992546251843
+#r9598,Willa Zalesie,Nokturn Deweloper,7,,,,,,,0.00,0,19.907934067199,50.020768764157
+#r9562,Apartamenty Dąbrowskiego 12,Remax Construct Sp. z o. o.,34,,,,,,,0.00,0,19.958768544056,50.044895610207
+#r9593,Malownicze Tarasy II,Risto,112,,,,,,,0.00,0,20.058284276038,50.104234121049
+#r9619,Osiedle Lawendowe,S-GRUPA sp. z o.o.,8,,,,,,,0.00,0,19.92886,50.09341
+#r9689,Ja\nas,Fracthon,36,,,,,,,0.00,0,19.95638586553896,50.04717237214439
+#r9705,Kosocicka Ambient,Hammak,48,,,,,,,0.00,0,19.995069813492,50.004675
+#r9706,Bociana 5,Archicom,269,,,,,,,0.00,0,19.955666210679,50.093109522541
+#r9707,29L͏͏,Archicom,72,,,,,,,0.00,0,19.9561234,50.0888139
+#r9708,Lea Spot - lokale inwestycyjne,Archicom,217,,,,,,,0.00,0,19.897238090269,50.072115179833
+#r9709,29L - Apartamenty inwestycyjne,Archicom,198,,,,,,,0.00,0,19.956393570095,50.088615644403
+#r9717,Apartamenty Casa Sole,Smart Apartments Sp.z o.o.,10,,,,,,,0.00,0,19.899341371948,50.012541944484
+#r9717,Apartamenty Casa Sole,Smart Apartments Sp.z o.o.,10,,,,,,,0.00,0,19.899341371948,50.012541944484
+#r9736,Gromadzka 57,GROMADZKA 57 SP. Z O.O. SPÓŁKA JAWNA,19,,,,,,,0.00,0,19.97707712864,50.039236892709
+#r9733,Atal Nova Obozowa,ATAL,154,,,,,,,0.00,0,19.916066558198,50.019008638776
+#r9773,Osiedle Teatralne 19,Frax-Bud Franciszek Drożdż,106,,,,,,,0.00,0,20.0302944,50.08023439999999
+#r9774,Osiedle Teatralne 19 - apartamenty inwestycyjne,Frax-Bud Franciszek Drożdż,106,,,,,,,0.00,0,20.0303133,50.0802511
+#r9770,Apartamenty pod Stokiem,Platforma Mieszkaniowa,4,,,,,,,0.00,0,19.852415136243767,50.07152634819878
+#r9772,Rudava Park,Platforma Mieszkaniowa,24,,,,,,,0.00,0,19.85837793796453,50.07178685634348
+#r9771,Królowej Jadwigi Residence II,Platforma Mieszkaniowa,16,,,,,,,0.00,0,19.8603415,50.070871799999985
+#r9784,Mogilska 31,Warimpex,145,,,,,,,0.00,0,19.96568611423541,50.0663817486946
+#r9790,Osiedle Teatralne 19,FRAX-BUD,106,,,,,,,0.00,0,20.02289,50.07707
+#r9795,Osiedle Lasówka,Stylhut Investments Sp z o.o.,125,,,,,,,0.00,0,19.9941876,50.0477822
+#r9823,Banacha 12,Super Krak S.A.,126,,,,,,,0.00,0,19.961217,50.1018119
+#r9816,Apartamenty Park Matecznego Etap 2.2,Dom Development S.A.,105,,,,,,,0.00,0,19.936559,50.0367804
+#r9855,SZAROTKI PARK,DOM.NBC sp. z o.o.,12,,,,,,,0.00,0,19.880330579272,50.100402286937
+#r9860,29 L,Archicom,115,,,,,,,0.00,0,19.95605870741,50.088805998676
+#r9863,Rudava Park,Krakowska Grupa Deweloperska,24,,,,,,,0.00,0,19.858211665112,50.072092343854
+#r9864,Morelife Apartments,Krakowska Grupa Deweloperska,36,,,,,,,0.00,0,19.87236760578,50.069363771408
+#r9865,The Emaus,Krakowska Grupa Deweloperska,12,,,,,,,0.00,0,19.893213580354,50.063398111329
+#r9867,Zakole Wisły Atal,ATAL,134,,,,,,,0.00,0,19.986536315686,50.051749873973
+#r9868,Residence Królowej Jadwigi II,Krakowska Grupa Deweloperska,16,,,,,,,0.00,0,19.860662039878,50.070929456908
+#r9869,Apartamenty Pod Stokiem,Krakowska Grupa Deweloperska,4,,,,,,,0.00,0,19.852378950706,50.071414366767
+#r9875,Nowe Branice II,Invest House,96,,,,,,,0.00,0,20.140286799523,50.071534677111
+#r9883,Apartamenty Jasińskiego,TAD-INVEST Drożdż,13,,,,,,,0.00,0,19.99269576685139,50.023225858567606
+#r9886,Przystanek Prądnik,Dom Development S.A.,121,,,,,,,0.00,0,19.9711086,50.09945479999998
+#r9883,Apartamenty Jasińskiego,TAD-INVEST Drożdż,13,,,,,,,0.00,0,19.99269576685139,50.023225858567606
+#r9886,Przystanek Prądnik,Dom Development S.A.,121,,,,,,,0.00,0,19.9711086,50.09945479999998

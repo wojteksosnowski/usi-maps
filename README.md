@@ -1,13 +1,14 @@
 # usi-maps
 
-A premium CLI and API for generating beautifully styled Mapbox Static Maps.
+A clean API and renderer for generating beautifully styled Mapbox maps with SVG overlays.
 
 ## Features
 
-- **Premium Design Engine**: Curated themes and styling logic for high-quality maps.
+- **Mapbox API Integration**: Simplified handling of Mapbox Static Map API.
+- **Hybrid Rendering**: Combines Mapbox base tiles with server-side SVG overlays (using `sharp`) to bypass Mapbox URL length limits and provide custom branding.
+- **Premium Design Engine**: Curated themes for high-quality maps.
 - **REST API**: Fastify-powered server for programmatic map generation.
-- **CLI Tool**: Manage designs and start the server with ease.
-- **Static Map Optimization**: Built-in support for premium markers and optimal zoom-level styling.
+- **Interactive Preview**: Built-in web preview for testing themes and markers.
 
 ## Installation
 
@@ -29,42 +30,31 @@ PORT=3000
 
 ## Usage
 
-### CLI
-
-List available designs:
-```bash
-npm run cli -- design:list
-```
-
 Start the API server:
 ```bash
-npm run cli -- server:start
+npm run dev
 ```
 
-### API
+Open `http://localhost:3000/` in your browser to use the interactive preview.
 
-**GET /static-map**
+### API Endpoints
 
-Generates a Mapbox Static Map URL.
+#### GET /map
+The primary endpoint for hybrid maps (Mapbox + SVG Overlays). Supports a high number of points.
 
 Parameters:
-- `lat`: Latitude (default: 52.2297)
-- `lng`: Longitude (default: 21.0122)
-- `zoom`: Zoom level (default: 12)
-- `width`: Image width (default: 600)
-- `height`: Image height (default: 400)
-- `theme`: Theme ID (`standard-light`, `deep-dark`, `vibrant-satellite`, `minimal-mono`)
-- `markers`: Semicolon-separated coordinates `lng,lat;lng,lat`
+- `lat`, `lng`, `zoom`: Map viewport.
+- `width`, `height`: Image dimensions.
+- `theme`: Theme ID (e.g., `dusk-neutral`, `deep-dark`).
+- `markers`: Semicolon-separated data `lng,lat,val,ocena;...`
+  - `val`: 0-100 (controls size).
+  - `ocena`: 'Wstępna' or 'Standard' (controls color).
 
-Example:
-`http://localhost:3000/static-map?lat=52.2297&lng=21.0122&theme=deep-dark&markers=21.0122,52.2297`
+#### GET /static-map
+Direct proxy to Mapbox Static API (subject to URL length limits).
 
-## Premium Themes
-
-- **Deep Dark**: High-tech, neon accents on dark backgrounds.
-- **Vibrant Satellite**: Crisp satellite imagery with clear roads.
-- **Minimal Mono**: Professional grayscale styling.
-- **Standard Light**: The classic Mapbox experience, enhanced.
+#### GET /designs
+Returns a list of available themes.
 
 ## License
 

@@ -1,5 +1,4 @@
 import fs from 'fs';
-import path from 'path';
 
 export interface GeoPoint {
   lat: number;
@@ -8,7 +7,7 @@ export interface GeoPoint {
   properties?: Record<string, any>;
 }
 
-export class CsvProcessor {
+export class DataProcessor {
   /**
    * Reads CSV and returns raw geo points
    */
@@ -36,7 +35,6 @@ export class CsvProcessor {
         const properties: Record<string, any> = {};
         header.forEach((h, idx) => {
           const val = cols[idx]?.trim();
-          // Try to parse as number, removing quotes and commas for thousands
           if (val) {
             const cleanVal = val.replace(/"/g, '').replace(/,/g, '');
             const num = parseFloat(cleanVal);
@@ -50,48 +48,7 @@ export class CsvProcessor {
   }
 
   /**
-   * Converts array of points to GeoJSON FeatureCollection
-   */
-  static toGeoJson(points: GeoPoint[]): any {
-    return {
-      type: 'FeatureCollection',
-      features: points.map(p => ({
-        type: 'Feature',
-        geometry: {
-          type: 'Point',
-          coordinates: [p.lng, p.lat]
-        },
-        properties: p.properties
-      }))
-    };
-  }
-
-  /**
-   * Robust CSV line parser that respects quotes
-   */
-  private static parseCsvLine(line: string): string[] {
-    const result = [];
-    let cur = '';
-    let inQuote = false;
-    for (let i = 0; i < line.length; i++) {
-      const char = line[i];
-      if (char === '"') {
-        inQuote = !inQuote;
-      } else if (char === ',' && !inQuote) {
-        result.push(cur);
-        cur = '';
-      } else {
-        cur += char;
-      }
-    }
-    result.push(cur);
-    return result;
-  }
-
-  /**
    * Clusters points into a grid to stay under URL length limits
-   * @param points Array of raw points
-   * @param gridSize Size of grid cell in degrees (e.g. 0.005 for ~500m)
    */
   static clusterPoints(points: GeoPoint[], gridSize: number = 0.005): GeoPoint[] {
     const grid: Record<string, { latSum: number, lngSum: number, count: number }> = {};
@@ -112,7 +69,7 @@ export class CsvProcessor {
     return Object.values(grid).map(cell => ({
       lat: cell.latSum / cell.count,
       lng: cell.lngSum / cell.count,
-      val: Math.min(100, cell.count * 10) // Scale count to 0-100 for our engine
+      val: Math.min(100, cell.count * 10) 
     }));
   }
 
@@ -132,5 +89,24 @@ export class CsvProcessor {
     });
 
     return { minLat, maxLat, minLng, maxLng };
+  }
+
+  private static parseCsvLine(line: string): string[] {
+    const result = [];
+    let cur = '';
+    let inQuote = false;
+    for (let i = 0; i < line.length; i++) {
+      const char = line[i];
+      if (char === '"') {
+        inQuote = !inQuote;
+      } else if (char === ',' && !inQuote) {
+        result.push(cur);
+        cur = '';
+      } else {
+        cur += char;
+      }
+    }
+    result.push(cur);
+    return result;
   }
 }

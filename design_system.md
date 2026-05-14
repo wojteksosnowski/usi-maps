@@ -76,6 +76,9 @@ orange → magenta
 *Forest*
 orange → green
 
+*Ocean*
+blue → green
+
 ## Czcionki
 
 Signika

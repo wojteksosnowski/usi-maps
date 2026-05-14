@@ -1,7 +1,7 @@
 export interface Theme {
   id: string;
   name: string;
-  mapboxStyle: string; // Mapbox Style ID
+  mapboxStyle: string; // Mapbox Style ID or URI
   description: string;
   defaultMarkers?: {
     color: string;
@@ -11,53 +11,60 @@ export interface Theme {
 }
 
 export const THEMES: Record<string, Theme> = {
-  'standard-light': {
-    id: 'standard-light',
-    name: 'Standard Light',
-    mapboxStyle: 'mapbox/streets-v12',
-    description: 'Clean and readable light map.',
-    defaultMarkers: { color: '#3bb2d0', size: 'large' }
+  'usi-sunrise': {
+    id: 'usi-sunrise',
+    name: 'USI Sunrise',
+    mapboxStyle: 'mapbox://styles/wsos/cmp3t5al9000301r4aklugzqu',
+    description: 'Design System: Magenta → Orange',
+    defaultMarkers: { color: '#F39200', size: 'large' }
   },
-  'deep-dark': {
-    id: 'deep-dark',
-    name: 'Deep Dark',
-    mapboxStyle: 'mapbox/dark-v11',
-    description: 'Modern dark theme for night modes and high-tech looks.',
-    defaultMarkers: { color: '#00ff00', size: 'large' }
+  'usi-meadow': {
+    id: 'usi-meadow',
+    name: 'USI Meadow',
+    mapboxStyle: 'mapbox://styles/wsos/cmp3t5asy000801r0hur2g7ef',
+    description: 'Design System: Green → Blue',
+    defaultMarkers: { color: '#2E86C8', size: 'large' }
   },
-  'vibrant-satellite': {
-    id: 'vibrant-satellite',
-    name: 'Vibrant Satellite',
-    mapboxStyle: 'mapbox/satellite-streets-v12',
-    description: 'High-detail satellite imagery with clear street overlays.',
-    defaultMarkers: { color: '#ff00ff', size: 'large' }
+  'usi-dusk-ds': {
+    id: 'usi-dusk-ds',
+    name: 'USI Dusk (System)',
+    mapboxStyle: 'mapbox://styles/wsos/cmp3t5azb000201pk0r92cp30',
+    description: 'Design System: Blue → Magenta',
+    defaultMarkers: { color: '#E5145B', size: 'large' }
   },
-  'minimal-mono': {
-    id: 'minimal-mono',
-    name: 'Minimal Mono',
-    mapboxStyle: 'mapbox/light-v11',
-    description: 'Minimalist grayscale map for professional reporting.',
-    defaultMarkers: { color: '#000000', size: 'large' }
+  'usi-ember': {
+    id: 'usi-ember',
+    name: 'USI Ember',
+    mapboxStyle: 'mapbox://styles/wsos/cmp3t5b5a001t01sh568se69v',
+    description: 'Design System: Orange → Magenta',
+    defaultMarkers: { color: '#E5145B', size: 'large' }
   },
-  'design-system-light': {
-    id: 'design-system-light',
-    name: 'Design System Light',
-    mapboxStyle: 'mapbox/light-v11',
-    description: 'Clean theme based on Paper and Graphite colors. No labels optimized.',
-    defaultMarkers: { color: '#E5145B', size: 'large' } // Magenta primary
+  'usi-forest': {
+    id: 'usi-forest',
+    name: 'USI Forest',
+    mapboxStyle: 'mapbox://styles/wsos/cmp3t5bjk001u01sh2dp42eln',
+    description: 'Design System: Orange → Green',
+    defaultMarkers: { color: '#5BB733', size: 'large' }
   },
-  'design-system-dark': {
-    id: 'design-system-dark',
-    name: 'Design System Dark',
-    mapboxStyle: 'mapbox/dark-v11',
-    description: 'Professional dark theme using Ink and Slate colors.',
-    defaultMarkers: { color: '#2E86C8', size: 'large' } // Blue primary
+  'usi-ocean': {
+    id: 'usi-ocean',
+    name: 'USI Ocean',
+    mapboxStyle: 'mapbox://styles/wsos/cmp3t5bwq000a01qzg9za40x6',
+    description: 'Design System: Blue → Green',
+    defaultMarkers: { color: '#5BB733', size: 'large' }
   },
-  'dusk-neutral': {
-    id: 'dusk-neutral',
-    name: 'Dusk Neutral',
-    mapboxStyle: 'wsos/cmp1a9imt004q01s77wg97clu',
-    description: 'Comprehensive Dusk palette (Full Layer Coverage) on map. Neutral markers on top.',
+  'usi-dusk-v2': {
+    id: 'usi-dusk-v2',
+    name: 'USI Atmospheric Dusk V2 (Original)',
+    mapboxStyle: 'mapbox://styles/wsos/cmp1qfjr2000w01s64fa7cjro',
+    description: 'Original premium dark theme.',
     defaultMarkers: { color: '#1B1C1E', size: 'large' }
+  },
+  'usi-light': {
+    id: 'usi-light',
+    name: 'USI Light',
+    mapboxStyle: 'mapbox://styles/wsos/cmp2bn2iz001c01s685ctejb7',
+    description: 'Clean and professional USI light theme.',
+    defaultMarkers: { color: '#E5145B', size: 'large' }
   }
 };

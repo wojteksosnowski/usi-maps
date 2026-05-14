@@ -4,6 +4,10 @@ echo   usi-maps ^| Premium Map Generator
 echo ========================================
 echo.
 
+:: Kill any process on port 3000
+echo [0/2] Cleaning up port 3000...
+powershell -Command "Get-NetTCPConnection -LocalPort 3000 -ErrorAction SilentlyContinue | Select-Object -ExpandProperty OwningProcess | ForEach-Object { Stop-Process -Id $_ -Force -ErrorAction SilentlyContinue }"
+
 :: Start the server in a new window
 echo [1/2] Starting API server...
 :: Using cmd /c to ensure npm runs correctly in the new window

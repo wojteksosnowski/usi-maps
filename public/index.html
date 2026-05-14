@@ -24,10 +24,10 @@
             width: 350px;
             background-color: var(--card);
             border-right: 1px solid #334155;
-            padding: 2rem;
+            padding: 1.5rem;
             display: flex;
             flex-direction: column;
-            gap: 1.5rem;
+            gap: 1.2rem;
             overflow-y: auto;
         }
         .main {
@@ -39,23 +39,23 @@
             align-items: center;
             justify-content: center;
         }
-        h1 { font-size: 1.5rem; margin: 0; color: var(--primary); }
-        .input-group { display: flex; flex-direction: column; gap: 0.5rem; }
-        label { font-size: 0.875rem; color: var(--muted); }
+        h1 { font-size: 1.2rem; margin: 0; color: var(--primary); }
+        .input-group { display: flex; flex-direction: column; gap: 0.4rem; }
+        label { font-size: 0.8rem; color: var(--muted); }
         input, select {
             background: #0f172a;
             border: 1px solid #334155;
             color: white;
-            padding: 0.75rem;
-            border-radius: 0.5rem;
-            font-size: 1rem;
+            padding: 0.6rem;
+            border-radius: 0.4rem;
+            font-size: 0.9rem;
         }
         button {
             background-color: var(--primary);
             color: white;
             border: none;
-            padding: 1rem;
-            border-radius: 0.5rem;
+            padding: 0.8rem;
+            border-radius: 0.4rem;
             font-weight: 600;
             cursor: pointer;
             transition: opacity 0.2s;
@@ -97,15 +97,22 @@
     <div class="sidebar">
         <h1>usi-maps Preview</h1>
         <div class="input-group">
-            <label>Theme</label>
+            <label>Design System Themes</label>
             <select id="theme">
-                <option value="standard-light">Standard Light</option>
-                <option value="deep-dark">Deep Dark</option>
-                <option value="vibrant-satellite">Vibrant Satellite</option>
-                <option value="minimal-mono">Minimal Mono</option>
-                <option value="design-system-light">Design System Light (Clean)</option>
-                <option value="design-system-dark">Design System Dark (Ink)</option>
-                <option value="dusk-neutral" selected>USI Atmospheric Dusk (Default)</option>
+                <option value="usi-sunrise">USI Sunrise (Mag → Ora)</option>
+                <option value="usi-meadow">USI Meadow (Gre → Blu)</option>
+                <option value="usi-dusk-ds" selected>USI Dusk (Blu → Mag)</option>
+                <option value="usi-ember">USI Ember (Ora → Mag)</option>
+                <option value="usi-forest">USI Forest (Ora → Gre)</option>
+                <optgroup label="Core Themes">
+                    <option value="usi-dusk-v2">USI Atmospheric Dusk V2</option>
+                    <option value="usi-light">USI Light</option>
+                </optgroup>
+                <optgroup label="Standard Mapbox">
+                    <option value="standard-light">Mapbox Standard Light</option>
+                    <option value="deep-dark">Mapbox Deep Dark</option>
+                    <option value="vibrant-satellite">Satellite Streets</option>
+                </optgroup>
             </select>
         </div>
         <div class="input-group">
@@ -121,18 +128,50 @@
             <input type="number" id="zoom" value="12" step="0.1">
         </div>
         <div class="input-group">
-            <label>Markers (lng,lat,val;...)</label>
-            <input type="text" id="markers" placeholder="21.01,52.22,75">
-            <small style="color: var(--muted); font-size: 0.7rem;">Value 0-100 controls color (green-red) and size.</small>
+            <label>Circle Size</label>
+            <input type="range" id="circleSize" min="1" max="20" value="2.5" step="0.5">
         </div>
-        <button id="generate">Generate Preview</button>
-        <button id="load-csv" style="background: var(--accent); margin-top: 0.5rem;">Visualize krakow.csv (Clustered Pins)</button>
-        <button id="load-hybrid" style="background: #10b981; margin-top: 0.5rem;">Hybrid Rendering (Unlimited Circles)</button>
+        <div class="input-group">
+            <label>Line Thickness</label>
+            <input type="range" id="lineThickness" min="0.1" max="5" value="1.0" step="0.1">
+        </div>
+        <div class="input-group">
+            <label>Connection Method</label>
+            <select id="connectionMethod">
+                <option value="none">None (Points Only)</option>
+                <option value="first">First Closest (Simple Pairs)</option>
+                <option value="second" selected>Second Closest (Web Effect)</option>
+            </select>
+        </div>
+        <div class="input-group">
+            <label>Topography Category</label>
+            <select id="topographyCategory">
+                <option value="">None (Disabled)</option>
+                <option value="ocenaLOG">Łączna Ocena (Log)</option>
+                <option value="Wnętrza">Wnętrza</option>
+                <option value="Balkony">Balkony</option>
+                <option value="Fasady">Fasady</option>
+                <option value="Teren">Teren</option>
+                <option value="Mieszkania">Mieszkania</option>
+            </select>
+        </div>
+        <div class="input-group" style="flex-direction: row; align-items: center; gap: 0.8rem;">
+            <input type="checkbox" id="showBoundaries" style="width: auto;">
+            <label for="showBoundaries" style="margin: 0; cursor: pointer;">Show Cadastral Boundaries</label>
+        </div>
+        <div class="input-group">
+            <label>Markers (lng,lat,val,ocena;...)</label>
+            <input type="text" id="markers" placeholder="19.93,50.06,75,Wstępna">
+            <small style="color: var(--muted); font-size: 0.7rem;">Ocena: 'Wstępna' or 'Standard'. Val 0-100.</small>
+        </div>
+        <button id="generate">Static Map (Mapbox API)</button>
+        <button id="load-hybrid" style="background: #10b981; margin-top: 0.5rem;">Hybrid Render (Manual Markers)</button>
+        <button id="load-csv" style="background: #6366f1; margin-top: 0.5rem;">Visualize krakow.csv (Mock)</button>
         <div id="status" class="status">Ready</div>
     </div>
     <div class="main">
         <div class="preview-container" id="preview">
-            <p style="color: var(--muted)">Click Generate to see the map</p>
+            <p style="color: var(--muted)">Select theme and click a button</p>
         </div>
         <div class="params-panel" id="params">
             Parameters and URL will appear here...
@@ -140,13 +179,12 @@
     </div>
 
     <script>
-        const generateBtn = document.getElementById('generate');
         const preview = document.getElementById('preview');
         const paramsPanel = document.getElementById('params');
         const status = document.getElementById('status');
 
-        generateBtn.onclick = async () => {
-            status.innerText = 'Generating...';
+        document.getElementById('generate').onclick = async () => {
+            status.innerText = 'Generating Static Map...';
             const theme = document.getElementById('theme').value;
             const lat = document.getElementById('lat').value;
             const lng = document.getElementById('lng').value;
@@ -168,70 +206,79 @@
                     }, null, 2);
                     status.innerText = 'Generated successfully';
                 } else {
-                    status.innerText = 'Error: No URL returned';
+                    status.innerText = 'Error: ' + (data.error || 'No URL returned');
                 }
             } catch (err) {
                 status.innerText = 'Error connecting to server';
                 console.error(err);
             }
         };
-        document.getElementById('load-csv').addEventListener('click', async () => {
-            const theme = document.getElementById('theme').value;
-            const status = document.getElementById('status');
-            
-            status.textContent = 'Processing CSV...';
-            status.className = 'status loading';
 
-            try {
-                const response = await fetch(`/map/csv?theme=${theme}`);
-                const data = await response.json();
-                
-                if (data.error) throw new Error(data.error);
-
-                document.getElementById('preview').innerHTML = `<img src="${data.url}" alt="Map Preview">`;
-                document.getElementById('params').innerText = JSON.stringify({
-                    points_total: data.points_count,
-                    clusters_shown: data.clusters_count,
-                    theme: theme,
-                    mapbox_url: data.url
-                }, null, 2);
-
-                status.textContent = `Visualized ${data.points_count} points in ${data.clusters_count} clusters`;
-                status.className = 'status success';
-            } catch (err) {
-                status.textContent = 'Error: ' + err.message;
-                status.className = 'status error';
-            }
-        });
         document.getElementById('load-hybrid').addEventListener('click', async () => {
             const theme = document.getElementById('theme').value;
             const lat = document.getElementById('lat').value;
             const lng = document.getElementById('lng').value;
             const zoom = document.getElementById('zoom').value;
-            const status = document.getElementById('status');
-            const preview = document.getElementById('preview');
-            const params = document.getElementById('params');
+            const circleSize = document.getElementById('circleSize').value;
+            const lineThickness = document.getElementById('lineThickness').value;
+            const connectionMethod = document.getElementById('connectionMethod').value;
+            const topographyCategory = document.getElementById('topographyCategory').value;
+            const showBoundaries = document.getElementById('showBoundaries').checked;
+            let markers = document.getElementById('markers').value;
             
-            status.textContent = 'Rendering Hybrid Map (Directly from server)...';
+            if (!markers) {
+                markers = `19.94,50.06,80,Wstępna;19.93,50.07,40,Standard;19.92,50.05,60,Wstępna`;
+            }
+
+            status.textContent = 'Rendering Hybrid Map (Server-side composite)...';
             status.className = 'status loading';
 
-            // In hybrid mode, the endpoint returns the image itself
             const timestamp = Date.now();
-            const imageUrl = `/map/hybrid?theme=${theme}&lat=${lat}&lng=${lng}&zoom=${zoom}&t=${timestamp}`;
+            const imageUrl = `/map?theme=${theme}&lat=${lat}&lng=${lng}&zoom=${zoom}&circleSize=${circleSize}&lineThickness=${lineThickness}&connectionMethod=${connectionMethod}&topographyCategory=${topographyCategory}&showBoundaries=${showBoundaries}&markers=${encodeURIComponent(markers)}&t=${timestamp}`;
             
             preview.innerHTML = `<img src="${imageUrl}" alt="Hybrid Map Preview">`;
             
-            params.innerText = JSON.stringify({
+            paramsPanel.innerText = JSON.stringify({
                 mode: 'Hybrid (Server-side composite)',
-                data_source: 'krakow.csv',
-                points_processed: 'All (674)',
-                renderer: 'Sharp + SVG',
+                renderer: 'Sharp + SVG Overlay',
+                parameters: { theme, lat, lng, zoom, circleSize, lineThickness, connectionMethod, topographyCategory },
                 api_endpoint: imageUrl
             }, null, 2);
 
-            status.textContent = `Visualized all points using Hybrid Rendering`;
+            status.textContent = `Visualized points using Hybrid Rendering`;
             status.className = 'status success';
         });
+
+        document.getElementById('load-csv').onclick = async () => {
+            const theme = document.getElementById('theme').value;
+            const lat = document.getElementById('lat').value;
+            const lng = document.getElementById('lng').value;
+            const zoom = document.getElementById('zoom').value;
+            const circleSize = document.getElementById('circleSize').value;
+            const lineThickness = document.getElementById('lineThickness').value;
+            const connectionMethod = document.getElementById('connectionMethod').value;
+            const topographyCategory = document.getElementById('topographyCategory').value;
+            const showBoundaries = document.getElementById('showBoundaries').checked;
+            
+            status.textContent = 'Loading mock data from krakow.csv...';
+            status.className = 'status loading';
+
+            const timestamp = Date.now();
+            const imageUrl = `/map/demo?theme=${theme}&lat=${lat}&lng=${lng}&zoom=${zoom}&circleSize=${circleSize}&lineThickness=${lineThickness}&connectionMethod=${connectionMethod}&topographyCategory=${topographyCategory}&showBoundaries=${showBoundaries}&t=${timestamp}`;
+            
+            preview.innerHTML = `<img src="${imageUrl}" alt="CSV Map Preview">`;
+            
+            paramsPanel.innerText = JSON.stringify({
+                mode: 'Demo (Server-side CSV)',
+                source: 'reference/krakow.csv',
+                viewport: { lat, lng, zoom },
+                overlay: { circleSize, lineThickness, connectionMethod, topographyCategory },
+                api_endpoint: imageUrl
+            }, null, 2);
+
+            status.textContent = `Visualized data from krakow.csv`;
+            status.className = 'status success';
+        };
     </script>
 </body>
 </html>
